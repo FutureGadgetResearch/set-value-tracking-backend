@@ -1,0 +1,2299 @@
+{
+  "Base Set": {
+    "base1": {
+      "set_name": "Base Set (1st Edition)",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "base1s": {
+      "set_name": "Base Set (Shadowless)",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "base1u": {
+      "set_name": "Base Set (Unlimited)",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "jungle": {
+      "set_name": "Jungle",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "fossil": {
+      "set_name": "Fossil",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "base2": {
+      "set_name": "Base Set 2",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "teamrocket": {
+      "set_name": "Team Rocket",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "gymheroes": {
+      "set_name": "Gym Heroes",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "gymchallenge": {
+      "set_name": "Gym Challenge",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    }
+  },
+  "Neo": {
+    "neo1": {
+      "set_name": "Neo Genesis",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "neo2": {
+      "set_name": "Neo Discovery",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "neo3": {
+      "set_name": "Neo Revelation",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    },
+    "neo4": {
+      "set_name": "Neo Destiny",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0833
+        }
+      ]
+    },
+    "ecard1": {
+      "set_name": "Expedition Base Set",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        }
+      ]
+    },
+    "ecard2": {
+      "set_name": "Aquapolis",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "ecard3": {
+      "set_name": "Skyridge",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3333
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    }
+  },
+  "EX": {
+    "ex1": {
+      "set_name": "EX Ruby & Sapphire",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1667
+        }
+      ]
+    },
+    "ex2": {
+      "set_name": "EX Sandstorm",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1667
+        }
+      ]
+    },
+    "ex3": {
+      "set_name": "EX Dragon",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1667
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "ex4": {
+      "set_name": "EX Team Magma vs Team Aqua",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        }
+      ]
+    },
+    "ex5": {
+      "set_name": "EX Hidden Legends",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        }
+      ]
+    },
+    "ex6": {
+      "set_name": "EX Fire Red & Leaf Green",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "ex7": {
+      "set_name": "EX Team Rocket Returns",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex8": {
+      "set_name": "EX Deoxys",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex9": {
+      "set_name": "EX Emerald",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0667
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        }
+      ]
+    },
+    "ex10": {
+      "set_name": "EX Unseen Forces",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0667
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex11": {
+      "set_name": "EX Delta Species",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex12": {
+      "set_name": "EX Legend Maker",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0667
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex13": {
+      "set_name": "EX Holon Phantoms",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0093
+        },
+        {
+          "rarity": "gold_star",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "ex14": {
+      "set_name": "EX Crystal Guardians",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "ex15": {
+      "set_name": "EX Dragon Frontiers",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "ex16": {
+      "set_name": "EX Power Keepers",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1667
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    }
+  },
+  "Diamond & Pearl": {
+    "dp1": {
+      "set_name": "Diamond & Pearl",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "dp2": {
+      "set_name": "Mysterious Treasures",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "dp3": {
+      "set_name": "Secret Wonders",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "dp4": {
+      "set_name": "Great Encounters",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "dp5": {
+      "set_name": "Majestic Dawn",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "dp6": {
+      "set_name": "Legends Awakened",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    },
+    "dp7": {
+      "set_name": "Stormfront",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    }
+  },
+  "Platinum": {
+    "pl1": {
+      "set_name": "Platinum",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "pl2": {
+      "set_name": "Rising Rivals",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    },
+    "pl3": {
+      "set_name": "Supreme Victors",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    },
+    "pl4": {
+      "set_name": "Arceus",
+      "rarities": [
+        {
+          "rarity": "rare_lv_x",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "arceus_ar",
+          "pull_rate_per_pack": 0.25
+        }
+      ]
+    }
+  },
+  "HeartGold & SoulSilver": {
+    "hgss1": {
+      "set_name": "HeartGold & SoulSilver",
+      "rarities": [
+        {
+          "rarity": "rare_prime",
+          "pull_rate_per_pack": 0.1429
+        },
+        {
+          "rarity": "rare_legend",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "hgss2": {
+      "set_name": "Unleashed",
+      "rarities": [
+        {
+          "rarity": "rare_prime",
+          "pull_rate_per_pack": 0.1429
+        },
+        {
+          "rarity": "rare_legend",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "hgss3": {
+      "set_name": "Undaunted",
+      "rarities": [
+        {
+          "rarity": "rare_prime",
+          "pull_rate_per_pack": 0.1429
+        },
+        {
+          "rarity": "rare_legend",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "hgss4": {
+      "set_name": "Triumphant",
+      "rarities": [
+        {
+          "rarity": "rare_prime",
+          "pull_rate_per_pack": 0.1429
+        },
+        {
+          "rarity": "rare_legend",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "col1": {
+      "set_name": "Call of Legends",
+      "rarities": [
+        {
+          "rarity": "shiny_pokemon",
+          "pull_rate_per_pack": 0.0556
+        }
+      ]
+    }
+  },
+  "Black & White": {
+    "bw1": {
+      "set_name": "Black & White",
+      "rarities": [
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw2": {
+      "set_name": "Emerging Powers",
+      "rarities": [
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "bw3": {
+      "set_name": "Noble Victories",
+      "rarities": [
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw4": {
+      "set_name": "Next Destinies",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw5": {
+      "set_name": "Dark Explorers",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw6": {
+      "set_name": "Dragons Exalted",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw7": {
+      "set_name": "Boundaries Crossed",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw8": {
+      "set_name": "Plasma Storm",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw9": {
+      "set_name": "Plasma Freeze",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw10": {
+      "set_name": "Plasma Blast",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "bw11": {
+      "set_name": "Legendary Treasures",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "radiant_collection",
+          "pull_rate_per_pack": 1.0
+        }
+      ]
+    }
+  },
+  "XY": {
+    "xy1": {
+      "set_name": "XY",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "xy2": {
+      "set_name": "Flashfire",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy3": {
+      "set_name": "Furious Fists",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy4": {
+      "set_name": "Phantom Forces",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.0556
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy5": {
+      "set_name": "Primal Clash",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy6": {
+      "set_name": "Roaring Skies",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy7": {
+      "set_name": "Ancient Origins",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy8": {
+      "set_name": "BREAKthrough",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy9": {
+      "set_name": "BREAKpoint",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "secret_rare",
+          "pull_rate_per_pack": 0.0139
+        }
+      ]
+    },
+    "xy9.5": {
+      "set_name": "Generations",
+      "rarities": [
+        {
+          "rarity": "rare_ex",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "radiant_collection",
+          "pull_rate_per_pack": 0.0833
+        }
+      ]
+    }
+  },
+  "Sun & Moon": {
+    "sm01": {
+      "set_name": "Sun & Moon Base Set",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1115
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0282
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.014
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0147
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0081
+        }
+      ]
+    },
+    "sm02": {
+      "set_name": "Guardians Rising",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1111
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0287
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0072
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0129
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0081
+        }
+      ]
+    },
+    "sm03": {
+      "set_name": "Burning Shadows",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1095
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0269
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0124
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0159
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0095
+        }
+      ]
+    },
+    "sm3.5": {
+      "set_name": "Shining Legends",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1185
+        },
+        {
+          "rarity": "shiny_rare",
+          "pull_rate_per_pack": 0.0872
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.028
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0117
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.015
+        },
+        {
+          "rarity": "secret_rare_pokemon",
+          "pull_rate_per_pack": 0.0091
+        }
+      ]
+    },
+    "sm04": {
+      "set_name": "Crimson Invasion",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.083
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0327
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0118
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0111
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0111
+        }
+      ]
+    },
+    "sm05": {
+      "set_name": "Ultra Prism",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.08
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.0872
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0233
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0197
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0149
+        },
+        {
+          "rarity": "secret_rare_pokemon",
+          "pull_rate_per_pack": 0.0018
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.006
+        }
+      ]
+    },
+    "sm06": {
+      "set_name": "Forbidden Light",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.0744
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.0791
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0229
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0127
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0134
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0071
+        }
+      ]
+    },
+    "sm07": {
+      "set_name": "Celestial Storm",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1034
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.0547
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0209
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0169
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0122
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0088
+        }
+      ]
+    },
+    "sm7.5": {
+      "set_name": "Dragon Majesty",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1542
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.108
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0308
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0386
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0231
+        },
+        {
+          "rarity": "secret_rare_pokemon",
+          "pull_rate_per_pack": 0.0026
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0051
+        }
+      ]
+    },
+    "sm08": {
+      "set_name": "Lost Thunder",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1028
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.1217
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0314
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0126
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0133
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0102
+        }
+      ]
+    },
+    "sm09": {
+      "set_name": "Team Up",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.0929
+        },
+        {
+          "rarity": "prism_star",
+          "pull_rate_per_pack": 0.0596
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0241
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0241
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0103
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0069
+        }
+      ]
+    },
+    "sm9.5": {
+      "set_name": "Detective Pikachu",
+      "rarities": [
+        {
+          "rarity": "holo_rare",
+          "pull_rate_per_pack": 0.3708
+        }
+      ]
+    },
+    "sm10": {
+      "set_name": "Unbroken Bonds",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.0988
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0311
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.01
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.009
+        }
+      ]
+    },
+    "sm11": {
+      "set_name": "Unified Minds",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1272
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0319
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0117
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0144
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.009
+        }
+      ]
+    },
+    "sm11.5": {
+      "set_name": "Hidden Fates",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1506
+        },
+        {
+          "rarity": "shiny_rare",
+          "pull_rate_per_pack": 0.212
+        },
+        {
+          "rarity": "shiny_gx",
+          "pull_rate_per_pack": 0.1019
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0146
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0342
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.0171
+        },
+        {
+          "rarity": "secret_rare_pokemon",
+          "pull_rate_per_pack": 0.0076
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0101
+        }
+      ]
+    },
+    "sm12": {
+      "set_name": "Cosmic Eclipse",
+      "rarities": [
+        {
+          "rarity": "rare_gx",
+          "pull_rate_per_pack": 0.1193
+        },
+        {
+          "rarity": "ultra_rare_pokemon",
+          "pull_rate_per_pack": 0.0268
+        },
+        {
+          "rarity": "ultra_rare_trainer",
+          "pull_rate_per_pack": 0.0099
+        },
+        {
+          "rarity": "character_rare",
+          "pull_rate_per_pack": 0.1011
+        },
+        {
+          "rarity": "rainbow_rare",
+          "pull_rate_per_pack": 0.015
+        },
+        {
+          "rarity": "secret_rare_trainer",
+          "pull_rate_per_pack": 0.0089
+        }
+      ]
+    }
+  },
+  "Sword & Shield": {
+    "swsh01": {
+      "set_name": "Sword & Shield Base Set",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.142
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0505
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0089
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0193
+        }
+      ]
+    },
+    "swsh02": {
+      "set_name": "Rebel Clash",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1265
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0643
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0073
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0245
+        }
+      ]
+    },
+    "swsh03": {
+      "set_name": "Darkness Ablaze",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1258
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0657
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0113
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0207
+        }
+      ]
+    },
+    "swsh3.5": {
+      "set_name": "Champion's Path",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1573
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0731
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0163
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0289
+        }
+      ]
+    },
+    "swsh04": {
+      "set_name": "Vivid Voltage",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.127
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0727
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0099
+        },
+        {
+          "rarity": "amazing_rare",
+          "pull_rate_per_pack": 0.0571
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0238
+        }
+      ]
+    },
+    "swsh4.5": {
+      "set_name": "Shining Fates",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1084
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0594
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.897
+        },
+        {
+          "rarity": "amazing_rare",
+          "pull_rate_per_pack": 0.0576
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.021
+        }
+      ]
+    },
+    "swsh05": {
+      "set_name": "Battle Styles",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.098
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.014
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0178
+        }
+      ]
+    },
+    "swsh06": {
+      "set_name": "Chilling Reign",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.125
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0595
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0105
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0222
+        }
+      ]
+    },
+    "swsh07": {
+      "set_name": "Evolving Skies",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.107
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0393
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0069
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0223
+        }
+      ]
+    },
+    "swsh7.5": {
+      "set_name": "Celebrations",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1257
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0037
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.025
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.25
+        }
+      ]
+    },
+    "swsh08": {
+      "set_name": "Fusion Strike",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.167
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.07
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.014
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0363
+        }
+      ]
+    },
+    "swsh09": {
+      "set_name": "Brilliant Stars",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1494
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0751
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0568
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0185
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0278
+        }
+      ]
+    },
+    "swsh10": {
+      "set_name": "Astral Radiance",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1512
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0744
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1066
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0185
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0244
+        }
+      ]
+    },
+    "swsh10.5": {
+      "set_name": "Pokemon GO",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.159
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0997
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0674
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0278
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0377
+        }
+      ]
+    },
+    "swsh11": {
+      "set_name": "Lost Origin",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1309
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.093
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0963
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0185
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.032
+        }
+      ]
+    },
+    "swsh12": {
+      "set_name": "Silver Tempest",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1295
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0895
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1151
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0185
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0292
+        }
+      ]
+    },
+    "swsh12.5": {
+      "set_name": "Crown Zenith",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1626
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.1589
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1276
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0098
+        }
+      ]
+    }
+  },
+  "Scarlet & Violet": {
+    "sv01": {
+      "set_name": "Scarlet & Violet Base Set",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1376
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0657
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0767
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0315
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0185
+        }
+      ]
+    },
+    "sv02": {
+      "set_name": "Paldea Evolved",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1372
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0664
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.077
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0317
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0176
+        }
+      ]
+    },
+    "sv03": {
+      "set_name": "Obsidian Flames",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1361
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0663
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.076
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0313
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0192
+        }
+      ]
+    },
+    "sv3.5": {
+      "set_name": "151",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1328
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0644
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.085
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0311
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0194
+        }
+      ]
+    },
+    "sv04": {
+      "set_name": "Paradox Rift",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1557
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.06664
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.077
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0211
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0122
+        }
+      ]
+    },
+    "sv4.5": {
+      "set_name": "Paldean Fates",
+      "rarities": [
+        {
+          "rarity": "shiny_rare",
+          "pull_rate_per_pack": 0.2544
+        },
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1589
+        },
+        {
+          "rarity": "shiny_ultra_rare",
+          "pull_rate_per_pack": 0.0772
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0722
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0172
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0161
+        }
+      ]
+    },
+    "sv05": {
+      "set_name": "Temporal Forces",
+      "rarities": [
+        {
+          "rarity": "ace_spec",
+          "pull_rate_per_pack": 0.05
+        },
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1683
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0667
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0772
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0117
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0072
+        }
+      ]
+    },
+    "sv06": {
+      "set_name": "Twilight Masquerade",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1693
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0661
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0773
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0117
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0068
+        }
+      ]
+    },
+    "sv6.5": {
+      "set_name": "Shrouded Fable",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1693
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1667
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0149
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.00694
+        }
+      ]
+    },
+    "sv07": {
+      "set_name": "Stellar Crown",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.169
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0675
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0779
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0111
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0073
+        }
+      ]
+    },
+    "sv08": {
+      "set_name": "Surging Sparks",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1694
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0674
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0767
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0115
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0053
+        }
+      ]
+    },
+    "sv8.5": {
+      "set_name": "Prismatic Evolutions",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1651
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0746
+        },
+        {
+          "rarity": "master_ball_foil",
+          "pull_rate_per_pack": 0.0492
+        },
+        {
+          "rarity": "ace_spec",
+          "pull_rate_per_pack": 0.0468
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0222
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0056
+        }
+      ]
+    },
+    "sv09": {
+      "set_name": "Journey Together",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2029
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0654
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.085
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0116
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0073
+        }
+      ]
+    },
+    "sv10": {
+      "set_name": "Destined Rivals",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.1983
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0639
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.0829
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0106
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0067
+        }
+      ]
+    },
+    "svbb": {
+      "set_name": "Black Bolt",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0583
+        },
+        {
+          "rarity": "master_ball_foil",
+          "pull_rate_per_pack": 0.0514
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1639
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0125
+        },
+        {
+          "rarity": "black_white_rare",
+          "pull_rate_per_pack": 0.002
+        }
+      ]
+    },
+    "svwf": {
+      "set_name": "White Flare",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2111
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0583
+        },
+        {
+          "rarity": "master_ball_foil",
+          "pull_rate_per_pack": 0.0514
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1639
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0125
+        },
+        {
+          "rarity": "black_white_rare",
+          "pull_rate_per_pack": 0.002
+        }
+      ]
+    }
+  },
+  "Mega Evolutions": {
+    "me01": {
+      "set_name": "Mega Evolution Base",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2091
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0823
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1089
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0099
+        },
+        {
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0008
+        }
+      ]
+    },
+    "me02": {
+      "set_name": "Mega Evolution Phantasmal Flames",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2077
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0806
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1097
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.00125
+        },
+        {
+          "rarity": "mega_hyper_rare",
+          "pull_rate_per_pack": 0.0008
+        }
+      ]
+    },
+    "me2.5": {
+      "set_name": "Mega Evolution Ascended Heroes",
+      "rarities": [
+        {
+          "rarity": "double_rare",
+          "pull_rate_per_pack": 0.2037
+        },
+        {
+          "rarity": "ultra_rare",
+          "pull_rate_per_pack": 0.0481
+        },
+        {
+          "rarity": "illustration_rare",
+          "pull_rate_per_pack": 0.1125
+        },
+        {
+          "rarity": "special_illustration_rare",
+          "pull_rate_per_pack": 0.0144
+        },
+        {
+          "rarity": "mega_hyper_rare",
+          "pull_rate_per_pack": 0.0019
+        },
+        {
+          "rarity": "mega_attack_rare",
+          "pull_rate_per_pack": 0.0347
+        }
+      ]
+    }
+  }
+}

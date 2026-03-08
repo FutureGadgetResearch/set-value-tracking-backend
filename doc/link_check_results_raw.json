@@ -1,0 +1,3622 @@
+{
+  "Diamond & Pearl": {
+    "dp1": [],
+    "dp2": [],
+    "dp3": [
+      {
+        "number": "131",
+        "name": "Gardevoir LV.X",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-secret-wonders/gardevoir-lvx-131",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=gardevoir+lvx+131"
+      }
+    ],
+    "dp4": [
+      {
+        "number": "105",
+        "name": "Dialga LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-great-encounters/dialga-lvx-105",
+        "note": "status 403"
+      },
+      {
+        "number": "106",
+        "name": "Palkia LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-great-encounters/palkia-lvx-106",
+        "note": "status 403"
+      }
+    ],
+    "dp5": [
+      {
+        "number": "097",
+        "name": "Garchomp LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/garchomp-lvx-97",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Glaceon LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/glaceon-lvx-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Leafeon LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/leafeon-lvx-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Porygon-Z LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/porygon-z-lvx-100",
+        "note": "status 403"
+      }
+    ],
+    "dp6": [
+      {
+        "number": "140",
+        "name": "Azelf LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/azelf-lvx-140",
+        "note": "status 403"
+      },
+      {
+        "number": "141",
+        "name": "Gliscor LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/gliscor-lvx-141",
+        "note": "status 403"
+      },
+      {
+        "number": "142",
+        "name": "Magnezone LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/magnezone-lvx-142",
+        "note": "status 403"
+      },
+      {
+        "number": "143",
+        "name": "Mesprit LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/mesprit-lvx-143",
+        "note": "status 403"
+      },
+      {
+        "number": "144",
+        "name": "Mewtwo LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/mewtwo-lvx-144",
+        "note": "status 403"
+      },
+      {
+        "number": "145",
+        "name": "Rhyperior LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/rhyperior-lvx-145",
+        "note": "status 403"
+      },
+      {
+        "number": "146",
+        "name": "Uxie LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legends-awakened/uxie-lvx-146",
+        "note": "status 403"
+      }
+    ],
+    "dp7": [
+      {
+        "number": "096",
+        "name": "Dusknoir LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/dusknoir-lvx-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Heatran LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/heatran-lvx-97",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Machamp LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/machamp-lvx-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Raichu LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/raichu-lvx-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Regigigas LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/regigigas-lvx-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Charmander",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/charmander-101",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Charmeleon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/charmeleon-102",
+        "note": "status 403"
+      },
+      {
+        "number": "103",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/charizard-103",
+        "note": "status 403"
+      },
+      {
+        "number": "SH1",
+        "name": "Drifloon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/drifloon-sh1",
+        "note": "status 403"
+      },
+      {
+        "number": "SH2",
+        "name": "Duskull",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/duskull-sh2",
+        "note": "status 403"
+      },
+      {
+        "number": "SH3",
+        "name": "Voltorb",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-stormfront/voltorb-sh3",
+        "note": "status 403"
+      }
+    ]
+  },
+  "Platinum": {
+    "pl1": [
+      {
+        "number": "122",
+        "name": "Dialga G LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/dialga-g-lvx-122",
+        "note": "status 403"
+      },
+      {
+        "number": "123",
+        "name": "Drapion LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/drapion-lvx-123",
+        "note": "status 403"
+      },
+      {
+        "number": "124",
+        "name": "Giratina LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/giratina-lvx-124",
+        "note": "status 403"
+      },
+      {
+        "number": "125",
+        "name": "Palkia G LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/palkia-g-lvx-125",
+        "note": "status 403"
+      },
+      {
+        "number": "126",
+        "name": "Shaymin LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/shaymin-lvx-126",
+        "note": "status 403"
+      },
+      {
+        "number": "127",
+        "name": "Shaymin LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/shaymin-lvx-127",
+        "note": "status 403"
+      },
+      {
+        "number": "128",
+        "name": "Electabuzz",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/electabuzz-128",
+        "note": "status 403"
+      },
+      {
+        "number": "129",
+        "name": "Hitmonchan",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/hitmonchan-129",
+        "note": "status 403"
+      },
+      {
+        "number": "130",
+        "name": "Scyther",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/scyther-130",
+        "note": "status 403"
+      },
+      {
+        "number": "SH4",
+        "name": "Lotad",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/lotad-sh4",
+        "note": "status 403"
+      },
+      {
+        "number": "SH5",
+        "name": "Swablu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/swablu-sh5",
+        "note": "status 403"
+      },
+      {
+        "number": "SH6",
+        "name": "Vulpix",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-platinum/vulpix-sh6",
+        "note": "status 403"
+      }
+    ],
+    "pl2": [
+      {
+        "number": "103",
+        "name": "Alakazam 4 LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/alakazam-4-lvx-103",
+        "note": "status 403"
+      },
+      {
+        "number": "104",
+        "name": "Floatzel GL LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/floatzel-gl-lvx-104",
+        "note": "status 403"
+      },
+      {
+        "number": "105",
+        "name": "Flygon LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/flygon-lvx-105",
+        "note": "status 403"
+      },
+      {
+        "number": "106",
+        "name": "Gallade 4 LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/gallade-4-lvx-106",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Hippowdon LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/hippowdon-lvx-107",
+        "note": "status 403"
+      },
+      {
+        "number": "108",
+        "name": "Infernape 4 LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/infernape-4-lvx-108",
+        "note": "status 403"
+      },
+      {
+        "number": "109",
+        "name": "Luxray GL LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/luxray-gl-lvx-109",
+        "note": "status 403"
+      },
+      {
+        "number": "110",
+        "name": "Mismagius GL LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/mismagius-gl-lvx-110",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Snorlax LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/snorlax-lvx-111",
+        "note": "status 403"
+      },
+      {
+        "number": "112",
+        "name": "Pikachu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/pikachu-112",
+        "note": "status 403"
+      },
+      {
+        "number": "113",
+        "name": "Flying Pikachu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/flying-pikachu-113",
+        "note": "status 403"
+      },
+      {
+        "number": "114",
+        "name": "Surfing Pikachu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/surfing-pikachu-114",
+        "note": "status 403"
+      },
+      {
+        "number": "RT1",
+        "name": "Fan Rotom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/fan-rotom-rt1",
+        "note": "status 403"
+      },
+      {
+        "number": "RT2",
+        "name": "Frost Rotom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/frost-rotom-rt2",
+        "note": "status 403"
+      },
+      {
+        "number": "RT3",
+        "name": "Heat Rotom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/heat-rotom-rt3",
+        "note": "status 403"
+      },
+      {
+        "number": "RT4",
+        "name": "Mow Rotom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/mow-rotom-rt4",
+        "note": "status 403"
+      },
+      {
+        "number": "RT5",
+        "name": "Wash Rotom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/wash-rotom-rt5",
+        "note": "status 403"
+      }
+    ],
+    "pl3": [
+      {
+        "number": "141",
+        "name": "Absol G LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/absol-g-lvx-141",
+        "note": "status 403"
+      },
+      {
+        "number": "142",
+        "name": "Blaziken FB LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/blaziken-fb-lvx-142",
+        "note": "status 403"
+      },
+      {
+        "number": "143",
+        "name": "Charizard G LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/charizard-g-lvx-143",
+        "note": "status 403"
+      },
+      {
+        "number": "144",
+        "name": "Electivire FB LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/electivire-fb-lvx-144",
+        "note": "status 403"
+      },
+      {
+        "number": "145",
+        "name": "Garchomp C LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/garchomp-c-lvx-145",
+        "note": "status 403"
+      },
+      {
+        "number": "146",
+        "name": "Rayquaza C LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/rayquaza-c-lvx-146",
+        "note": "status 403"
+      },
+      {
+        "number": "147",
+        "name": "Staraptor FB LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/staraptor-fb-lvx-147",
+        "note": "status 403"
+      },
+      {
+        "number": "149",
+        "name": "Moltres",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/moltres-149",
+        "note": "status 403"
+      },
+      {
+        "number": "150",
+        "name": "Zapdos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/zapdos-150",
+        "note": "status 403"
+      },
+      {
+        "number": "SH8",
+        "name": "Relicanth",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/relicanth-sh8",
+        "note": "status 403"
+      }
+    ],
+    "pl4": [
+      {
+        "number": "094",
+        "name": "Arceus LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-lvx-94",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Arceus LV.X",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-lvx-95",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=arceus+lvx+95"
+      },
+      {
+        "number": "096",
+        "name": "Arceus LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-lvx-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Gengar LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/gengar-lvx-97",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Salamence LV.X",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/salamence-lvx-98",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=salamence+lvx+98"
+      },
+      {
+        "number": "099",
+        "name": "Tangrowth LV.X",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/tangrowth-lvx-99",
+        "note": "status 403"
+      },
+      {
+        "number": "AR1",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar1",
+        "note": "status 403"
+      },
+      {
+        "number": "AR2",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar2",
+        "note": "status 403"
+      },
+      {
+        "number": "AR4",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar4",
+        "note": "status 403"
+      },
+      {
+        "number": "AR5",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar5",
+        "note": "status 403"
+      },
+      {
+        "number": "AR7",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar7",
+        "note": "status 403"
+      },
+      {
+        "number": "AR8",
+        "name": "Arceus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/arceus-ar8",
+        "note": "status 403"
+      },
+      {
+        "number": "SH10",
+        "name": "Bagon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/bagon-sh10",
+        "note": "status 403"
+      },
+      {
+        "number": "SH11",
+        "name": "Ponyta",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/ponyta-sh11",
+        "note": "status 403"
+      },
+      {
+        "number": "SH12",
+        "name": "Shinx",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-arceus/shinx-sh12",
+        "note": "status 403"
+      }
+    ]
+  },
+  "HeartGold & SoulSilver": {
+    "hgss1": [
+      {
+        "number": "105",
+        "name": "Ampharos Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/ampharos-prime-105",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=ampharos+prime+105"
+      },
+      {
+        "number": "106",
+        "name": "Blissey Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/blissey-prime-106",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Donphan Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/donphan-prime-107",
+        "note": "status 403"
+      },
+      {
+        "number": "108",
+        "name": "Feraligatr Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/feraligatr-prime-108",
+        "note": "status 403"
+      },
+      {
+        "number": "109",
+        "name": "Meganium Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/meganium-prime-109",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=meganium+prime+109"
+      },
+      {
+        "number": "110",
+        "name": "Typhlosion Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/typhlosion-prime-110",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Ho-Oh LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/ho-oh-legend-111",
+        "note": "status 403"
+      },
+      {
+        "number": "112",
+        "name": "Ho-Oh LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/ho-oh-legend-112",
+        "note": "status 403"
+      },
+      {
+        "number": "114",
+        "name": "Lugia LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/lugia-legend-114",
+        "note": "status 403"
+      },
+      {
+        "number": "ONE",
+        "name": "Alph Lithograph",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/alph-lithograph-one",
+        "note": "status 403"
+      }
+    ],
+    "hgss2": [
+      {
+        "number": "084",
+        "name": "Crobat Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/crobat-prime-84",
+        "note": "status 403"
+      },
+      {
+        "number": "085",
+        "name": "Kingdra Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/kingdra-prime-85",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=kingdra+prime+85"
+      },
+      {
+        "number": "086",
+        "name": "Lanturn Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/lanturn-prime-86",
+        "note": "status 403"
+      },
+      {
+        "number": "087",
+        "name": "Steelix Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/steelix-prime-87",
+        "note": "status 403"
+      },
+      {
+        "number": "088",
+        "name": "Tyranitar Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/tyranitar-prime-88",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=tyranitar+prime+88"
+      },
+      {
+        "number": "089",
+        "name": "Ursaring Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/ursaring-prime-89",
+        "note": "status 403"
+      },
+      {
+        "number": "090",
+        "name": "Entei & Raikou LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/entei-raikou-legend-90",
+        "note": "status 403"
+      },
+      {
+        "number": "091",
+        "name": "Entei & Raikou LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/entei-raikou-legend-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Raikou & Suicune LEGEND",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/raikou-suicune-legend-92",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=raikou+suicune+legend+92"
+      },
+      {
+        "number": "093",
+        "name": "Raikou & Suicune LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/raikou-suicune-legend-93",
+        "note": "status 403"
+      },
+      {
+        "number": "094",
+        "name": "Suicune & Entei LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/suicune-entei-legend-94",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Suicune & Entei LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/suicune-entei-legend-95",
+        "note": "status 403"
+      }
+    ],
+    "hgss3": [
+      {
+        "number": "081",
+        "name": "Espeon Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/espeon-prime-81",
+        "note": "status 403"
+      },
+      {
+        "number": "082",
+        "name": "Houndoom Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/houndoom-prime-82",
+        "note": "status 403"
+      },
+      {
+        "number": "083",
+        "name": "Raichu Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/raichu-prime-83",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=raichu+prime+83"
+      },
+      {
+        "number": "084",
+        "name": "Scizor Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/scizor-prime-84",
+        "note": "status 403"
+      },
+      {
+        "number": "085",
+        "name": "Slowking Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/slowking-prime-85",
+        "note": "status 403"
+      },
+      {
+        "number": "086",
+        "name": "Umbreon Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/umbreon-prime-86",
+        "note": "status 403"
+      },
+      {
+        "number": "087",
+        "name": "Kyogre & Groudon LEGEND",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/kyogre-groudon-legend-87",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=kyogre+groudon+legend+87"
+      },
+      {
+        "number": "088",
+        "name": "Kyogre & Groudon LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/kyogre-groudon-legend-88",
+        "note": "status 403"
+      },
+      {
+        "number": "089",
+        "name": "Rayquaza & Deoxys LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/rayquaza-deoxys-legend-89",
+        "note": "status 403"
+      },
+      {
+        "number": "090",
+        "name": "Rayquaza & Deoxys LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/rayquaza-deoxys-legend-90",
+        "note": "status 403"
+      }
+    ],
+    "hgss4": [
+      {
+        "number": "091",
+        "name": "Absol Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/absol-prime-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Celebi Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/celebi-prime-92",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=celebi+prime+92"
+      },
+      {
+        "number": "093",
+        "name": "Electrode Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/electrode-prime-93",
+        "note": "status 403"
+      },
+      {
+        "number": "094",
+        "name": "Gengar Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/gengar-prime-94",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Machamp Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/machamp-prime-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Magnezone Prime",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/magnezone-prime-96",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=magnezone+prime+96"
+      },
+      {
+        "number": "097",
+        "name": "Mew Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/mew-prime-97",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Yanmega Prime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/yanmega-prime-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Darkrai & Cresselia LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/darkrai-cresselia-legend-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Darkrai & Cresselia LEGEND",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/darkrai-cresselia-legend-100",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=darkrai+cresselia+legend+100"
+      },
+      {
+        "number": "101",
+        "name": "Palkia & Dialga LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/palkia-dialga-legend-101",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Palkia & Dialga LEGEND",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/palkia-dialga-legend-102",
+        "note": "status 403"
+      },
+      {
+        "number": "FOUR",
+        "name": "Alph Lithograph",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-triumphant/alph-lithograph-four",
+        "note": "status 403"
+      }
+    ],
+    "col1": [
+      {
+        "number": "SL2",
+        "name": "Dialga",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/dialga-sl2",
+        "note": "status 403"
+      },
+      {
+        "number": "SL3",
+        "name": "Entei",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/entei-sl3",
+        "note": "status 403"
+      },
+      {
+        "number": "SL5",
+        "name": "Ho-Oh",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/ho-oh-sl5",
+        "note": "status 403"
+      },
+      {
+        "number": "SL6",
+        "name": "Kyogre",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/kyogre-sl6",
+        "note": "status 403"
+      },
+      {
+        "number": "SL7",
+        "name": "Lugia",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/lugia-sl7",
+        "note": "status 403"
+      },
+      {
+        "number": "SL9",
+        "name": "Raikou",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/raikou-sl9",
+        "note": "status 403"
+      },
+      {
+        "number": "SL10",
+        "name": "Rayquaza",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/rayquaza-sl10",
+        "note": "status 403"
+      },
+      {
+        "number": "SL11",
+        "name": "Suicune",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-call-of-legends/suicune-sl11",
+        "note": "status 403"
+      }
+    ]
+  },
+  "Base Set": {
+    "base1": [
+      {
+        "number": "001",
+        "name": "Alakazam",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/alakazam-1",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=alakazam+1"
+      },
+      {
+        "number": "002",
+        "name": "Blastoise",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/blastoise-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Chansey",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/chansey-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/charizard-4",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Clefairy",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/clefairy-5",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=clefairy+5"
+      },
+      {
+        "number": "006",
+        "name": "Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/gyarados-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Hitmonchan",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/hitmonchan-7",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Machamp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/machamp-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Magneton",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/magneton-9",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=magneton+9"
+      },
+      {
+        "number": "010",
+        "name": "Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/mewtwo-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Nidoking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/nidoking-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/ninetales-12",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Poliwrath",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/poliwrath-13",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=poliwrath+13"
+      },
+      {
+        "number": "014",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/raichu-14",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Venusaur",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/venusaur-15",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Zapdos",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-1st-edition/zapdos-16",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=zapdos+16"
+      }
+    ],
+    "base1s": [
+      {
+        "number": "001",
+        "name": "Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/alakazam-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Blastoise",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/blastoise-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Chansey",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/chansey-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Charizard",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/charizard-4",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=charizard+4"
+      },
+      {
+        "number": "005",
+        "name": "Clefairy",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/clefairy-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/gyarados-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Hitmonchan",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/hitmonchan-7",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Machamp",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/machamp-8",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=machamp+8"
+      },
+      {
+        "number": "009",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/magneton-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/mewtwo-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Nidoking",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/nidoking-11",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=nidoking+11"
+      },
+      {
+        "number": "012",
+        "name": "Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/ninetales-12",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Poliwrath",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/poliwrath-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/raichu-14",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Venusaur",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/venusaur-15",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=venusaur+15"
+      },
+      {
+        "number": "016",
+        "name": "Zapdos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-shadowless/zapdos-16",
+        "note": "status 403"
+      }
+    ],
+    "base1u": [
+      {
+        "number": "001",
+        "name": "Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/alakazam-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Blastoise",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/blastoise-2",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/charizard-4",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Hitmonchan",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/hitmonchan-7",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Machamp",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/machamp-8",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=machamp+8"
+      },
+      {
+        "number": "009",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/magneton-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/mewtwo-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Nidoking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/nidoking-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/ninetales-12",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/raichu-14",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Zapdos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/zapdos-16",
+        "note": "status 403"
+      }
+    ],
+    "jungle": [
+      {
+        "number": "001",
+        "name": "Clefable",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/clefable-1",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Flareon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/flareon-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Jolteon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/jolteon-4",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Mr. Mime",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/mr-mime-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Nidoqueen",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/nidoqueen-7",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Pinsir",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/pinsir-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Scyther",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/scyther-10",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Vaporeon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/vaporeon-12",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Venomoth",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/venomoth-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Victreebel",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/victreebel-14",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Wigglytuff",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/wigglytuff-16",
+        "note": "status 403"
+      }
+    ],
+    "fossil": [
+      {
+        "number": "001",
+        "name": "Aerodactyl",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/aerodactyl-1",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Gengar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/gengar-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Haunter",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/haunter-6",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Hypno",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/hypno-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Kabutops",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/kabutops-9",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/magneton-11",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Muk",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/muk-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/raichu-14",
+        "note": "status 403"
+      }
+    ],
+    "base2": [
+      {
+        "number": "001",
+        "name": "Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/alakazam-1",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Chansey",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/chansey-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/charizard-4",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Clefairy",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/clefairy-6",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Hitmonchan",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/hitmonchan-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/magneton-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/mewtwo-10",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Nidoqueen",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/nidoqueen-12",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/ninetales-13",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Poliwrath",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/poliwrath-15",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/raichu-16",
+        "note": "status 403"
+      },
+      {
+        "number": "018",
+        "name": "Venusaur",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/venusaur-18",
+        "note": "status 403"
+      },
+      {
+        "number": "019",
+        "name": "Wigglytuff",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set-2/wigglytuff-19",
+        "note": "status 403"
+      }
+    ],
+    "teamrocket": [
+      {
+        "number": "001",
+        "name": "Dark Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-alakazam-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Dark Arbok",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-arbok-2",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Dark Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-charizard-4",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Dark Dragonite",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-dragonite-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Dark Dugtrio",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-dugtrio-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Dark Golbat",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-golbat-7",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Dark Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-gyarados-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Dark Hypno",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-hypno-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Dark Machamp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-machamp-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Dark Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-magneton-11",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Dark Vileplume",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-vileplume-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Dark Weezing",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-weezing-14",
+        "note": "status 403"
+      }
+    ],
+    "gymheroes": [
+      {
+        "number": "001",
+        "name": "Blaine's Moltres",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/blaines-moltres-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Brock's Rhydon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/brocks-rhydon-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Erika's Clefable",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/erikas-clefable-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Erika's Dragonair",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/erikas-dragonair-4",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=erikas+dragonair+4"
+      },
+      {
+        "number": "005",
+        "name": "Erika's Vileplume",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/erikas-vileplume-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Lt. Surge's Electabuzz",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/lt-surges-electabuzz-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Lt. Surge's Fearow",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/lt-surges-fearow-7",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=lt+surges+fearow+7"
+      },
+      {
+        "number": "008",
+        "name": "Lt. Surge's Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/lt-surges-magneton-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Misty's Seadra",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/mistys-seadra-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Misty's Tentacruel",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/mistys-tentacruel-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Rocket's Hitmonchan",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/rockets-hitmonchan-11",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=rockets+hitmonchan+11"
+      },
+      {
+        "number": "012",
+        "name": "Rocket's Moltres",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/rockets-moltres-12",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Rocket's Scyther",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/rockets-scyther-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Sabrina's Gengar",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/sabrinas-gengar-14",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=sabrinas+gengar+14"
+      }
+    ],
+    "gymchallenge": [
+      {
+        "number": "001",
+        "name": "Blaine's Arcanine",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/blaines-arcanine-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Blaine's Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/blaines-charizard-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Brock's Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/brocks-ninetales-3",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Erika's Venusaur",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/erikas-venusaur-4",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=erikas+venusaur+4"
+      },
+      {
+        "number": "005",
+        "name": "Giovanni's Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/giovannis-gyarados-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Giovanni's Machamp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/giovannis-machamp-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Giovanni's Nidoking",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/giovannis-nidoking-7",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=giovannis+nidoking+7"
+      },
+      {
+        "number": "008",
+        "name": "Giovanni's Persian",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/giovannis-persian-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Koga's Beedrill",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/kogas-beedrill-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Koga's Ditto",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/kogas-ditto-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Lt. Surge's Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/lt-surges-raichu-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Misty's Golduck",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/mistys-golduck-12",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=mistys+golduck+12"
+      },
+      {
+        "number": "013",
+        "name": "Misty's Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/mistys-gyarados-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Rocket's Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/rockets-mewtwo-14",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Rocket's Zapdos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/rockets-zapdos-15",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Sabrina's Alakazam",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-challenge/sabrinas-alakazam-16",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=sabrinas+alakazam+16"
+      }
+    ]
+  },
+  "Neo": {
+    "neo1": [
+      {
+        "number": "001",
+        "name": "Ampharos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/ampharos-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Azumarill",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/azumarill-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Bellossom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/bellossom-3",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Feraligatr",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/feraligatr-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Heracross",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/heracross-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Jumpluff",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/jumpluff-7",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Meganium",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/meganium-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Pichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/pichu-12",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Slowking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/slowking-14",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Steelix",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/steelix-15",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Togetic",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/togetic-16",
+        "note": "status 403"
+      }
+    ],
+    "neo2": [
+      {
+        "number": "001",
+        "name": "Espeon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/espeon-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Forretress",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/forretress-2",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Houndoom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/houndoom-4",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Houndour",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/houndour-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Kabutops",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/kabutops-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Magnemite",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/magnemite-7",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Poliwrath",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/poliwrath-9",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Smeargle",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/smeargle-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Tyranitar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/tyranitar-12",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Unown A",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/unown-a-14",
+        "note": "status 403"
+      },
+      {
+        "number": "015",
+        "name": "Ursaring",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/ursaring-15",
+        "note": "status 403"
+      },
+      {
+        "number": "017",
+        "name": "Yanma",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-discovery/yanma-17",
+        "note": "status 403"
+      }
+    ],
+    "neo3": [
+      {
+        "number": "001",
+        "name": "Ampharos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/ampharos-1",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Entei",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/entei-6",
+        "note": "status 403"
+      },
+      {
+        "number": "008",
+        "name": "Houndoom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/houndoom-8",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Jumpluff",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/jumpluff-9",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Misdreavus",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/misdreavus-11",
+        "note": "status 403"
+      },
+      {
+        "number": "012",
+        "name": "Porygon2",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/porygon2-12",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Suicune",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/suicune-14",
+        "note": "status 403"
+      },
+      {
+        "number": "066",
+        "name": "Shining Magikarp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-revelation/shining-magikarp-66",
+        "note": "status 403"
+      }
+    ],
+    "neo4": [
+      {
+        "number": "001",
+        "name": "Dark Ampharos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/dark-ampharos-1",
+        "note": "status 403"
+      },
+      {
+        "number": "002",
+        "name": "Dark Crobat",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/dark-crobat-2",
+        "note": "status 403"
+      },
+      {
+        "number": "004",
+        "name": "Dark Espeon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/dark-espeon-4",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Dark Gengar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/dark-gengar-6",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Light Azumarill",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/light-azumarill-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Light Dragonite",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/light-dragonite-14",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Miracle Energy",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/miracle-energy-16",
+        "note": "status 403"
+      },
+      {
+        "number": "106",
+        "name": "Shining Celebi",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-celebi-106",
+        "note": "status 403"
+      },
+      {
+        "number": "108",
+        "name": "Shining Kabutops",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-kabutops-108",
+        "note": "status 403"
+      },
+      {
+        "number": "109",
+        "name": "Shining Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-mewtwo-109",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Shining Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-raichu-111",
+        "note": "status 403"
+      },
+      {
+        "number": "112",
+        "name": "Shining Steelix",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-steelix-112",
+        "note": "status 403"
+      },
+      {
+        "number": "113",
+        "name": "Shining Tyranitar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-destiny/shining-tyranitar-113",
+        "note": "status 403"
+      }
+    ],
+    "ecard1": [
+      {
+        "number": "002",
+        "name": "Ampharos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/ampharos-2",
+        "note": "status 403"
+      },
+      {
+        "number": "003",
+        "name": "Arbok",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/arbok-3",
+        "note": "status 403"
+      },
+      {
+        "number": "005",
+        "name": "Butterfree",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/butterfree-5",
+        "note": "status 403"
+      },
+      {
+        "number": "006",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/charizard-6",
+        "note": "status 403"
+      },
+      {
+        "number": "007",
+        "name": "Clefable",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/clefable-7",
+        "note": "status 403"
+      },
+      {
+        "number": "009",
+        "name": "Dragonite",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/dragonite-9",
+        "note": "status 403"
+      },
+      {
+        "number": "010",
+        "name": "Dugtrio",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/dugtrio-10",
+        "note": "status 403"
+      },
+      {
+        "number": "011",
+        "name": "Fearow",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/fearow-11",
+        "note": "status 403"
+      },
+      {
+        "number": "013",
+        "name": "Gengar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/gengar-13",
+        "note": "status 403"
+      },
+      {
+        "number": "014",
+        "name": "Golem",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/golem-14",
+        "note": "status 403"
+      },
+      {
+        "number": "016",
+        "name": "Machamp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/machamp-16",
+        "note": "status 403"
+      },
+      {
+        "number": "017",
+        "name": "Magby",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/magby-17",
+        "note": "status 403"
+      },
+      {
+        "number": "018",
+        "name": "Meganium",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/meganium-18",
+        "note": "status 403"
+      },
+      {
+        "number": "020",
+        "name": "Mewtwo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/mewtwo-20",
+        "note": "status 403"
+      },
+      {
+        "number": "021",
+        "name": "Ninetales",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/ninetales-21",
+        "note": "status 403"
+      },
+      {
+        "number": "022",
+        "name": "Pichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/pichu-22",
+        "note": "status 403"
+      },
+      {
+        "number": "024",
+        "name": "Poliwrath",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/poliwrath-24",
+        "note": "status 403"
+      },
+      {
+        "number": "025",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/raichu-25",
+        "note": "status 403"
+      },
+      {
+        "number": "026",
+        "name": "Rapidash",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/rapidash-26",
+        "note": "status 403"
+      },
+      {
+        "number": "028",
+        "name": "Typhlosion",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/typhlosion-28",
+        "note": "status 403"
+      },
+      {
+        "number": "029",
+        "name": "Tyranitar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/tyranitar-29",
+        "note": "status 403"
+      },
+      {
+        "number": "031",
+        "name": "Vileplume",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/vileplume-31",
+        "note": "status 403"
+      },
+      {
+        "number": "032",
+        "name": "Weezing",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/weezing-32",
+        "note": "status 403"
+      }
+    ],
+    "ecard2": [
+      {
+        "number": "H1",
+        "name": "Ampharos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/ampharos-h1",
+        "note": "status 403"
+      },
+      {
+        "number": "H3",
+        "name": "Ariados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/ariados-h3",
+        "note": "status 403"
+      },
+      {
+        "number": "H5",
+        "name": "Bellossom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/bellossom-h5",
+        "note": "status 403"
+      },
+      {
+        "number": "H7",
+        "name": "Electrode",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/electrode-h7",
+        "note": "status 403"
+      },
+      {
+        "number": "H8",
+        "name": "Entei",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/entei-h8",
+        "note": "status 403"
+      },
+      {
+        "number": "H10",
+        "name": "Exeggutor",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/exeggutor-h10",
+        "note": "status 403"
+      },
+      {
+        "number": "H11",
+        "name": "Houndoom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/houndoom-h11",
+        "note": "status 403"
+      },
+      {
+        "number": "H12",
+        "name": "Hypno",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/hypno-h12",
+        "note": "status 403"
+      },
+      {
+        "number": "H14",
+        "name": "Kingdra",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/kingdra-h14",
+        "note": "status 403"
+      },
+      {
+        "number": "H15",
+        "name": "Lanturn",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/lanturn-h15",
+        "note": "status 403"
+      },
+      {
+        "number": "H17",
+        "name": "Muk",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/muk-h17",
+        "note": "status 403"
+      },
+      {
+        "number": "H18",
+        "name": "Nidoking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/nidoking-h18",
+        "note": "status 403"
+      },
+      {
+        "number": "H20",
+        "name": "Octillery",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/octillery-h20",
+        "note": "status 403"
+      },
+      {
+        "number": "H21",
+        "name": "Scizor",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/scizor-h21",
+        "note": "status 403"
+      },
+      {
+        "number": "H22",
+        "name": "Slowking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/slowking-h22",
+        "note": "status 403"
+      },
+      {
+        "number": "H24",
+        "name": "Sudowoodo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/sudowoodo-h24",
+        "note": "status 403"
+      },
+      {
+        "number": "H25",
+        "name": "Suicune",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/suicune-h25",
+        "note": "status 403"
+      },
+      {
+        "number": "H26",
+        "name": "Tentacruel",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/tentacruel-h26",
+        "note": "status 403"
+      },
+      {
+        "number": "H28",
+        "name": "Tyranitar",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/tyranitar-h28",
+        "note": "status 403"
+      },
+      {
+        "number": "H29",
+        "name": "Umbreon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/umbreon-h29",
+        "note": "status 403"
+      },
+      {
+        "number": "H31",
+        "name": "Vileplume",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/vileplume-h31",
+        "note": "status 403"
+      },
+      {
+        "number": "H32",
+        "name": "Zapdos",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/zapdos-h32",
+        "note": "status 403"
+      },
+      {
+        "number": "148",
+        "name": "Crystal Kingdra",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/crystal-kingdra-148",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=crystal+kingdra+148"
+      },
+      {
+        "number": "149",
+        "name": "Crystal Lugia",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/crystal-lugia-149",
+        "note": "status 403"
+      },
+      {
+        "number": "150",
+        "name": "Crystal Nidoking",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/crystal-nidoking-150",
+        "note": "status 403"
+      }
+    ],
+    "ecard3": [
+      {
+        "number": "H1",
+        "name": "Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/alakazam-h1",
+        "note": "status 403"
+      },
+      {
+        "number": "H2",
+        "name": "Arcanine",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/arcanine-h2",
+        "note": "status 403"
+      },
+      {
+        "number": "H4",
+        "name": "Beedrill",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/beedrill-h4",
+        "note": "status 403"
+      },
+      {
+        "number": "H5",
+        "name": "Crobat",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crobat-h5",
+        "note": "status 403"
+      },
+      {
+        "number": "H7",
+        "name": "Flareon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/flareon-h7",
+        "note": "status 403"
+      },
+      {
+        "number": "H8",
+        "name": "Forretress",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/forretress-h8",
+        "note": "status 403"
+      },
+      {
+        "number": "H10",
+        "name": "Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/gyarados-h10",
+        "note": "status 403"
+      },
+      {
+        "number": "H11",
+        "name": "Houndoom",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/houndoom-h11",
+        "note": "status 403"
+      },
+      {
+        "number": "H13",
+        "name": "Kabutops",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/kabutops-h13",
+        "note": "status 403"
+      },
+      {
+        "number": "H14",
+        "name": "Ledian",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/ledian-h14",
+        "note": "status 403"
+      },
+      {
+        "number": "H15",
+        "name": "Machamp",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/machamp-h15",
+        "note": "status 403"
+      },
+      {
+        "number": "H17",
+        "name": "Magcargo",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/magcargo-h17",
+        "note": "status 403"
+      },
+      {
+        "number": "H18",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/magneton-h18",
+        "note": "status 403"
+      },
+      {
+        "number": "H19",
+        "name": "Magneton",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/magneton-h19",
+        "note": "status 403"
+      },
+      {
+        "number": "H21",
+        "name": "Nidoqueen",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/nidoqueen-h21",
+        "note": "status 403"
+      },
+      {
+        "number": "H22",
+        "name": "Piloswine",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/piloswine-h22",
+        "note": "status 403"
+      },
+      {
+        "number": "H24",
+        "name": "Poliwrath",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/poliwrath-h24",
+        "note": "status 403"
+      },
+      {
+        "number": "H25",
+        "name": "Raichu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/raichu-h25",
+        "note": "status 403"
+      },
+      {
+        "number": "H27",
+        "name": "Rhydon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/rhydon-h27",
+        "note": "status 403"
+      },
+      {
+        "number": "H28",
+        "name": "Starmie",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/starmie-h28",
+        "note": "status 403"
+      },
+      {
+        "number": "H29",
+        "name": "Steelix",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/steelix-h29",
+        "note": "status 403"
+      },
+      {
+        "number": "H30",
+        "name": "Umbreon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/umbreon-h30",
+        "note": "status 403"
+      },
+      {
+        "number": "H32",
+        "name": "Xatu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/xatu-h32",
+        "note": "status 403"
+      },
+      {
+        "number": "145",
+        "name": "Crystal Celebi",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-celebi-145",
+        "note": "status 403"
+      },
+      {
+        "number": "146",
+        "name": "Crystal Charizard",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-charizard-146",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=crystal+charizard+146"
+      },
+      {
+        "number": "147",
+        "name": "Crystal Crobat",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-crobat-147",
+        "note": "status 403"
+      },
+      {
+        "number": "148",
+        "name": "Crystal Golem",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-golem-148",
+        "note": "status 403"
+      },
+      {
+        "number": "149",
+        "name": "Crystal Ho-Oh",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-ho-oh-149",
+        "note": "status 403"
+      },
+      {
+        "number": "150",
+        "name": "Crystal Kabutops",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-skyridge/crystal-kabutops-150",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=crystal+kabutops+150"
+      }
+    ]
+  },
+  "EX": {
+    "ex1": [
+      {
+        "number": "096",
+        "name": "Chansey ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/chansey-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Electabuzz ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/electabuzz-ex-97",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Lapras ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/lapras-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Magmar ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/magmar-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Mewtwo ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/mewtwo-ex-101",
+        "note": "status 403"
+      },
+      {
+        "number": "103",
+        "name": "Sneasel ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/sneasel-ex-103",
+        "note": "status 403"
+      }
+    ],
+    "ex2": [
+      {
+        "number": "095",
+        "name": "Aggron ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-sandstorm/aggron-ex-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Gardevoir ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-sandstorm/gardevoir-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Kabutops ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-sandstorm/kabutops-ex-97",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Typhlosion ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-sandstorm/typhlosion-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Wailord ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-sandstorm/wailord-ex-100",
+        "note": "status 403"
+      }
+    ],
+    "ex3": [
+      {
+        "number": "089",
+        "name": "Ampharos ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/ampharos-ex-89",
+        "note": "status 403"
+      },
+      {
+        "number": "091",
+        "name": "Golem ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/golem-ex-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Kingdra ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/kingdra-ex-92",
+        "note": "status 403"
+      },
+      {
+        "number": "094",
+        "name": "Latios ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/latios-ex-94",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Magcargo ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/magcargo-ex-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Muk ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/muk-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Charmander",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/charmander-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Charmeleon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon/charmeleon-99",
+        "note": "status 403"
+      }
+    ],
+    "ex4": [
+      {
+        "number": "089",
+        "name": "Blaziken ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/blaziken-ex-89",
+        "note": "status 403"
+      },
+      {
+        "number": "090",
+        "name": "Cradily ex",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/cradily-ex-90",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=cradily+ex+90"
+      },
+      {
+        "number": "091",
+        "name": "Entei ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/entei-ex-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Raikou ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/raikou-ex-92",
+        "note": "status 403"
+      },
+      {
+        "number": "093",
+        "name": "Sceptile ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/sceptile-ex-93",
+        "note": "status 403"
+      },
+      {
+        "number": "094",
+        "name": "Suicune ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/suicune-ex-94",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Swampert ex",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/swampert-ex-95",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=swampert+ex+95"
+      },
+      {
+        "number": "096",
+        "name": "Absol",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/absol-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Jirachi",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-magma-vs-team-aqua/jirachi-97",
+        "note": "status 403"
+      }
+    ],
+    "ex5": [
+      {
+        "number": "093",
+        "name": "Banette ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/banette-ex-93",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Metagross ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/metagross-ex-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Ninetales ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/ninetales-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Regirock ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/regirock-ex-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Registeel ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/registeel-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Vileplume ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/vileplume-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Groudon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-hidden-legends/groudon-102",
+        "note": "status 403"
+      }
+    ],
+    "ex6": [
+      {
+        "number": "104",
+        "name": "Blastoise ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/blastoise-ex-104",
+        "note": "status 403"
+      },
+      {
+        "number": "105",
+        "name": "Charizard ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/charizard-ex-105",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Electrode ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/electrode-ex-107",
+        "note": "status 403"
+      },
+      {
+        "number": "109",
+        "name": "Gyarados ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/gyarados-ex-109",
+        "note": "status 403"
+      },
+      {
+        "number": "110",
+        "name": "Mr. Mime ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/mr-mime-ex-110",
+        "note": "status 403"
+      },
+      {
+        "number": "112",
+        "name": "Venusaur ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/venusaur-ex-112",
+        "note": "status 403"
+      },
+      {
+        "number": "114",
+        "name": "Articuno ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/articuno-ex-114",
+        "note": "status 403"
+      },
+      {
+        "number": "115",
+        "name": "Moltres ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/moltres-ex-115",
+        "note": "status 403"
+      },
+      {
+        "number": "116",
+        "name": "Zapdos ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/zapdos-ex-116",
+        "note": "status 403"
+      }
+    ],
+    "ex7": [
+      {
+        "number": "096",
+        "name": "Rocket's Articuno ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-articuno-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Rocket's Entei ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-entei-ex-97",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Rocket's Hitmonchan ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-hitmonchan-ex-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Rocket's Mewtwo ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-mewtwo-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Rocket's Moltres ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-moltres-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Rocket's Scizor ex",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-scizor-ex-101",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=rockets+scizor+ex+101"
+      },
+      {
+        "number": "102",
+        "name": "Rocket's Scyther ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-scyther-ex-102",
+        "note": "status 403"
+      },
+      {
+        "number": "103",
+        "name": "Rocket's Sneasel ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-sneasel-ex-103",
+        "note": "status 403"
+      },
+      {
+        "number": "104",
+        "name": "Rocket's Snorlax ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-snorlax-ex-104",
+        "note": "status 403"
+      },
+      {
+        "number": "105",
+        "name": "Rocket's Suicune ex",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-suicune-ex-105",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=rockets+suicune+ex+105"
+      },
+      {
+        "number": "106",
+        "name": "Rocket's Zapdos ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/rockets-zapdos-ex-106",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Mudkip",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/mudkip-107",
+        "note": "status 403"
+      },
+      {
+        "number": "108",
+        "name": "Torchic",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/torchic-108",
+        "note": "status 403"
+      },
+      {
+        "number": "109",
+        "name": "Treecko",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/treecko-109",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=treecko+109"
+      },
+      {
+        "number": "110",
+        "name": "Charmeleon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/charmeleon-110",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Here Comes Team Rocket!",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/here-comes-team-rocket!-111",
+        "note": "status 403"
+      }
+    ],
+    "ex8": [
+      {
+        "number": "096",
+        "name": "Crobat ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/crobat-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Deoxys ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/deoxys-ex-97",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Deoxys ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/deoxys-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Hariyama ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/hariyama-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Rayquaza ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/rayquaza-ex-102",
+        "note": "status 403"
+      },
+      {
+        "number": "103",
+        "name": "Salamence ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/salamence-ex-103",
+        "note": "status 403"
+      },
+      {
+        "number": "105",
+        "name": "Latias",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/latias-105",
+        "note": "status 403"
+      },
+      {
+        "number": "106",
+        "name": "Latios",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/latios-106",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Rayquaza",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/rayquaza-107",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=rayquaza+107"
+      },
+      {
+        "number": "108",
+        "name": "Rocket's Raikou ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-deoxys/rockets-raikou-ex-108",
+        "note": "status 403"
+      }
+    ],
+    "ex9": [
+      {
+        "number": "090",
+        "name": "Altaria ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/altaria-ex-90",
+        "note": "status 403"
+      },
+      {
+        "number": "091",
+        "name": "Cacturne ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/cacturne-ex-91",
+        "note": "status 403"
+      },
+      {
+        "number": "093",
+        "name": "Deoxys ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/deoxys-ex-93",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Medicham ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/medicham-ex-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Milotic ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/milotic-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Regice ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/regice-ex-98",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Registeel ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/registeel-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Farfetch'd",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-emerald/farfetchd-107",
+        "note": "status 403"
+      }
+    ],
+    "ex10": [
+      {
+        "number": "102",
+        "name": "Espeon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/espeon-ex-102",
+        "note": "status 403"
+      },
+      {
+        "number": "104",
+        "name": "Ho-Oh ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/ho-oh-ex-104",
+        "note": "status 403"
+      },
+      {
+        "number": "107",
+        "name": "Politoed ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/politoed-ex-107",
+        "note": "status 403"
+      },
+      {
+        "number": "108",
+        "name": "Scizor ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/scizor-ex-108",
+        "note": "status 403"
+      },
+      {
+        "number": "110",
+        "name": "Typhlosion ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/typhlosion-ex-110",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Tyranitar ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/tyranitar-ex-111",
+        "note": "status 403"
+      },
+      {
+        "number": "113",
+        "name": "Entei",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/entei-113",
+        "note": "status 403"
+      },
+      {
+        "number": "114",
+        "name": "Raikou",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/raikou-114",
+        "note": "status 403"
+      },
+      {
+        "number": "115",
+        "name": "Suicune",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/suicune-115",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=suicune+115"
+      },
+      {
+        "number": "116",
+        "name": "Rocket's Persian ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/rockets-persian-ex-116",
+        "note": "status 403"
+      },
+      {
+        "number": "117",
+        "name": "Celebi ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-unseen-forces/celebi-ex-117",
+        "note": "status 403"
+      }
+    ],
+    "ex11": [
+      {
+        "number": "109",
+        "name": "Jolteon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/jolteon-ex-109",
+        "note": "status 403"
+      },
+      {
+        "number": "110",
+        "name": "Vaporeon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/vaporeon-ex-110",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Groudon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/groudon-111",
+        "note": "status 403"
+      },
+      {
+        "number": "112",
+        "name": "Kyogre",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/kyogre-112",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=kyogre+112"
+      },
+      {
+        "number": "113",
+        "name": "Metagross",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/metagross-113",
+        "note": "status 403"
+      },
+      {
+        "number": "114",
+        "name": "Azumarill",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-delta-species/azumarill-114",
+        "note": "status 403"
+      }
+    ],
+    "ex12": [
+      {
+        "number": "083",
+        "name": "Arcanine ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/arcanine-ex-83",
+        "note": "status 403"
+      },
+      {
+        "number": "085",
+        "name": "Banette ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/banette-ex-85",
+        "note": "status 403"
+      },
+      {
+        "number": "086",
+        "name": "Dustox ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/dustox-ex-86",
+        "note": "status 403"
+      },
+      {
+        "number": "087",
+        "name": "Flygon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/flygon-ex-87",
+        "note": "status 403"
+      },
+      {
+        "number": "089",
+        "name": "Walrein ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/walrein-ex-89",
+        "note": "status 403"
+      },
+      {
+        "number": "090",
+        "name": "Regice",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/regice-90",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=regice+90"
+      },
+      {
+        "number": "091",
+        "name": "Regirock",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/regirock-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Registeel",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/registeel-92",
+        "note": "status 403"
+      },
+      {
+        "number": "093",
+        "name": "Pikachu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-legend-maker/pikachu-93",
+        "note": "status 403"
+      }
+    ],
+    "ex13": [
+      {
+        "number": "100",
+        "name": "Mew ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/mew-ex-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Mightyena ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/mightyena-ex-101",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Gyarados",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/gyarados-102",
+        "note": "status 403"
+      },
+      {
+        "number": "103",
+        "name": "Mewtwo",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/mewtwo-103",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=mewtwo+103"
+      },
+      {
+        "number": "104",
+        "name": "Pikachu",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/pikachu-104",
+        "note": "status 403"
+      },
+      {
+        "number": "111",
+        "name": "Mew",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/mew-111",
+        "note": "status 403"
+      }
+    ],
+    "ex14": [
+      {
+        "number": "089",
+        "name": "Aggron ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/aggron-ex-89",
+        "note": "status 403"
+      },
+      {
+        "number": "091",
+        "name": "Delcatty ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/delcatty-ex-91",
+        "note": "status 403"
+      },
+      {
+        "number": "092",
+        "name": "Exploud ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/exploud-ex-92",
+        "note": "status 403"
+      },
+      {
+        "number": "093",
+        "name": "Groudon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/groudon-ex-93",
+        "note": "status 403"
+      },
+      {
+        "number": "095",
+        "name": "Kyogre ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/kyogre-ex-95",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Sceptile ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/sceptile-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "098",
+        "name": "Swampert ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/swampert-ex-98",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Alakazam",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/alakazam-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Celebi",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/celebi-100",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=celebi+100"
+      }
+    ],
+    "ex15": [
+      {
+        "number": "090",
+        "name": "Altaria ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/altaria-ex-90",
+        "note": "status 403"
+      },
+      {
+        "number": "091",
+        "name": "Dragonite ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/dragonite-ex-91",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Charizard",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/charizard-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Mew",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/mew-101",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=mew+101"
+      }
+    ],
+    "ex16": [
+      {
+        "number": "092",
+        "name": "Absol ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/absol-ex-92",
+        "note": "status 403"
+      },
+      {
+        "number": "093",
+        "name": "Claydol ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/claydol-ex-93",
+        "note": "status 403"
+      },
+      {
+        "number": "094",
+        "name": "Flygon ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/flygon-ex-94",
+        "note": "status 403"
+      },
+      {
+        "number": "096",
+        "name": "Salamence ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/salamence-ex-96",
+        "note": "status 403"
+      },
+      {
+        "number": "097",
+        "name": "Shiftry ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/shiftry-ex-97",
+        "note": "status 403"
+      },
+      {
+        "number": "099",
+        "name": "Walrein ex",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/walrein-ex-99",
+        "note": "status 403"
+      },
+      {
+        "number": "100",
+        "name": "Flareon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/flareon-100",
+        "note": "status 403"
+      },
+      {
+        "number": "101",
+        "name": "Jolteon",
+        "status": "HTTP_403",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/jolteon-101",
+        "note": "status 403"
+      },
+      {
+        "number": "102",
+        "name": "Vaporeon",
+        "status": "NOT_FOUND",
+        "url": "https://www.pricecharting.com/game/pokemon-power-keepers/vaporeon-102",
+        "note": "→ https://www.pricecharting.com/search-products?type=prices&q=vaporeon+102"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7288 @@
+{
+  "set_id": "sv07",
+  "months": [
+    {
+      "month": "2024-09",
+      "card_prices": [
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32.76,
+          "graded_prices": {
+            "psa_10": 266.99,
+            "grade_9": 71.23
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 2.71,
+          "graded_prices": {
+            "psa_10": 54.63,
+            "grade_9": 16.36
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 2.3,
+          "graded_prices": {
+            "psa_10": 64.78,
+            "grade_9": 18.99
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 54.38,
+            "grade_9": 16.3
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.37,
+          "graded_prices": {
+            "psa_10": 62.19,
+            "grade_9": 18.32
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.56,
+          "graded_prices": {
+            "psa_10": 223.95,
+            "grade_9": 60.11
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 3.1
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 39.5,
+          "graded_prices": {
+            "psa_10": 217.5,
+            "grade_9": 64.04
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 3.37,
+          "graded_prices": {
+            "psa_10": 55.48,
+            "grade_9": 16.58
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3,
+          "graded_prices": {
+            "psa_10": 58.61,
+            "grade_9": 17.39
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.96
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.89
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.12
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.24
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.24
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 2.25
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.11,
+          "graded_prices": {
+            "psa_10": 54.78,
+            "grade_9": 16.4
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.73,
+          "graded_prices": {
+            "psa_10": 73.74,
+            "grade_9": 21.3
+          }
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 6.17
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 33.61,
+          "graded_prices": {
+            "psa_10": 118.5,
+            "grade_9": 73.46
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.36,
+          "graded_prices": {
+            "psa_10": 203.06,
+            "grade_9": 54.71
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2.08
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 5.75,
+          "graded_prices": {
+            "psa_10": 59.8,
+            "grade_9": 17.7
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.74
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.28
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.32
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5.19
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 17.64,
+          "graded_prices": {
+            "psa_10": 204.16,
+            "grade_9": 54.99
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.75
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.1
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 2.5
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 4.8
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 62.1,
+          "graded_prices": {
+            "psa_10": 471.61,
+            "grade_9": 124.09
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.48
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 9.13
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 4.13,
+          "graded_prices": {
+            "psa_10": 70.01,
+            "grade_9": 20.34
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.56
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2.2
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.49,
+          "graded_prices": {
+            "psa_10": 98.97,
+            "grade_9": 27.82
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 116.11,
+          "graded_prices": {
+            "psa_10": 739.95,
+            "grade_9": 193.41
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 25.72,
+          "graded_prices": {
+            "psa_10": 193.26,
+            "grade_9": 52.18
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 9.43,
+          "graded_prices": {
+            "psa_10": 145.1,
+            "grade_9": 39.73
+          }
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 2.24
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.3
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 46.03,
+          "graded_prices": {
+            "psa_10": 271.29,
+            "grade_9": 72.33
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.12
+        }
+      ],
+      "ev": 81.17718316483516,
+      "set_value": 579,
+      "top_5_value": 297.35,
+      "top_5_ratio": 0.5135578583765112
+    },
+    {
+      "month": "2024-10",
+      "card_prices": [
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.08
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 2.58,
+          "graded_prices": {
+            "psa_10": 71,
+            "grade_9": 9.07
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.94,
+          "graded_prices": {
+            "psa_10": 64.5,
+            "grade_9": 15.08
+          }
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.38,
+          "graded_prices": {
+            "psa_10": 98.13,
+            "grade_9": 42
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 24.99,
+          "graded_prices": {
+            "psa_10": 87.75,
+            "grade_9": 32
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.61,
+          "graded_prices": {
+            "psa_10": 36,
+            "grade_9": 13.88
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 3.55,
+          "graded_prices": {
+            "psa_10": 39.99,
+            "grade_9": 24.99
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 13.39,
+          "graded_prices": {
+            "psa_10": 89.13,
+            "grade_9": 25.56
+          }
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 9.3
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.12
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 15.25,
+          "graded_prices": {
+            "psa_10": 118.01,
+            "grade_9": 33.16
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.25
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 40,
+          "graded_prices": {
+            "psa_10": 213,
+            "grade_9": 66.57
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.12,
+          "graded_prices": {
+            "psa_10": 41,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 3.85,
+          "graded_prices": {
+            "psa_10": 51.69,
+            "grade_9": 12.99
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.21
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.56
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 4.7
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 3.9
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 2.08
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.37
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.58,
+          "graded_prices": {
+            "psa_10": 66.02,
+            "grade_9": 15.32
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 105.38,
+          "graded_prices": {
+            "psa_10": 443.34,
+            "grade_9": 104.5
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 38.96,
+          "graded_prices": {
+            "psa_10": 133.88,
+            "grade_9": 40.3
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 22,
+          "graded_prices": {
+            "psa_10": 97.18,
+            "grade_9": 31.5
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2.35
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 3.72,
+          "graded_prices": {
+            "psa_10": 49.99,
+            "grade_9": 24.99
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 46,
+          "graded_prices": {
+            "psa_10": 226.56,
+            "grade_9": 65.5
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.16
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.84
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.63
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 2.88,
+          "graded_prices": {
+            "psa_10": 29.77,
+            "grade_9": 14.15
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 127.5,
+            "grade_9": 16.54
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32.56,
+          "graded_prices": {
+            "psa_10": 180.5,
+            "grade_9": 37
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.37
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 2.9,
+          "graded_prices": {
+            "psa_10": 14.5,
+            "grade_9": 14.5
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.57
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.13,
+          "graded_prices": {
+            "psa_10": 167.53,
+            "grade_9": 48
+          }
+        }
+      ],
+      "ev": 74.07603972827172,
+      "set_value": 520.08,
+      "top_5_value": 262.9,
+      "top_5_ratio": 0.5054991539763113
+    },
+    {
+      "month": "2024-11",
+      "card_prices": [
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.24
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.17
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.95
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2.16
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 23,
+          "graded_prices": {
+            "psa_10": 115,
+            "grade_9": 38
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.06,
+          "graded_prices": {
+            "psa_10": 71.5,
+            "grade_9": 22
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 21.5,
+          "graded_prices": {
+            "psa_10": 49.13,
+            "grade_9": 23.65
+          }
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.4
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.89
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.28
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.51
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.73
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 4.48,
+          "graded_prices": {
+            "psa_10": 54.36,
+            "grade_9": 14
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 7.49,
+          "graded_prices": {
+            "psa_10": 73.5,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 31.5,
+            "grade_9": 12.5
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.88
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 2.9,
+          "graded_prices": {
+            "psa_10": 36.99,
+            "grade_9": 11
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.37
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 4.6
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 3.82
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 16.04,
+          "graded_prices": {
+            "psa_10": 36,
+            "grade_9": 10
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 9.77,
+          "graded_prices": {
+            "psa_10": 21.5,
+            "grade_9": 9.25
+          }
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.62
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 2.85,
+          "graded_prices": {
+            "psa_10": 24.75,
+            "grade_9": 11
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.11
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.79
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 47.33,
+          "graded_prices": {
+            "psa_10": 187.21,
+            "grade_9": 50.78
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 2.75,
+          "graded_prices": {
+            "psa_10": 31.26,
+            "grade_9": 9.95
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.77
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.46
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 5.12
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 21.53,
+          "graded_prices": {
+            "psa_10": 75,
+            "grade_9": 36.99
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 87.39,
+          "graded_prices": {
+            "psa_10": 275,
+            "grade_9": 96.69
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.01
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 41.89,
+          "graded_prices": {
+            "psa_10": 164,
+            "grade_9": 45.25
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.83,
+          "graded_prices": {
+            "psa_10": 90,
+            "grade_9": 41
+          }
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.13,
+          "graded_prices": {
+            "psa_10": 35.7,
+            "grade_9": 9.93
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.57,
+          "graded_prices": {
+            "psa_10": 26.66,
+            "grade_9": 12.61
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 20.5,
+            "grade_9": 9.75
+          }
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 5.78
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.78
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3.08,
+          "graded_prices": {
+            "psa_10": 30,
+            "grade_9": 9.82
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 3.52,
+          "graded_prices": {
+            "psa_10": 30,
+            "grade_9": 11.9
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.65
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.45
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.95,
+          "graded_prices": {
+            "psa_10": 113.5,
+            "grade_9": 30.21
+          }
+        }
+      ],
+      "ev": 69.109095992008,
+      "set_value": 465.7899999999999,
+      "top_5_value": 231.39,
+      "top_5_ratio": 0.4967689302045987
+    },
+    {
+      "month": "2024-12",
+      "card_prices": [
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.21
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.45
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.19
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.82
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.43,
+          "graded_prices": {
+            "psa_10": 26,
+            "grade_9": 11.5
+          }
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 30.23,
+          "graded_prices": {
+            "psa_10": 90.5,
+            "grade_9": 25
+          }
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 22.85,
+          "graded_prices": {
+            "psa_10": 59.99,
+            "grade_9": 28
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 20.75,
+          "graded_prices": {
+            "psa_10": 51,
+            "grade_9": 20.26
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.33
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 6.13
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.51
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 3.94,
+          "graded_prices": {
+            "psa_10": 29.72,
+            "grade_9": 12.65
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.21,
+          "graded_prices": {
+            "psa_10": 106,
+            "grade_9": 26
+          }
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.71
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.4
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 10.77,
+          "graded_prices": {
+            "psa_10": 20,
+            "grade_9": 9.5
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 32,
+            "grade_9": 11.81
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 2.01
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.87
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.76
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 49.99,
+          "graded_prices": {
+            "psa_10": 179.5,
+            "grade_9": 54
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.04
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 74.25,
+          "graded_prices": {
+            "psa_10": 229.56,
+            "grade_9": 99
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.49,
+          "graded_prices": {
+            "psa_10": 30,
+            "grade_9": 10.85
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.7
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 13.31,
+          "graded_prices": {
+            "psa_10": 36.25,
+            "grade_9": 11.41
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.78
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 44.27,
+          "graded_prices": {
+            "psa_10": 172,
+            "grade_9": 46.25
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 7.58,
+          "graded_prices": {
+            "psa_10": 59.6,
+            "grade_9": 11.61
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 4.18,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 13.19
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.03,
+          "graded_prices": {
+            "psa_10": 30.75,
+            "grade_9": 10.33
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.45
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.05
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 59,
+            "grade_9": 18.77
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.96
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 2.85,
+          "graded_prices": {
+            "psa_10": 24.25,
+            "grade_9": 8.5
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.58,
+          "graded_prices": {
+            "psa_10": 26.75,
+            "grade_9": 9.5
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.37
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 4.99
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 22.85,
+          "graded_prices": {
+            "psa_10": 81,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.68
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.63
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.27
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 29.5,
+            "grade_9": 10.16
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 4.49,
+          "graded_prices": {
+            "psa_10": 46.26,
+            "grade_9": 11.51
+          }
+        }
+      ],
+      "ev": 69.59295004195805,
+      "set_value": 458.84999999999997,
+      "top_5_value": 226.95000000000002,
+      "top_5_ratio": 0.49460608041843745
+    },
+    {
+      "month": "2025-01",
+      "card_prices": [
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.5
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2.27
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 4.95,
+          "graded_prices": {
+            "psa_10": 33.36,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.82,
+          "graded_prices": {
+            "psa_10": 106.88,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18.99,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 17.91
+          }
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 4.39
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 4.63,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 14.01
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.93
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 83.05,
+          "graded_prices": {
+            "psa_10": 248.5,
+            "grade_9": 72.5
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.68,
+          "graded_prices": {
+            "psa_10": 92.98,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 73.02,
+            "grade_9": 18.17
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 13.28,
+          "graded_prices": {
+            "psa_10": 20,
+            "grade_9": 9.75
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.63
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 59.81,
+          "graded_prices": {
+            "psa_10": 213,
+            "grade_9": 63.19
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 14.25,
+          "graded_prices": {
+            "psa_10": 30.99,
+            "grade_9": 11.5
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.34
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.47
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.58,
+          "graded_prices": {
+            "psa_10": 39.14,
+            "grade_9": 15.12
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 5.28,
+          "graded_prices": {
+            "psa_10": 46.13,
+            "grade_9": 14.79
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.04
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 4.42
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.07,
+          "graded_prices": {
+            "psa_10": 100,
+            "grade_9": 31.23
+          }
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.15,
+          "graded_prices": {
+            "psa_10": 70.1,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.77,
+          "graded_prices": {
+            "psa_10": 68.98,
+            "grade_9": 18.5
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.09,
+          "graded_prices": {
+            "psa_10": 38.25,
+            "grade_9": 15.4
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.95
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.36
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.6
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3.35,
+          "graded_prices": {
+            "psa_10": 37.5,
+            "grade_9": 12.24
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.73,
+          "graded_prices": {
+            "psa_10": 39.18,
+            "grade_9": 11.84
+          }
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 3.78,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 11.55
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.28,
+          "graded_prices": {
+            "psa_10": 49.99,
+            "grade_9": 13.92
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 66.02,
+          "graded_prices": {
+            "psa_10": 265,
+            "grade_9": 78.41
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.64,
+          "graded_prices": {
+            "psa_10": 40.12,
+            "grade_9": 13.81
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.07
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.61
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.36
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.73
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.16
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.33
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 3.18
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        }
+      ],
+      "ev": 79.63251827772227,
+      "set_value": 521.3299999999999,
+      "top_5_value": 267.38,
+      "top_5_ratio": 0.5128805171388564
+    },
+    {
+      "month": "2025-02",
+      "card_prices": [
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 60.86,
+          "graded_prices": {
+            "psa_10": 227.5,
+            "grade_9": 69
+          }
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 5.48,
+          "graded_prices": {
+            "psa_10": 57,
+            "grade_9": 19.19
+          }
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 6.6
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.46
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.81,
+          "graded_prices": {
+            "psa_10": 64.25,
+            "grade_9": 15.47
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4.42,
+          "graded_prices": {
+            "psa_10": 44.59,
+            "grade_9": 14.99
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.36,
+          "graded_prices": {
+            "psa_10": 53,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.6
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 77.05,
+          "graded_prices": {
+            "psa_10": 232.5,
+            "grade_9": 66.81
+          }
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.39
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 6.75,
+          "graded_prices": {
+            "psa_10": 68.87,
+            "grade_9": 19.13
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.25
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 21.63,
+          "graded_prices": {
+            "psa_10": 66.25,
+            "grade_9": 18.5
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.38
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.36
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 73.03,
+          "graded_prices": {
+            "psa_10": 271.5,
+            "grade_9": 78.79
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 9.5,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 15.88
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.15
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 4.01
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.6,
+          "graded_prices": {
+            "psa_10": 96.66,
+            "grade_9": 31.45
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.13
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.34
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 4.07
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.97,
+          "graded_prices": {
+            "psa_10": 98.5,
+            "grade_9": 29.61
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 22.11,
+            "grade_9": 11.16
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.88
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 7,
+          "graded_prices": {
+            "psa_10": 79,
+            "grade_9": 15.75
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 46.03,
+            "grade_9": 14.66
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.79
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25,
+          "graded_prices": {
+            "psa_10": 75,
+            "grade_9": 27.31
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 17.99,
+          "graded_prices": {
+            "psa_10": 51,
+            "grade_9": 19.89
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 13.75,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 11.75
+          }
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 2.22
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.65
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 10.5,
+          "graded_prices": {
+            "psa_10": 87.65,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.09
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 39.42,
+          "graded_prices": {
+            "psa_10": 126.85,
+            "grade_9": 41
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.51
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.87
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.9
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 6.02,
+          "graded_prices": {
+            "psa_10": 57,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.2,
+          "graded_prices": {
+            "psa_10": 44,
+            "grade_9": 14.7
+          }
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.87
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.7
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 3.77
+        }
+      ],
+      "ev": 83.31654862537462,
+      "set_value": 538.99,
+      "top_5_value": 280.33000000000004,
+      "top_5_ratio": 0.5201024137739105
+    },
+    {
+      "month": "2025-03",
+      "card_prices": [
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 85.31,
+            "grade_9": 18.86
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.38
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 36.19,
+          "graded_prices": {
+            "psa_10": 141.58,
+            "grade_9": 44.16
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.33
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 60.2,
+          "graded_prices": {
+            "psa_10": 241.75,
+            "grade_9": 65.17
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.73
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.79
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.42
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.58,
+          "graded_prices": {
+            "psa_10": 64.5,
+            "grade_9": 18.5
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 11.03,
+          "graded_prices": {
+            "psa_10": 22.26,
+            "grade_9": 9.99
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.83
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.85
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 56.86,
+          "graded_prices": {
+            "psa_10": 211.39,
+            "grade_9": 64.46
+          }
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 5.55,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 16.45
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.47
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.8
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 3.27
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 5.03,
+          "graded_prices": {
+            "psa_10": 64.99,
+            "grade_9": 16.49
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 14.63,
+          "graded_prices": {
+            "psa_10": 26,
+            "grade_9": 11
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.34
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.79
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.14,
+          "graded_prices": {
+            "psa_10": 99.99,
+            "grade_9": 19.1
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 14.11,
+          "graded_prices": {
+            "psa_10": 49.99,
+            "grade_9": 20.27
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.88
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.5,
+          "graded_prices": {
+            "psa_10": 98.5,
+            "grade_9": 28.54
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.82
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 5.09,
+          "graded_prices": {
+            "psa_10": 54.67,
+            "grade_9": 17.63
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 48.69,
+            "grade_9": 14.49
+          }
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 7.99
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.38
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 23,
+          "graded_prices": {
+            "psa_10": 69.06,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.76
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.26
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.55,
+          "graded_prices": {
+            "psa_10": 58.39,
+            "grade_9": 16.64
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 4.7,
+          "graded_prices": {
+            "psa_10": 49.97,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.01
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26,
+          "graded_prices": {
+            "psa_10": 101.83,
+            "grade_9": 29.95
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 67.22,
+          "graded_prices": {
+            "psa_10": 224.75,
+            "grade_9": 64
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.64
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 2.26
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 7.96,
+          "graded_prices": {
+            "psa_10": 80.65,
+            "grade_9": 17.07
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 9.48,
+          "graded_prices": {
+            "psa_10": 88.37,
+            "grade_9": 20
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 9.5,
+          "graded_prices": {
+            "psa_10": 71.85,
+            "grade_9": 17.98
+          }
+        }
+      ],
+      "ev": 80.16682412187812,
+      "set_value": 503.78000000000003,
+      "top_5_value": 246.47,
+      "top_5_ratio": 0.48924133550359283
+    },
+    {
+      "month": "2025-04",
+      "card_prices": [
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.33
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.77
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 15.81,
+          "graded_prices": {
+            "psa_10": 44.99,
+            "grade_9": 19.24
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 6.37,
+          "graded_prices": {
+            "psa_10": 69.38,
+            "grade_9": 13.92
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 43.5,
+            "grade_9": 16
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.85
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.5,
+          "graded_prices": {
+            "psa_10": 88.87,
+            "grade_9": 29.76
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4.33,
+          "graded_prices": {
+            "psa_10": 46.63,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 57.63,
+          "graded_prices": {
+            "psa_10": 192.68,
+            "grade_9": 60.51
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 6.63,
+          "graded_prices": {
+            "psa_10": 77.22,
+            "grade_9": 17.99
+          }
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 8.67
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 51.76,
+          "graded_prices": {
+            "psa_10": 167.86,
+            "grade_9": 55.5
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 10.29,
+          "graded_prices": {
+            "psa_10": 75,
+            "grade_9": 18.92
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.09
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.99,
+          "graded_prices": {
+            "psa_10": 88.78,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 13.87,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 11.05
+          }
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.22
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.67
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 67,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 58,
+          "graded_prices": {
+            "psa_10": 199,
+            "grade_9": 58.86
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.58
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.86,
+          "graded_prices": {
+            "psa_10": 60.43,
+            "grade_9": 16.12
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 4.11,
+          "graded_prices": {
+            "psa_10": 48.15,
+            "grade_9": 10.5
+          }
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 4.25
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 33.5,
+          "graded_prices": {
+            "psa_10": 129.78,
+            "grade_9": 40.69
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17.99,
+          "graded_prices": {
+            "psa_10": 59,
+            "grade_9": 15.51
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 8.73,
+          "graded_prices": {
+            "psa_10": 59.97,
+            "grade_9": 15.69
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.45
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.12
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 71.69,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.91
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.56
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 4.47
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 3.56,
+          "graded_prices": {
+            "psa_10": 61.49,
+            "grade_9": 15.9
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 55,
+            "grade_9": 14.15
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.37
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 10.74,
+          "graded_prices": {
+            "psa_10": 22.11,
+            "grade_9": 9.99
+          }
+        }
+      ],
+      "ev": 75.51640426573425,
+      "set_value": 473.8700000000001,
+      "top_5_value": 227.88,
+      "top_5_ratio": 0.4808913837128325
+    },
+    {
+      "month": "2025-05",
+      "card_prices": [
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 48,
+          "graded_prices": {
+            "psa_10": 154.84,
+            "grade_9": 49.5
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 31.5,
+          "graded_prices": {
+            "psa_10": 101,
+            "grade_9": 35.75
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 6.97,
+          "graded_prices": {
+            "psa_10": 72.23,
+            "grade_9": 19.87
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.82
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 24.74,
+          "graded_prices": {
+            "psa_10": 76.97,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 14.9,
+          "graded_prices": {
+            "psa_10": 41,
+            "grade_9": 14.21
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.48
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.51
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.53
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 45,
+            "grade_9": 16
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.11
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.22
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 7.77,
+          "graded_prices": {
+            "psa_10": 57.13,
+            "grade_9": 16.92
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 2.03
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.62
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 51,
+            "grade_9": 14
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 6.25,
+          "graded_prices": {
+            "psa_10": 61.76,
+            "grade_9": 11.65
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.58,
+          "graded_prices": {
+            "psa_10": 38.55,
+            "grade_9": 12
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.45
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4.37,
+          "graded_prices": {
+            "psa_10": 51,
+            "grade_9": 12.75
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 52.5,
+          "graded_prices": {
+            "psa_10": 187.48,
+            "grade_9": 46.11
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 10.63,
+          "graded_prices": {
+            "psa_10": 31.69,
+            "grade_9": 8.52
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.97
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 53.75,
+          "graded_prices": {
+            "psa_10": 173.75,
+            "grade_9": 58.95
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 8.6
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.88
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.99,
+          "graded_prices": {
+            "psa_10": 69.59,
+            "grade_9": 25.15
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 13.5,
+          "graded_prices": {
+            "psa_10": 29.96,
+            "grade_9": 11
+          }
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4.25,
+          "graded_prices": {
+            "psa_10": 41.75,
+            "grade_9": 13
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 5.02,
+          "graded_prices": {
+            "psa_10": 48,
+            "grade_9": 12.5
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.45
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.98,
+          "graded_prices": {
+            "psa_10": 65,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.53,
+          "graded_prices": {
+            "psa_10": 60.99,
+            "grade_9": 14.04
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.28,
+          "graded_prices": {
+            "psa_10": 62.42,
+            "grade_9": 14.65
+          }
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 15.68,
+          "graded_prices": {
+            "psa_10": 51.59,
+            "grade_9": 15.71
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.73
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.48
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.75
+        }
+      ],
+      "ev": 71.60417476723276,
+      "set_value": 448.6000000000001,
+      "top_5_value": 211.74,
+      "top_5_ratio": 0.47200178332590276
+    },
+    {
+      "month": "2025-06",
+      "card_prices": [
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.59
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 48,
+          "graded_prices": {
+            "psa_10": 176.5,
+            "grade_9": 54.98
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.86
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 62.06,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 35.11,
+          "graded_prices": {
+            "psa_10": 87.37,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 42,
+          "graded_prices": {
+            "psa_10": 190,
+            "grade_9": 56
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.75,
+          "graded_prices": {
+            "psa_10": 39.54,
+            "grade_9": 10.59
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 8.39,
+          "graded_prices": {
+            "psa_10": 56,
+            "grade_9": 14.11
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 5.99,
+          "graded_prices": {
+            "psa_10": 57.9,
+            "grade_9": 14
+          }
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4.46,
+          "graded_prices": {
+            "psa_10": 48.39,
+            "grade_9": 10.46
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.49,
+          "graded_prices": {
+            "psa_10": 36,
+            "grade_9": 10.54
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.42
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.07,
+          "graded_prices": {
+            "psa_10": 77.29,
+            "grade_9": 22.03
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 11.47,
+          "graded_prices": {
+            "psa_10": 36.25,
+            "grade_9": 17.56
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 31.69,
+            "grade_9": 9.46
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.6
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.76,
+          "graded_prices": {
+            "psa_10": 46.5,
+            "grade_9": 11.32
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.63,
+          "graded_prices": {
+            "psa_10": 49.03,
+            "grade_9": 14
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.03
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.64
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.13
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4.34,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 11
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 16.49,
+          "graded_prices": {
+            "psa_10": 53.16,
+            "grade_9": 14.48
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 11.99,
+          "graded_prices": {
+            "psa_10": 31.5,
+            "grade_9": 9
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.3
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.85
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 44,
+          "graded_prices": {
+            "psa_10": 152.47,
+            "grade_9": 44.13
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6.07,
+          "graded_prices": {
+            "psa_10": 43.96,
+            "grade_9": 13
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.25,
+          "graded_prices": {
+            "psa_10": 50.95,
+            "grade_9": 14.86
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.44,
+          "graded_prices": {
+            "psa_10": 43.78,
+            "grade_9": 12.25
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.56
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.93
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.68
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 7.5
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.55
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.85,
+          "graded_prices": {
+            "psa_10": 72,
+            "grade_9": 25.49
+          }
+        }
+      ],
+      "ev": 67.21622467732267,
+      "set_value": 414.0100000000001,
+      "top_5_value": 189.96,
+      "top_5_ratio": 0.45882949687205615
+    },
+    {
+      "month": "2025-07",
+      "card_prices": [
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.85
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.63
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.65
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 5.25,
+          "graded_prices": {
+            "psa_10": 42.11,
+            "grade_9": 11.45
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.21
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 40.76,
+          "graded_prices": {
+            "psa_10": 199.99,
+            "grade_9": 39.68
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.58,
+          "graded_prices": {
+            "psa_10": 57.97,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 12.24,
+          "graded_prices": {
+            "psa_10": 32,
+            "grade_9": 10
+          }
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.46
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.96
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.19
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.63
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 7.75
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.31
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.94
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.06
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.47
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.96
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.66
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 57.63,
+            "grade_9": 14.85
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.37
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18.92,
+          "graded_prices": {
+            "psa_10": 52.43,
+            "grade_9": 19.94
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.17
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 47,
+          "graded_prices": {
+            "psa_10": 166,
+            "grade_9": 47.5
+          }
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.25,
+          "graded_prices": {
+            "psa_10": 40,
+            "grade_9": 12.7
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 4.96,
+          "graded_prices": {
+            "psa_10": 46.8,
+            "grade_9": 13.89
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 5.18,
+          "graded_prices": {
+            "psa_10": 39.86,
+            "grade_9": 11.75
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 34.99,
+            "grade_9": 12.8
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.25
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 10.5,
+          "graded_prices": {
+            "psa_10": 23.38,
+            "grade_9": 11.39
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.13
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.65
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 51.68,
+          "graded_prices": {
+            "psa_10": 193.46,
+            "grade_9": 55
+          }
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.92,
+          "graded_prices": {
+            "psa_10": 68.99,
+            "grade_9": 20.5
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.19
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 43.67,
+            "grade_9": 13
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.61
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 34.89,
+            "grade_9": 15.77
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 7.99,
+          "graded_prices": {
+            "psa_10": 50.5,
+            "grade_9": 14.26
+          }
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.7
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.77
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.6
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 35.17,
+            "grade_9": 10.71
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 9.13,
+          "graded_prices": {
+            "psa_10": 50.03,
+            "grade_9": 14.2
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 27.64,
+          "graded_prices": {
+            "psa_10": 85,
+            "grade_9": 26
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.66
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 47,
+            "grade_9": 13.37
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 15.8,
+          "graded_prices": {
+            "psa_10": 41.48,
+            "grade_9": 13.31
+          }
+        }
+      ],
+      "ev": 68.89598613386613,
+      "set_value": 413.26000000000005,
+      "top_5_value": 187.65999999999997,
+      "top_5_ratio": 0.4540966945748438
+    },
+    {
+      "month": "2025-08",
+      "card_prices": [
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.54
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.88
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 41.83,
+            "grade_9": 14.29
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 47.08,
+            "grade_9": 11.4
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25,
+          "graded_prices": {
+            "psa_10": 94.63,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 7.2,
+          "graded_prices": {
+            "psa_10": 43.22,
+            "grade_9": 14.24
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.93
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.83
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.65
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 56.91,
+          "graded_prices": {
+            "psa_10": 230.5,
+            "grade_9": 62
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 57.87,
+            "grade_9": 15.79
+          }
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 6.94
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.9,
+          "graded_prices": {
+            "psa_10": 68.79,
+            "grade_9": 26
+          }
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.67
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 2.99,
+          "graded_prices": {
+            "psa_10": 34.5,
+            "grade_9": 11.7
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.21,
+          "graded_prices": {
+            "psa_10": 42.44,
+            "grade_9": 13.44
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.83
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 38,
+          "graded_prices": {
+            "psa_10": 207.5,
+            "grade_9": 38.75
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 9.97,
+          "graded_prices": {
+            "psa_10": 34.99,
+            "grade_9": 11.18
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.53
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 3.03
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.61
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.71
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 7.99,
+          "graded_prices": {
+            "psa_10": 45.5,
+            "grade_9": 13.03
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.52,
+          "graded_prices": {
+            "psa_10": 38,
+            "grade_9": 15.72
+          }
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 14,
+          "graded_prices": {
+            "psa_10": 38.01,
+            "grade_9": 12.5
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.04
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.87
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.89
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.38
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 2.89
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 29.2,
+            "grade_9": 10.99
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 2.6
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 37.9,
+            "grade_9": 14.32
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 7.25,
+          "graded_prices": {
+            "psa_10": 52.51,
+            "grade_9": 15.61
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.3,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 13.97
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.74
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.99
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17.73,
+          "graded_prices": {
+            "psa_10": 52.46,
+            "grade_9": 18.05
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 2.03
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 49.99,
+          "graded_prices": {
+            "psa_10": 178,
+            "grade_9": 49.45
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.01
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18.62,
+          "graded_prices": {
+            "psa_10": 56.95,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.06,
+          "graded_prices": {
+            "psa_10": 34,
+            "grade_9": 16.69
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 2.08
+        }
+      ],
+      "ev": 68.24799166633366,
+      "set_value": 399.52000000000004,
+      "top_5_value": 189.8,
+      "top_5_ratio": 0.4750700841009211
+    },
+    {
+      "month": "2025-09",
+      "card_prices": [
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.91
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.05
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 79.02,
+          "graded_prices": {
+            "psa_10": 340,
+            "grade_9": 86.64
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.79
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 40,
+          "graded_prices": {
+            "psa_10": 220,
+            "grade_9": 44.6
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 44.19,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.86
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.64
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.41
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.32,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 17.6
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.3
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 2.34
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.8
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.82
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.99,
+          "graded_prices": {
+            "psa_10": 102.85,
+            "grade_9": 34.99
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.62
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.86
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 73.7,
+            "grade_9": 20.93
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.89
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 5.46,
+          "graded_prices": {
+            "psa_10": 49.99,
+            "grade_9": 14.5
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 8.44,
+          "graded_prices": {
+            "psa_10": 48.63,
+            "grade_9": 14.8
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.34
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.34
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 3.87,
+          "graded_prices": {
+            "psa_10": 41.5,
+            "grade_9": 14.63
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 4.45,
+          "graded_prices": {
+            "psa_10": 47,
+            "grade_9": 15.33
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.11
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.9
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.39
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.73
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 44.17,
+            "grade_9": 15.85
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6.2,
+          "graded_prices": {
+            "psa_10": 50.71,
+            "grade_9": 19.06
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 15.32
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 6.51
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 70.64,
+            "grade_9": 26.84
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.82
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.94
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 15.24,
+          "graded_prices": {
+            "psa_10": 64.95,
+            "grade_9": 20.32
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 29.2,
+            "grade_9": 11.17
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.18
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 56.1,
+          "graded_prices": {
+            "psa_10": 290,
+            "grade_9": 64.24
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3.97,
+          "graded_prices": {
+            "psa_10": 40.68,
+            "grade_9": 10.9
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 2.85,
+          "graded_prices": {
+            "psa_10": 41.01,
+            "grade_9": 12.02
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 12.94,
+          "graded_prices": {
+            "psa_10": 47.5,
+            "grade_9": 18.1
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18,
+          "graded_prices": {
+            "psa_10": 55.47,
+            "grade_9": 25.02
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 9.27,
+          "graded_prices": {
+            "psa_10": 34.5,
+            "grade_9": 13.44
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.9
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.87
+        }
+      ],
+      "ev": 72.57237368631367,
+      "set_value": 421.8800000000001,
+      "top_5_value": 222.10000000000002,
+      "top_5_ratio": 0.5264530198160614
+    },
+    {
+      "month": "2025-10",
+      "card_prices": [
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.31
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.93,
+          "graded_prices": {
+            "psa_10": 55.2,
+            "grade_9": 18.66
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 9.22,
+          "graded_prices": {
+            "psa_10": 55,
+            "grade_9": 14.99
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 2.17
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.66
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.76
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 2.69
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.46
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.11,
+          "graded_prices": {
+            "psa_10": 118.6,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 2.86
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.7
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.87,
+          "graded_prices": {
+            "psa_10": 55.5,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 4.95,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 11.99
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.47
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.41
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 2.32
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 2.36
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.78
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.64
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.67
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.02
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5.95
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 37.72,
+          "graded_prices": {
+            "psa_10": 259.99,
+            "grade_9": 45.5
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 2.4
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 2.08
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.64,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 12.76
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.65,
+          "graded_prices": {
+            "psa_10": 54.39,
+            "grade_9": 18.72
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.64
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 15.71,
+          "graded_prices": {
+            "psa_10": 74.99,
+            "grade_9": 19.25
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 8.77,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 17.55
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 60,
+          "graded_prices": {
+            "psa_10": 246.5,
+            "grade_9": 68.93
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.76,
+          "graded_prices": {
+            "psa_10": 56.14,
+            "grade_9": 11.89
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 44,
+            "grade_9": 13
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 3.25
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 9.49,
+          "graded_prices": {
+            "psa_10": 35,
+            "grade_9": 14.66
+          }
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.52
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.58
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.82,
+          "graded_prices": {
+            "psa_10": 76.39,
+            "grade_9": 17.08
+          }
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 85.39,
+            "grade_9": 25
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 8.99,
+          "graded_prices": {
+            "psa_10": 29.2,
+            "grade_9": 10.65
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 2.15
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 72.5,
+          "graded_prices": {
+            "psa_10": 317.19,
+            "grade_9": 85
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.03,
+          "graded_prices": {
+            "psa_10": 92.52,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 15.28,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 19.98
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17.56,
+          "graded_prices": {
+            "psa_10": 65.92,
+            "grade_9": 23.24
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 65,
+            "grade_9": 16.4
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.19
+        }
+      ],
+      "ev": 75.9129749070929,
+      "set_value": 434.2699999999999,
+      "top_5_value": 219.32,
+      "top_5_ratio": 0.505031432058397
+    },
+    {
+      "month": "2025-11",
+      "card_prices": [
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.21
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 0.88
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.35
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.15
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.19
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.08
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 2.92
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 89.99,
+            "grade_9": 24
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 2.92
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.65
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 0.55
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 2.94,
+          "graded_prices": {
+            "psa_10": 49,
+            "grade_9": 11.84
+          }
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 16.76,
+          "graded_prices": {
+            "psa_10": 61.85,
+            "grade_9": 21.57
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.33,
+          "graded_prices": {
+            "psa_10": 120.25,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18.24,
+          "graded_prices": {
+            "psa_10": 59.71,
+            "grade_9": 21.24
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.3
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 53,
+            "grade_9": 15.48
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.23,
+          "graded_prices": {
+            "psa_10": 79,
+            "grade_9": 17.5
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.76,
+          "graded_prices": {
+            "psa_10": 75.28,
+            "grade_9": 17.73
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.37
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 34.85,
+          "graded_prices": {
+            "psa_10": 197.5,
+            "grade_9": 39.5
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3.5,
+          "graded_prices": {
+            "psa_10": 49.48,
+            "grade_9": 13.5
+          }
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.5,
+          "graded_prices": {
+            "psa_10": 59.63,
+            "grade_9": 17.25
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 7.63,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 13.3
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.5,
+          "graded_prices": {
+            "psa_10": 60.88,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 0.87
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 8.95,
+          "graded_prices": {
+            "psa_10": 35.99,
+            "grade_9": 10.5
+          }
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 8.47,
+          "graded_prices": {
+            "psa_10": 50.97,
+            "grade_9": 16.42
+          }
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 55.74,
+          "graded_prices": {
+            "psa_10": 202.5,
+            "grade_9": 59.36
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 68.5,
+          "graded_prices": {
+            "psa_10": 250.75,
+            "grade_9": 76.21
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.93
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.31
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.89
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 13.3,
+          "graded_prices": {
+            "psa_10": 48.75,
+            "grade_9": 20.47
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.5,
+          "graded_prices": {
+            "psa_10": 64.99,
+            "grade_9": 15.2
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.28
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.37
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 0.82
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.51,
+          "graded_prices": {
+            "psa_10": 55.88,
+            "grade_9": 14.06
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 8.5,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 14.7
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 2.99,
+          "graded_prices": {
+            "psa_10": 43.52,
+            "grade_9": 13.23
+          }
+        }
+      ],
+      "ev": 66.71854791008991,
+      "set_value": 394.54999999999995,
+      "top_5_value": 207.41000000000003,
+      "top_5_ratio": 0.5256874920795844
+    },
+    {
+      "month": "2025-12",
+      "card_prices": [
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 50.99,
+          "graded_prices": {
+            "psa_10": 190,
+            "grade_9": 56.89
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 6.05,
+          "graded_prices": {
+            "psa_10": 52.49,
+            "grade_9": 15.4
+          }
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 4.72
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.94,
+          "graded_prices": {
+            "psa_10": 86.68,
+            "grade_9": 25
+          }
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 12,
+          "graded_prices": {
+            "psa_10": 48.52,
+            "grade_9": 18.3
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 9.17,
+          "graded_prices": {
+            "psa_10": 40.34,
+            "grade_9": 10.5
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.32,
+          "graded_prices": {
+            "psa_10": 46.65,
+            "grade_9": 15.05
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.92
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.13
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 0.87
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.66,
+          "graded_prices": {
+            "psa_10": 51.45,
+            "grade_9": 14.99
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7,
+          "graded_prices": {
+            "psa_10": 69.42,
+            "grade_9": 15.91
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.2
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 58,
+            "grade_9": 17
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.44
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 3.27
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.42
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.25
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 4.12,
+          "graded_prices": {
+            "psa_10": 45.5,
+            "grade_9": 14.67
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.71,
+          "graded_prices": {
+            "psa_10": 67.72,
+            "grade_9": 19.57
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.25,
+          "graded_prices": {
+            "psa_10": 62,
+            "grade_9": 17.34
+          }
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 16.03,
+          "graded_prices": {
+            "psa_10": 74.22,
+            "grade_9": 21.54
+          }
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.02
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 8.89,
+          "graded_prices": {
+            "psa_10": 49.66,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 2.3
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.11,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 17.54
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 2.99,
+          "graded_prices": {
+            "psa_10": 50.65,
+            "grade_9": 15.4
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 62.98,
+          "graded_prices": {
+            "psa_10": 243.25,
+            "grade_9": 70
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.66,
+          "graded_prices": {
+            "psa_10": 40.32,
+            "grade_9": 13.05
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.07
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32.5,
+          "graded_prices": {
+            "psa_10": 161.32,
+            "grade_9": 32.34
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17.62,
+          "graded_prices": {
+            "psa_10": 60.76,
+            "grade_9": 20.15
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 1.97
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 1.2
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.72
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28,
+          "graded_prices": {
+            "psa_10": 115,
+            "grade_9": 35.87
+          }
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.07
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.48
+        }
+      ],
+      "ev": 63.35450057742257,
+      "set_value": 378.60000000000014,
+      "top_5_value": 195.41,
+      "top_5_ratio": 0.5161384046487055
+    },
+    {
+      "month": "2026-01",
+      "card_prices": [
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 1.24
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.34
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 57.53,
+          "graded_prices": {
+            "psa_10": 204.64,
+            "grade_9": 63.78
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 3.31,
+          "graded_prices": {
+            "psa_10": 48.41,
+            "grade_9": 17.84
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 9.17,
+          "graded_prices": {
+            "psa_10": 67.94,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 2.49,
+          "graded_prices": {
+            "psa_10": 34.12,
+            "grade_9": 14.64
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.15
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.73
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 1.84
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.32
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.28,
+          "graded_prices": {
+            "psa_10": 53.5,
+            "grade_9": 18.4
+          }
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.04
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 31.71,
+          "graded_prices": {
+            "psa_10": 180,
+            "grade_9": 36.89
+          }
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 7.98,
+          "graded_prices": {
+            "psa_10": 31,
+            "grade_9": 13.45
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 1.9
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 1.94
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.45,
+          "graded_prices": {
+            "psa_10": 46.45,
+            "grade_9": 15.71
+          }
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 2.59
+        },
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 12.27,
+          "graded_prices": {
+            "psa_10": 46.74,
+            "grade_9": 18.51
+          }
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.24
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3,
+          "graded_prices": {
+            "psa_10": 51.23,
+            "grade_9": 17.99
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4,
+          "graded_prices": {
+            "psa_10": 52.5,
+            "grade_9": 13.62
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.24
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 80.48,
+            "grade_9": 22.88
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 35.99,
+            "grade_9": 10.5
+          }
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1.61
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 1.81
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 0.85
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.06
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17,
+          "graded_prices": {
+            "psa_10": 63.19,
+            "grade_9": 24.68
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 9,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 16.8,
+          "graded_prices": {
+            "psa_10": 64.5,
+            "grade_9": 20
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.07,
+          "graded_prices": {
+            "psa_10": 47.78,
+            "grade_9": 17.54
+          }
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.96
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.46
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 3.97,
+          "graded_prices": {
+            "psa_10": 44.41,
+            "grade_9": 14.26
+          }
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 71.49,
+          "graded_prices": {
+            "psa_10": 251.1,
+            "grade_9": 79.6
+          }
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.54,
+          "graded_prices": {
+            "psa_10": 66,
+            "grade_9": 19.47
+          }
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.33
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 1.71
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5.22
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2.67
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.5,
+          "graded_prices": {
+            "psa_10": 51,
+            "grade_9": 17.01
+          }
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.99,
+          "graded_prices": {
+            "psa_10": 117.37,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        }
+      ],
+      "ev": 67.3253277122877,
+      "set_value": 395.4900000000001,
+      "top_5_value": 210.71,
+      "top_5_ratio": 0.5327821183847884
+    },
+    {
+      "month": "2026-02",
+      "card_prices": [
+        {
+          "number": "171",
+          "name": "Briar",
+          "rarity": "special_illustration_rare",
+          "price_usd": 12.67,
+          "graded_prices": {
+            "psa_10": 46.14,
+            "grade_9": 19.49,
+            "tag_10": 23.5,
+            "ace_10": 28,
+            "cgc_10": 24.14,
+            "bgs_10": 60,
+            "bgs_10_black_label": 300,
+            "cgc_10_pristine": 53
+          }
+        },
+        {
+          "number": "146",
+          "name": "Turtonator",
+          "rarity": "illustration_rare",
+          "price_usd": 3.36,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 14.8,
+            "tag_10": 43.01,
+            "ace_10": 30,
+            "cgc_10": 19,
+            "bgs_10": 65,
+            "bgs_10_black_label": 325,
+            "cgc_10_pristine": 42
+          }
+        },
+        {
+          "number": "153",
+          "name": "Meditite",
+          "rarity": "illustration_rare",
+          "price_usd": 4.94,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 15.81,
+            "tag_10": 40.05,
+            "ace_10": 55.81,
+            "sgc_10": 36,
+            "cgc_10": 20.51,
+            "bgs_10": 78,
+            "bgs_10_black_label": 390,
+            "cgc_10_pristine": 51
+          }
+        },
+        {
+          "number": "163",
+          "name": "Briar",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "174",
+          "name": "Area Zero Underdepths",
+          "rarity": "hyper_rare",
+          "price_usd": 7.98,
+          "graded_prices": {
+            "psa_10": 28.75,
+            "grade_9": 13.47,
+            "tag_10": 15.75,
+            "cgc_10": 18,
+            "bgs_10": 37,
+            "bgs_10_black_label": 185,
+            "cgc_10_pristine": 99.99
+          }
+        },
+        {
+          "number": "014",
+          "name": "Hydrapple ex",
+          "rarity": "double_rare",
+          "price_usd": 1.06
+        },
+        {
+          "number": "105",
+          "name": "Melmetal ex",
+          "rarity": "double_rare",
+          "price_usd": 0.58
+        },
+        {
+          "number": "128",
+          "name": "Terapagos ex",
+          "rarity": "double_rare",
+          "price_usd": 1.03
+        },
+        {
+          "number": "136",
+          "name": "Grand Tree",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.45
+        },
+        {
+          "number": "145",
+          "name": "Lileep",
+          "rarity": "illustration_rare",
+          "price_usd": 4.59,
+          "graded_prices": {
+            "psa_10": 46,
+            "grade_9": 16.26,
+            "tag_10": 16.5,
+            "cgc_10": 17.99,
+            "bgs_10": 60,
+            "bgs_10_black_label": 300,
+            "cgc_10_pristine": 48.49
+          }
+        },
+        {
+          "number": "156",
+          "name": "Hydrapple ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.59
+        },
+        {
+          "number": "165",
+          "name": "Kofu",
+          "rarity": "ultra_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "142",
+          "name": "Sparkling Crystal",
+          "rarity": "ace_spec_rare",
+          "price_usd": 1.05
+        },
+        {
+          "number": "147",
+          "name": "Raboot",
+          "rarity": "illustration_rare",
+          "price_usd": 5.01,
+          "graded_prices": {
+            "psa_10": 51.5,
+            "grade_9": 16.75,
+            "tag_10": 49,
+            "ace_10": 31,
+            "cgc_10": 23.75,
+            "bgs_10": 67,
+            "bgs_10_black_label": 335,
+            "cgc_10_pristine": 77.91
+          }
+        },
+        {
+          "number": "149",
+          "name": "Crabominable",
+          "rarity": "illustration_rare",
+          "price_usd": 2.85,
+          "graded_prices": {
+            "psa_10": 49.81,
+            "grade_9": 14.13,
+            "tag_10": 47.72,
+            "ace_10": 30,
+            "cgc_10": 19.75,
+            "bgs_10": 65,
+            "bgs_10_black_label": 325,
+            "cgc_10_pristine": 61.87
+          }
+        },
+        {
+          "number": "152",
+          "name": "Milcery",
+          "rarity": "illustration_rare",
+          "price_usd": 9.1,
+          "graded_prices": {
+            "psa_10": 46.5,
+            "grade_9": 19.27,
+            "tag_10": 28,
+            "cgc_10": 29.99,
+            "bgs_10": 60,
+            "bgs_10_black_label": 300,
+            "cgc_10_pristine": 199.99
+          }
+        },
+        {
+          "number": "169",
+          "name": "Dachsbun ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.41,
+          "graded_prices": {
+            "psa_10": 118.9,
+            "grade_9": 35,
+            "tag_10": 108.75,
+            "ace_10": 112.93,
+            "sgc_10": 71,
+            "cgc_10": 57,
+            "bgs_10": 155,
+            "bgs_10_black_label": 775,
+            "cgc_10_pristine": 143.75
+          }
+        },
+        {
+          "number": "172",
+          "name": "Lacey",
+          "rarity": "special_illustration_rare",
+          "price_usd": 17.22,
+          "graded_prices": {
+            "psa_10": 58.5,
+            "grade_9": 22.49,
+            "tag_10": 39.5,
+            "ace_10": 71,
+            "cgc_10": 35,
+            "bgs_10": 76,
+            "bgs_10_black_label": 380,
+            "cgc_10_pristine": 126
+          }
+        },
+        {
+          "number": "001",
+          "name": "Venusaur ex",
+          "rarity": "double_rare",
+          "price_usd": 2.68
+        },
+        {
+          "number": "028",
+          "name": "Cinderace ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "030",
+          "name": "Blastoise ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "051",
+          "name": "Galvantula ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "082",
+          "name": "Lucario ex",
+          "rarity": "double_rare",
+          "price_usd": 1.28
+        },
+        {
+          "number": "089",
+          "name": "Garganacl ex",
+          "rarity": "double_rare",
+          "price_usd": 0.97
+        },
+        {
+          "number": "144",
+          "name": "Ledian",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 38.86,
+            "grade_9": 15.43,
+            "tag_10": 37,
+            "ace_10": 42.82,
+            "sgc_10": 49.99,
+            "cgc_10": 20.15,
+            "bgs_10": 51,
+            "bgs_10_black_label": 255,
+            "cgc_10_pristine": 60.75
+          }
+        },
+        {
+          "number": "151",
+          "name": "Zeraora",
+          "rarity": "illustration_rare",
+          "price_usd": 8.62,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 19.99,
+            "tag_10": 58.51,
+            "ace_10": 56.42,
+            "sgc_10": 52.49,
+            "cgc_10": 29.5,
+            "bgs_10": 78,
+            "bgs_10_black_label": 390,
+            "cgc_10_pristine": 79.99
+          }
+        },
+        {
+          "number": "032",
+          "name": "Lapras ex",
+          "rarity": "double_rare",
+          "price_usd": 1.48
+        },
+        {
+          "number": "080",
+          "name": "Medicham ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "148",
+          "name": "Squirtle",
+          "rarity": "illustration_rare",
+          "price_usd": 71.16,
+          "graded_prices": {
+            "psa_10": 261.48,
+            "grade_9": 85.68,
+            "tag_10": 226.25,
+            "ace_10": 172.25,
+            "sgc_10": 157,
+            "cgc_10": 140,
+            "bgs_10": 340,
+            "bgs_10_black_label": 1700,
+            "cgc_10_pristine": 326.2
+          }
+        },
+        {
+          "number": "157",
+          "name": "Cinderace ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.45
+        },
+        {
+          "number": "160",
+          "name": "Dachsbun ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.97
+        },
+        {
+          "number": "162",
+          "name": "Orthworm ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.71
+        },
+        {
+          "number": "164",
+          "name": "Crispin",
+          "rarity": "ultra_rare",
+          "price_usd": 5.64
+        },
+        {
+          "number": "166",
+          "name": "Lacey",
+          "rarity": "ultra_rare",
+          "price_usd": 2.64
+        },
+        {
+          "number": "155",
+          "name": "Archaludon",
+          "rarity": "illustration_rare",
+          "price_usd": 3.19,
+          "graded_prices": {
+            "psa_10": 33.21,
+            "grade_9": 14.75,
+            "tag_10": 44.09,
+            "sgc_10": 20,
+            "cgc_10": 15.05,
+            "bgs_10": 43,
+            "bgs_10_black_label": 215,
+            "cgc_10_pristine": 79.38
+          }
+        },
+        {
+          "number": "167",
+          "name": "Hydrapple ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 81,
+            "grade_9": 25,
+            "tag_10": 68,
+            "ace_10": 66.46,
+            "sgc_10": 128,
+            "cgc_10": 32.99,
+            "bgs_10": 105,
+            "bgs_10_black_label": 525,
+            "cgc_10_pristine": 153.75
+          }
+        },
+        {
+          "number": "170",
+          "name": "Terapagos ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 31.07,
+          "graded_prices": {
+            "psa_10": 188.22,
+            "grade_9": 36,
+            "tag_10": 157.5,
+            "ace_10": 95.75,
+            "cgc_10": 62.46,
+            "bgs_10": 245,
+            "bgs_10_black_label": 1225,
+            "cgc_10_pristine": 226.5
+          }
+        },
+        {
+          "number": "173",
+          "name": "Terapagos ex",
+          "rarity": "hyper_rare",
+          "price_usd": 9.16,
+          "graded_prices": {
+            "psa_10": 44.35,
+            "grade_9": 14.36,
+            "tag_10": 34.17,
+            "sgc_10": 20.5,
+            "cgc_10": 31.5,
+            "bgs_10": 58,
+            "bgs_10_black_label": 290,
+            "cgc_10_pristine": 56.49
+          }
+        },
+        {
+          "number": "041",
+          "name": "Greninja ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "143",
+          "name": "Bulbasaur",
+          "rarity": "illustration_rare",
+          "price_usd": 64.5,
+          "graded_prices": {
+            "psa_10": 210.77,
+            "grade_9": 64,
+            "tag_10": 200,
+            "ace_10": 121.04,
+            "sgc_10": 103.5,
+            "cgc_10": 116.3,
+            "bgs_10": 274,
+            "bgs_10_black_label": 1370,
+            "cgc_10_pristine": 298.73
+          }
+        },
+        {
+          "number": "150",
+          "name": "Joltik",
+          "rarity": "illustration_rare",
+          "price_usd": 5.27,
+          "graded_prices": {
+            "psa_10": 49.98,
+            "grade_9": 18.51,
+            "tag_10": 37.5,
+            "ace_10": 57.64,
+            "sgc_10": 30,
+            "cgc_10": 19.23,
+            "bgs_10": 65,
+            "bgs_10_black_label": 325,
+            "cgc_10_pristine": 64.99
+          }
+        },
+        {
+          "number": "158",
+          "name": "Lapras ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.31
+        },
+        {
+          "number": "159",
+          "name": "Galvantula ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "161",
+          "name": "Medicham ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.81
+        },
+        {
+          "number": "168",
+          "name": "Galvantula ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 13.55,
+          "graded_prices": {
+            "psa_10": 65,
+            "grade_9": 21.51,
+            "tag_10": 33.99,
+            "ace_10": 52,
+            "cgc_10": 33,
+            "bgs_10": 85,
+            "bgs_10_black_label": 425,
+            "cgc_10_pristine": 83.25
+          }
+        },
+        {
+          "number": "175",
+          "name": "Bravery Charm",
+          "rarity": "hyper_rare",
+          "price_usd": 7.8,
+          "graded_prices": {
+            "psa_10": 35.99,
+            "grade_9": 10.63,
+            "tag_10": 22,
+            "cgc_10": 13.5,
+            "bgs_10": 47,
+            "bgs_10_black_label": 235,
+            "cgc_10_pristine": 29.95
+          }
+        },
+        {
+          "number": "067",
+          "name": "Dachsbun ex",
+          "rarity": "double_rare",
+          "price_usd": 1.47
+        },
+        {
+          "number": "110",
+          "name": "Orthworm ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "134",
+          "name": "Deluxe Bomb",
+          "rarity": "ace_spec_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "154",
+          "name": "Gulpin",
+          "rarity": "illustration_rare",
+          "price_usd": 7.99,
+          "graded_prices": {
+            "psa_10": 66.5,
+            "grade_9": 16.3,
+            "tag_10": 62.09,
+            "ace_10": 60.69,
+            "sgc_10": 25,
+            "cgc_10": 27.19,
+            "bgs_10": 86,
+            "bgs_10_black_label": 430,
+            "cgc_10_pristine": 79.99
+          }
+        }
+      ],
+      "ev": 66.82633894705295,
+      "set_value": 394.0400000000001,
+      "top_5_value": 215.13,
+      "top_5_ratio": 0.5459598010354277
+    }
+  ]
+}

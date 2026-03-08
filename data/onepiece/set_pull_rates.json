@@ -1,0 +1,177 @@
+{
+  "Main Series": {
+    "op01": {
+      "set_name": "Romance Dawn",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op02": {
+      "set_name": "Paramount War",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op03": {
+      "set_name": "Pillars of Strength",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op04": {
+      "set_name": "Kingdoms of Intrigue",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op05": {
+      "set_name": "Awakening of the New Era",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op06": {
+      "set_name": "Wings of the Captain",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op07": {
+      "set_name": "500 Years in the Future",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op08": {
+      "set_name": "Two Legends",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op09": {
+      "set_name": "Emperors in the New World",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op10": {
+      "set_name": "Royal Blood",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op11": {
+      "set_name": "A Fist of Divine Speed",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op12": {
+      "set_name": "Legacy of the Master",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op13": {
+      "set_name": "Carrying on His Will",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "op14": {
+      "set_name": "The Azure Sea's Seven",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    }
+  },
+  "Extra Booster": {
+    "eb01": {
+      "set_name": "Memorial Collection",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "eb02": {
+      "set_name": "Anime 25th Collection",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "eb03": {
+      "set_name": "One Piece Heroines Edition",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "secret_rare",  "pull_rate_per_pack": 0.0417 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    }
+  },
+  "Premium Booster": {
+    "prb01": {
+      "set_name": "The Best Vol. 1",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    },
+    "prb02": {
+      "set_name": "The Best Vol. 2",
+      "rarities": [
+        { "rarity": "super_rare",   "pull_rate_per_pack": 0.3333 },
+        { "rarity": "alt_art",      "pull_rate_per_pack": 0.0833 },
+        { "rarity": "special_rare", "pull_rate_per_pack": 0.0069 }
+      ]
+    }
+  }
+}

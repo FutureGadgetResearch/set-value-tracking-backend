@@ -1,0 +1,79 @@
+{
+  "Launch": {
+    "rb01": {
+      "set_name": "Origins",
+      "rarities": [
+        {
+          "rarity": "rare",
+          "pull_rate_per_pack": 1.75
+        },
+        {
+          "rarity": "epic",
+          "pull_rate_per_pack": 0.25
+        },
+        {
+          "rarity": "alt_art",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "overnumber",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "signature_overnumber",
+          "pull_rate_per_pack": 0.00139
+        }
+      ]
+    },
+    "rb02": {
+      "set_name": "Spiritforged",
+      "rarities": [
+        {
+          "rarity": "rare",
+          "pull_rate_per_pack": 1.75
+        },
+        {
+          "rarity": "epic",
+          "pull_rate_per_pack": 0.25
+        },
+        {
+          "rarity": "alt_art",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "overnumber",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "signature_overnumber",
+          "pull_rate_per_pack": 0.00139
+        }
+      ]
+    },
+    "rb03": {
+      "set_name": "Unleashed",
+      "rarities": [
+        {
+          "rarity": "rare",
+          "pull_rate_per_pack": 1.75
+        },
+        {
+          "rarity": "epic",
+          "pull_rate_per_pack": 0.25
+        },
+        {
+          "rarity": "alt_art",
+          "pull_rate_per_pack": 0.0833
+        },
+        {
+          "rarity": "overnumber",
+          "pull_rate_per_pack": 0.0139
+        },
+        {
+          "rarity": "signature_overnumber",
+          "pull_rate_per_pack": 0.00139
+        }
+      ]
+    }
+  }
+}

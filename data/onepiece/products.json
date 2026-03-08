@@ -1,0 +1,369 @@
+{
+  "Main Series": {
+    "op01": {
+      "release_date": "2022-12-02",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-romance-dawn/booster-box",
+          "tcgplayer_id": "450086"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-romance-dawn/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op02": {
+      "release_date": "2023-03-10",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-paramount-war/booster-box",
+          "tcgplayer_id": "455866"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-paramount-war/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op03": {
+      "release_date": "2023-06-30",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-pillars-of-strength/booster-box",
+          "tcgplayer_id": "477176"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-pillars-of-strength/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op04": {
+      "release_date": "2023-09-22",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-kingdoms-of-intrigue/booster-box",
+          "tcgplayer_id": "485833"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-kingdoms-of-intrigue/booster-pack",
+          "tcgplayer_id": "485832"
+        }
+      ]
+    },
+    "op05": {
+      "release_date": "2023-12-08",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-awakening-of-the-new-era/booster-box",
+          "tcgplayer_id": "498734"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-awakening-of-the-new-era/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op06": {
+      "release_date": "2024-03-15",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 107.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-wings-of-the-captain/booster-box",
+          "tcgplayer_id": "515080"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.49,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-wings-of-the-captain/booster-pack",
+          "tcgplayer_id": "515077"
+        }
+      ]
+    },
+    "op07": {
+      "release_date": "2024-06-28",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 107.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-500-years-in-the-future/booster-box",
+          "tcgplayer_id": "532106"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.49,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-500-years-in-the-future/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op08": {
+      "release_date": "2024-09-13",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 107.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-two-legends/booster-box",
+          "tcgplayer_id": "542504"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.49,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-two-legends/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op09": {
+      "release_date": "2024-12-13",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 107.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-emperors-in-the-new-world/booster-box",
+          "tcgplayer_id": "563834"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.49,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-emperors-in-the-new-world/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op10": {
+      "release_date": "2025-03-21",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-royal-blood/booster-box",
+          "tcgplayer_id": "586671"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-royal-blood/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op11": {
+      "release_date": "2025-06-06",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-a-fist-of-divine-speed/booster-box",
+          "tcgplayer_id": "620180"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-a-fist-of-divine-speed/booster-pack",
+          "tcgplayer_id": "620179"
+        }
+      ]
+    },
+    "op12": {
+      "release_date": "2025-08-22",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-legacy-of-the-master/booster-box",
+          "tcgplayer_id": "628346"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-legacy-of-the-master/booster-pack",
+          "tcgplayer_id": "628345"
+        }
+      ]
+    },
+    "op13": {
+      "release_date": "2025-11-07",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-carrying-on-his-will/booster-box",
+          "tcgplayer_id": "628352"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-carrying-on-his-will/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "op14": {
+      "release_date": "2026-01-16",
+      "is_special_set": false,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-azure-seas-seven/booster-box",
+          "tcgplayer_id": "665598"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-azure-seas-seven/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    }
+  },
+  "Extra Booster": {
+    "eb01": {
+      "release_date": "2024-05-03",
+      "is_special_set": true,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-memorial-collection/booster-box",
+          "tcgplayer_id": "521161"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-memorial-collection/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "eb02": {
+      "release_date": "2025-05-09",
+      "is_special_set": true,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-anime-25th-collection/booster-box",
+          "tcgplayer_id": "594069"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-anime-25th-collection/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "eb03": {
+      "release_date": "2026-02-20",
+      "is_special_set": true,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-heroines-edition/booster-box",
+          "tcgplayer_id": "666891"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-heroines-edition/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    }
+  },
+  "Premium Booster": {
+    "prb01": {
+      "release_date": "2024-11-08",
+      "is_special_set": true,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 95.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-best-vol-1/booster-box",
+          "tcgplayer_id": "545399"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 3.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-best-vol-1/booster-pack",
+          "tcgplayer_id": ""
+        }
+      ]
+    },
+    "prb02": {
+      "release_date": "2025-10-03",
+      "is_special_set": true,
+      "standard_legal_until": "",
+      "products": [
+        {
+          "product_type": "booster-box",
+          "msrp": 119.76,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-best-vol-2/booster-box",
+          "tcgplayer_id": "628452"
+        },
+        {
+          "product_type": "booster-pack",
+          "msrp": 4.99,
+          "pricecharting_url": "https://www.pricecharting.com/game/one-piece-the-best-vol-2/booster-pack",
+          "tcgplayer_id": "628451"
+        }
+      ]
+    }
+  }
+}

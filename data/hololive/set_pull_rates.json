@@ -1,0 +1,58 @@
+{
+  "Booster Pack": {
+    "hBP01": {
+      "set_name": "Blooming Radiance",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    },
+    "hBP02": {
+      "set_name": "Quintet Spectrum",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    },
+    "hBP03": {
+      "set_name": "Elite Spark",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    },
+    "hBP04": {
+      "set_name": "Curious Universe",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    },
+    "hBP05": {
+      "set_name": "Enchant Regalia",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    },
+    "hBP06": {
+      "set_name": "Ayakashi Vermillion",
+      "rarities": [
+        { "rarity": "ultra_rare",       "pull_rate_per_pack": 0 },
+        { "rarity": "oshi_ultra_rare",  "pull_rate_per_pack": 0 },
+        { "rarity": "holomem_rare",     "pull_rate_per_pack": 0 },
+        { "rarity": "secret",           "pull_rate_per_pack": 0 }
+      ]
+    }
+  }
+}

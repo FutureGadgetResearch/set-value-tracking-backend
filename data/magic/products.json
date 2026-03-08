@@ -1,0 +1,213 @@
+{
+  "magic": {
+    "Standard": {
+      "mkm": {
+        "release_date": "2024-02-09",
+        "is_special_set": false,
+        "standard_legal_until": "2027-02-09",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 149.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 179.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "otj": {
+        "release_date": "2024-04-19",
+        "is_special_set": false,
+        "standard_legal_until": "2027-04-19",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 149.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 179.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "mh3": {
+        "release_date": "2024-06-14",
+        "is_special_set": true,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 269.64,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 359.88,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 199.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "blb": {
+        "release_date": "2024-08-02",
+        "is_special_set": false,
+        "standard_legal_until": "2027-08-02",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 149.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 179.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "dsk": {
+        "release_date": "2024-09-27",
+        "is_special_set": false,
+        "standard_legal_until": "2027-09-27",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 149.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 179.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "fdn": {
+        "release_date": "2024-11-15",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 149.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "gift-bundle",
+            "msrp": 44.99,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "commander-deck-display",
+            "msrp": 179.96,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      }
+    },
+    "Universes Beyond": {
+      "acr": {
+        "release_date": "2024-07-05",
+        "is_special_set": true,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "play-booster-box",
+            "msrp": 107.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "collector-booster-box",
+            "msrp": 239.76,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      }
+    }
+  }
+}

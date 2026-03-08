@@ -1,0 +1,6455 @@
+{
+  "set_id": "sv10",
+  "months": [
+    {
+      "month": "2025-05",
+      "card_prices": [
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 5.99
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 19.49,
+          "graded_prices": {
+            "psa_10": 124.96,
+            "grade_9": 34.33
+          }
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 12.57
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 16.71
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 214.56,
+          "graded_prices": {
+            "psa_10": 1188.85,
+            "grade_9": 306.91
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 57.18,
+          "graded_prices": {
+            "psa_10": 298.28,
+            "grade_9": 78.76
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 16.97,
+          "graded_prices": {
+            "psa_10": 115.02,
+            "grade_9": 31.78
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 15
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 36.22,
+          "graded_prices": {
+            "psa_10": 211.52,
+            "grade_9": 56.51
+          }
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 8.89,
+          "graded_prices": {
+            "psa_10": 85.53,
+            "grade_9": 24.23
+          }
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 47.01
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 17.36
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 2.35
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 3.36
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 44.99,
+          "graded_prices": {}
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 69.98,
+            "grade_9": 20.24
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.99
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 17
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 10
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 55,
+          "graded_prices": {
+            "psa_10": 339.82,
+            "grade_9": 89.38
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 9.84,
+          "graded_prices": {
+            "psa_10": 81.67,
+            "grade_9": 23.24
+          }
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 19.99
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 11.14
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 15
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 42.49,
+          "graded_prices": {
+            "psa_10": 243.75,
+            "grade_9": 64.77
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 27.19,
+          "graded_prices": {
+            "psa_10": 182.35,
+            "grade_9": 49.03
+          }
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 64.99,
+          "graded_prices": {
+            "psa_10": 354.81,
+            "grade_9": 93.22
+          }
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 12.5
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 19.49,
+          "graded_prices": {
+            "psa_10": 179.86,
+            "grade_9": 48.41
+          }
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 24.99,
+          "graded_prices": {
+            "psa_10": 168.8,
+            "grade_9": 45.56
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 2.5
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 7.76,
+          "graded_prices": {
+            "psa_10": 68.99,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 93.73,
+            "grade_9": 26.32
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 14.99,
+          "graded_prices": {}
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 23.69,
+          "graded_prices": {}
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 11.95,
+          "graded_prices": {
+            "psa_10": 101.17,
+            "grade_9": 28.23
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 55,
+          "graded_prices": {}
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 7
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 2.84
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 30,
+          "graded_prices": {}
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 20.54
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 242.5,
+          "graded_prices": {
+            "psa_10": 1379.37,
+            "grade_9": 355.74
+          }
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 4.99
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.99
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.92
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 5.6
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 24.99,
+          "graded_prices": {}
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 9.47
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 172.98,
+          "graded_prices": {
+            "psa_10": 977.63,
+            "grade_9": 252.89
+          }
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 417.84,
+          "graded_prices": {
+            "psa_10": 2908.17,
+            "grade_9": 747.69
+          }
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 10
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 34.25,
+          "graded_prices": {}
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 32.49,
+          "graded_prices": {
+            "psa_10": 192.36,
+            "grade_9": 51.61
+          }
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 37.7,
+          "graded_prices": {
+            "psa_10": 219.13,
+            "grade_9": 58.45
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 3.95
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 107,
+          "graded_prices": {}
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 4.75
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 8.5,
+          "graded_prices": {
+            "psa_10": 79.93,
+            "grade_9": 22.79
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 56.83,
+          "graded_prices": {
+            "psa_10": 351.66,
+            "grade_9": 92.44
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 92.06,
+          "graded_prices": {
+            "psa_10": 477.22,
+            "grade_9": 124.62
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 27.17,
+          "graded_prices": {
+            "psa_10": 156.8,
+            "grade_9": 42.48
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 11.99,
+          "graded_prices": {
+            "psa_10": 97.08,
+            "grade_9": 27.18
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 7.94
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 2.99
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 139.99,
+          "graded_prices": {
+            "psa_10": 759.35,
+            "grade_9": 196.91
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.47
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29.73,
+          "graded_prices": {
+            "psa_10": 211.17,
+            "grade_9": 56.42
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 16.02,
+          "graded_prices": {}
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10.35
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 41,
+          "graded_prices": {
+            "psa_10": 329.82,
+            "grade_9": 86.84
+          }
+        }
+      ],
+      "ev": 195.044197944664,
+      "set_value": 2639.959999999999,
+      "top_5_value": 1187.87,
+      "top_5_ratio": 0.4499575751147746
+    },
+    {
+      "month": "2025-06",
+      "card_prices": [
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 6.57,
+          "graded_prices": {
+            "psa_10": 63.16,
+            "grade_9": 18.65
+          }
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 11.53
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 6.5
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 3.2
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 500,
+            "grade_9": 22.05
+          }
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 197.25,
+          "graded_prices": {
+            "psa_10": 838.17,
+            "grade_9": 237.42
+          }
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.68
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 5.94,
+          "graded_prices": {
+            "psa_10": 59.1,
+            "grade_9": 17.6
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.75
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 26.49
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.83
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 65,
+          "graded_prices": {
+            "psa_10": 363.79,
+            "grade_9": 97.1
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 2.74
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 7.51
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 46.61,
+          "graded_prices": {
+            "psa_10": 263.84,
+            "grade_9": 71.03
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.96
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 16,
+          "graded_prices": {
+            "psa_10": 365,
+            "grade_9": 22.49
+          }
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 20,
+          "graded_prices": {
+            "psa_10": 250,
+            "grade_9": 38.07
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 15.49,
+          "graded_prices": {
+            "psa_10": 106.71,
+            "grade_9": 30.02
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 7.99,
+          "graded_prices": {
+            "psa_10": 72.12,
+            "grade_9": 20.99
+          }
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 124.33,
+            "grade_9": 34.62
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 5.95,
+          "graded_prices": {
+            "psa_10": 61.37,
+            "grade_9": 18.19
+          }
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.72
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.58
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 29.99,
+          "graded_prices": {
+            "psa_10": 464.5,
+            "grade_9": 55
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 3.97
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 9.99
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 139.5,
+          "graded_prices": {
+            "psa_10": 620,
+            "grade_9": 180.25
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26,
+          "graded_prices": {
+            "psa_10": 164.95,
+            "grade_9": 45.23
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 37.19,
+          "graded_prices": {
+            "psa_10": 330,
+            "grade_9": 89
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.6
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.21
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 11.73
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.99
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.25
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 357.18,
+          "graded_prices": {
+            "psa_10": 1430.5,
+            "grade_9": 455
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 79.21,
+          "graded_prices": {
+            "psa_10": 525,
+            "grade_9": 98.93
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.57
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 25.67,
+          "graded_prices": {
+            "psa_10": 339.99,
+            "grade_9": 42.28
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 11.21,
+          "graded_prices": {
+            "psa_10": 81.97,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 11.32
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.18
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 31.98,
+          "graded_prices": {
+            "psa_10": 185,
+            "grade_9": 52.18
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 8.99
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.38
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 2.46
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 2.44
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 54.75,
+            "grade_9": 16.46
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 4.99,
+          "graded_prices": {
+            "psa_10": 300,
+            "grade_9": 17.43
+          }
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 14.91,
+          "graded_prices": {
+            "psa_10": 164.5,
+            "grade_9": 29.79
+          }
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 52.71,
+          "graded_prices": {
+            "psa_10": 456.88,
+            "grade_9": 89
+          }
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 6.32,
+          "graded_prices": {
+            "psa_10": 62.67,
+            "grade_9": 18.52
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 12.61,
+          "graded_prices": {
+            "psa_10": 151,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 11.59,
+          "graded_prices": {
+            "psa_10": 84.32,
+            "grade_9": 24.16
+          }
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.88
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 25.99,
+          "graded_prices": {
+            "psa_10": 156.15,
+            "grade_9": 42.92
+          }
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 27.97,
+          "graded_prices": {
+            "psa_10": 162.79,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.34
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 7.79
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 5.5
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 5.51
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 145,
+          "graded_prices": {
+            "psa_10": 662,
+            "grade_9": 175.73
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 18.25,
+          "graded_prices": {
+            "psa_10": 125.21,
+            "grade_9": 34.85
+          }
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 5.97,
+          "graded_prices": {
+            "psa_10": 61.92,
+            "grade_9": 18.33
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 41,
+          "graded_prices": {
+            "psa_10": 177.5,
+            "grade_9": 61.93
+          }
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 9.66,
+          "graded_prices": {
+            "psa_10": 74.56,
+            "grade_9": 21.62
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 9.5,
+          "graded_prices": {
+            "psa_10": 81.82,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 66.3,
+            "grade_9": 19.46
+          }
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 9
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 97.92,
+          "graded_prices": {
+            "psa_10": 604.5,
+            "grade_9": 136.67
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 34.48,
+          "graded_prices": {
+            "psa_10": 86.96,
+            "grade_9": 53.28
+          }
+        }
+      ],
+      "ev": 125.23270366956523,
+      "set_value": 1884.5300000000007,
+      "top_5_value": 936.85,
+      "top_5_ratio": 0.49712660451146956
+    },
+    {
+      "month": "2025-07",
+      "card_prices": [
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 40.35,
+          "graded_prices": {
+            "psa_10": 201.25,
+            "grade_9": 42.99
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 20.06,
+          "graded_prices": {
+            "psa_10": 127.96,
+            "grade_9": 36.05
+          }
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 14.06,
+          "graded_prices": {
+            "psa_10": 110.5,
+            "grade_9": 21.75
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 89,
+            "grade_9": 20.5
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 11.48
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 30,
+          "graded_prices": {
+            "psa_10": 155.59,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 2.07
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.9,
+          "graded_prices": {
+            "psa_10": 81,
+            "grade_9": 44.79
+          }
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 17.7,
+          "graded_prices": {
+            "psa_10": 191.69,
+            "grade_9": 32.09
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 16.5
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 7.77,
+          "graded_prices": {
+            "psa_10": 106.44,
+            "grade_9": 19.95
+          }
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 22.13,
+          "graded_prices": {
+            "psa_10": 215.28,
+            "grade_9": 75
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 148.75,
+            "grade_9": 17.01
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 10.52,
+          "graded_prices": {
+            "psa_10": 152.5,
+            "grade_9": 28
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 26,
+          "graded_prices": {
+            "psa_10": 279.6,
+            "grade_9": 46
+          }
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.24
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.2
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 27.24,
+          "graded_prices": {
+            "psa_10": 166.29,
+            "grade_9": 35.22
+          }
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 156.47,
+          "graded_prices": {
+            "psa_10": 545.01,
+            "grade_9": 182.5
+          }
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 65,
+          "graded_prices": {
+            "psa_10": 313.79,
+            "grade_9": 71.19
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 73.99,
+          "graded_prices": {
+            "psa_10": 308.75,
+            "grade_9": 82.88
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 12.99
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 24.52
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 30.05,
+          "graded_prices": {
+            "psa_10": 219.99,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 7.5
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.97
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 35.5,
+          "graded_prices": {
+            "psa_10": 306.33,
+            "grade_9": 51.5
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 7.15,
+          "graded_prices": {
+            "psa_10": 75.44,
+            "grade_9": 20.5
+          }
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 140,
+          "graded_prices": {
+            "psa_10": 536.74,
+            "grade_9": 170
+          }
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 110,
+          "graded_prices": {
+            "psa_10": 465,
+            "grade_9": 147.93
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 4.84
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.33
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 3.07
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.4
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.72
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 51.5,
+          "graded_prices": {
+            "psa_10": 310,
+            "grade_9": 73.42
+          }
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 8.18
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 7.29
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 6.25,
+          "graded_prices": {
+            "psa_10": 107.75,
+            "grade_9": 22.26
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.86
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 12.25,
+          "graded_prices": {
+            "psa_10": 156.25,
+            "grade_9": 25.62
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 10.5,
+          "graded_prices": {
+            "psa_10": 148.34,
+            "grade_9": 22.5
+          }
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 216.25,
+          "graded_prices": {
+            "psa_10": 679.87,
+            "grade_9": 207.75
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 5.93,
+          "graded_prices": {
+            "psa_10": 76,
+            "grade_9": 12.5
+          }
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 385,
+          "graded_prices": {
+            "psa_10": 1000,
+            "grade_9": 395.5
+          }
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.79
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 5.76,
+          "graded_prices": {
+            "psa_10": 90,
+            "grade_9": 13.01
+          }
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 5.49
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.3
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 10.57,
+          "graded_prices": {
+            "psa_10": 173.75,
+            "grade_9": 17.01
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 14.99,
+          "graded_prices": {
+            "psa_10": 162,
+            "grade_9": 24.51
+          }
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 31.6,
+          "graded_prices": {
+            "psa_10": 350.2,
+            "grade_9": 50.4
+          }
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 9.75
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 45,
+          "graded_prices": {
+            "psa_10": 256.09,
+            "grade_9": 63.05
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 42.85,
+          "graded_prices": {
+            "psa_10": 118,
+            "grade_9": 46
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 22.49,
+          "graded_prices": {
+            "psa_10": 154.5,
+            "grade_9": 31.51
+          }
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.59
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 155.51,
+            "grade_9": 21.85
+          }
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 5.82
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 8.43
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 300,
+            "grade_9": 21.39
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 11.29,
+          "graded_prices": {
+            "psa_10": 140,
+            "grade_9": 28
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 11.39
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.99
+        }
+      ],
+      "ev": 126.31298388616602,
+      "set_value": 1962.8699999999997,
+      "top_5_value": 1007.72,
+      "top_5_ratio": 0.5133911058806748
+    },
+    {
+      "month": "2025-08",
+      "card_prices": [
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 10.79,
+          "graded_prices": {
+            "psa_10": 155.75,
+            "grade_9": 20.9
+          }
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.41
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 34,
+          "graded_prices": {
+            "psa_10": 139.69,
+            "grade_9": 33.64
+          }
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 2.42
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 5.21,
+          "graded_prices": {
+            "psa_10": 46.47,
+            "grade_9": 16.5
+          }
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 9,
+          "graded_prices": {
+            "psa_10": 82.28,
+            "grade_9": 17.46
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 112.04,
+            "grade_9": 18.44
+          }
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 7.25
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 11.24
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 145.63,
+          "graded_prices": {
+            "psa_10": 468.5,
+            "grade_9": 172.5
+          }
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 72.72,
+          "graded_prices": {
+            "psa_10": 265.62,
+            "grade_9": 71.75
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.3
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 73.1,
+          "graded_prices": {
+            "psa_10": 245.42,
+            "grade_9": 94
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 39.74,
+          "graded_prices": {
+            "psa_10": 114.45,
+            "grade_9": 45.21
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 117.46,
+            "grade_9": 19.78
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 24.63,
+          "graded_prices": {
+            "psa_10": 179.28,
+            "grade_9": 34
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 10.87,
+          "graded_prices": {
+            "psa_10": 123.75,
+            "grade_9": 28
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 61.22,
+            "grade_9": 13.4
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.38
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 101.25,
+          "graded_prices": {
+            "psa_10": 363.5,
+            "grade_9": 141.25
+          }
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 23.11
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 2.7
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 192.82,
+          "graded_prices": {
+            "psa_10": 596.89,
+            "grade_9": 210
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.82
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.85
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 29.23,
+          "graded_prices": {
+            "psa_10": 217.29,
+            "grade_9": 44.6
+          }
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.4
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 6.22
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 149.48,
+          "graded_prices": {
+            "psa_10": 511.94,
+            "grade_9": 174.25
+          }
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 18.08,
+          "graded_prices": {
+            "psa_10": 168.39,
+            "grade_9": 34.25
+          }
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 56,
+          "graded_prices": {
+            "psa_10": 266.5,
+            "grade_9": 66.99
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 5.34,
+          "graded_prices": {
+            "psa_10": 64.38,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 3.69,
+          "graded_prices": {
+            "psa_10": 72,
+            "grade_9": 14.32
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 12.65,
+          "graded_prices": {
+            "psa_10": 124.84,
+            "grade_9": 25.91
+          }
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 8.94
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 49,
+          "graded_prices": {
+            "psa_10": 241.51,
+            "grade_9": 58.75
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 2.7
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.4
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 1.76
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 22.63,
+          "graded_prices": {
+            "psa_10": 96,
+            "grade_9": 25.74
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.64
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10.81
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 8.5
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.42
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 36,
+          "graded_prices": {
+            "psa_10": 232,
+            "grade_9": 51
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 4.24
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 28.91,
+          "graded_prices": {
+            "psa_10": 141,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 357.5,
+          "graded_prices": {
+            "psa_10": 1000,
+            "grade_9": 392
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 30.99,
+          "graded_prices": {
+            "psa_10": 88,
+            "grade_9": 26.56
+          }
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.51
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 6.75,
+          "graded_prices": {
+            "psa_10": 80,
+            "grade_9": 19.13
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 5.12,
+          "graded_prices": {
+            "psa_10": 68.44,
+            "grade_9": 14.51
+          }
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 8.88
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.99
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 10.41,
+          "graded_prices": {
+            "psa_10": 95.23,
+            "grade_9": 20
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.01
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.88
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 15.48,
+          "graded_prices": {
+            "psa_10": 172.86,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 5.02,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 16.25
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 10,
+          "graded_prices": {
+            "psa_10": 97.5,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 6.46,
+          "graded_prices": {
+            "psa_10": 80.75,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.83
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 13.05,
+          "graded_prices": {
+            "psa_10": 149.99,
+            "grade_9": 21.5
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 31.61,
+          "graded_prices": {
+            "psa_10": 104.19,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.25
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 5.97
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 39.5,
+          "graded_prices": {
+            "psa_10": 164.99,
+            "grade_9": 42.18
+          }
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.54
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10.45
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 23.41,
+          "graded_prices": {
+            "psa_10": 143.77,
+            "grade_9": 22
+          }
+        }
+      ],
+      "ev": 121.61669202213439,
+      "set_value": 1893.2100000000007,
+      "top_5_value": 946.68,
+      "top_5_ratio": 0.5000396152566274
+    },
+    {
+      "month": "2025-09",
+      "card_prices": [
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.15
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 6.47
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 6.61,
+          "graded_prices": {
+            "psa_10": 77.75,
+            "grade_9": 28
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 120,
+            "grade_9": 20.59
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 31.53,
+          "graded_prices": {
+            "psa_10": 100,
+            "grade_9": 42
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 79.46,
+          "graded_prices": {
+            "psa_10": 250,
+            "grade_9": 81.06
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 42.75,
+          "graded_prices": {
+            "psa_10": 113.75,
+            "grade_9": 42.26
+          }
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 5.17,
+          "graded_prices": {
+            "psa_10": 58.5,
+            "grade_9": 19.74
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 12.5,
+          "graded_prices": {
+            "psa_10": 120,
+            "grade_9": 24.99
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.65
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 7.62
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 234.75,
+          "graded_prices": {
+            "psa_10": 774.99,
+            "grade_9": 245
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.87
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 20.36,
+          "graded_prices": {
+            "psa_10": 173.15,
+            "grade_9": 29.03
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10.89
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 25
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 47.93,
+          "graded_prices": {
+            "psa_10": 230,
+            "grade_9": 60
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 26.58,
+          "graded_prices": {
+            "psa_10": 83.48,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.11,
+          "graded_prices": {
+            "psa_10": 46,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 35,
+          "graded_prices": {
+            "psa_10": 147.5,
+            "grade_9": 33.34
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.96
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.8
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 8.3
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 7.8,
+          "graded_prices": {
+            "psa_10": 87,
+            "grade_9": 15.91
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 15.32,
+          "graded_prices": {
+            "psa_10": 145.63,
+            "grade_9": 24.15
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 11.99,
+          "graded_prices": {
+            "psa_10": 89.44,
+            "grade_9": 18.5
+          }
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 209.95,
+          "graded_prices": {
+            "psa_10": 594.18,
+            "grade_9": 190.5
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 45,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 69.36,
+            "grade_9": 15.34
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 28.3,
+          "graded_prices": {
+            "psa_10": 214.43,
+            "grade_9": 40
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32,
+          "graded_prices": {
+            "psa_10": 96.5,
+            "grade_9": 26.94
+          }
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.53
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 12.5,
+          "graded_prices": {
+            "psa_10": 77.64,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 108.73,
+            "grade_9": 21.93
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 5.04,
+          "graded_prices": {
+            "psa_10": 63.61,
+            "grade_9": 19.27
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 4.57,
+          "graded_prices": {
+            "psa_10": 48,
+            "grade_9": 16.73
+          }
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.22
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 7.34
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 131,
+          "graded_prices": {
+            "psa_10": 371.87,
+            "grade_9": 140.09
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.91
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 68.39,
+          "graded_prices": {
+            "psa_10": 388.52,
+            "grade_9": 69.11
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.89
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 507.61,
+          "graded_prices": {
+            "psa_10": 1950,
+            "grade_9": 520.98
+          }
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 81.87,
+          "graded_prices": {
+            "psa_10": 279.97,
+            "grade_9": 86
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 38.84,
+          "graded_prices": {
+            "psa_10": 143.52,
+            "grade_9": 42.87
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 38.24,
+          "graded_prices": {
+            "psa_10": 323.51,
+            "grade_9": 50.5
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.48
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.44
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 5.73,
+          "graded_prices": {
+            "psa_10": 72.5,
+            "grade_9": 15.52
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 6,
+          "graded_prices": {
+            "psa_10": 80.05,
+            "grade_9": 17.45
+          }
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 8.98
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.99
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.1
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.83
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 50.79,
+            "grade_9": 14.76
+          }
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10.47
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 5.42
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 30.63,
+          "graded_prices": {
+            "psa_10": 89.19,
+            "grade_9": 32.53
+          }
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 2.8
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 8.83
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 145,
+          "graded_prices": {
+            "psa_10": 475.88,
+            "grade_9": 174.37
+          }
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.82
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 35.34,
+          "graded_prices": {
+            "psa_10": 250,
+            "grade_9": 43.99
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 13.01,
+          "graded_prices": {
+            "psa_10": 122.5,
+            "grade_9": 22
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.29
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 17,
+          "graded_prices": {
+            "psa_10": 151.43,
+            "grade_9": 25.08
+          }
+        }
+      ],
+      "ev": 136.69285799525693,
+      "set_value": 2229.1600000000003,
+      "top_5_value": 1228.31,
+      "top_5_ratio": 0.5510192180013995
+    },
+    {
+      "month": "2025-10",
+      "card_prices": [
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 4.5,
+          "graded_prices": {
+            "psa_10": 59.26,
+            "grade_9": 15.89
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 29,
+          "graded_prices": {
+            "psa_10": 240.63,
+            "grade_9": 37.94
+          }
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 227.98,
+          "graded_prices": {
+            "psa_10": 750,
+            "grade_9": 216.3
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 14.65,
+          "graded_prices": {
+            "psa_10": 167.5,
+            "grade_9": 22.64
+          }
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.93
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 4.66
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 277,
+          "graded_prices": {
+            "psa_10": 930,
+            "grade_9": 305
+          }
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.8
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.53
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 11.27,
+          "graded_prices": {
+            "psa_10": 112.5,
+            "grade_9": 24.14
+          }
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32.79,
+          "graded_prices": {
+            "psa_10": 91.69,
+            "grade_9": 27.88
+          }
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.11
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 12.72,
+          "graded_prices": {
+            "psa_10": 85.24,
+            "grade_9": 18.35
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.66
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 5.35
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 15.25,
+          "graded_prices": {
+            "psa_10": 161.25,
+            "grade_9": 29.79
+          }
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 31.75,
+          "graded_prices": {
+            "psa_10": 269.57,
+            "grade_9": 41.45
+          }
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.5
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 515.07,
+          "graded_prices": {
+            "psa_10": 1608.29,
+            "grade_9": 570
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 39.99,
+          "graded_prices": {
+            "psa_10": 144.99,
+            "grade_9": 44.61
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 5.72,
+          "graded_prices": {
+            "psa_10": 50.58,
+            "grade_9": 18.29
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 10
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 22.29
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.74
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.22
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 5.5,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 15.25
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.06,
+          "graded_prices": {
+            "psa_10": 80,
+            "grade_9": 17.03
+          }
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 7.25
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 29,
+          "graded_prices": {
+            "psa_10": 104.2,
+            "grade_9": 28.17
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 24.27,
+          "graded_prices": {
+            "psa_10": 87.58,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.45
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.48
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 8.98
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 4.94
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.81
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 61,
+          "graded_prices": {
+            "psa_10": 388.76,
+            "grade_9": 75
+          }
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 4.5
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 38.39,
+          "graded_prices": {
+            "psa_10": 113.75,
+            "grade_9": 42.51
+          }
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 5.13,
+          "graded_prices": {
+            "psa_10": 74.44,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 9.25,
+          "graded_prices": {
+            "psa_10": 114.25,
+            "grade_9": 19.47
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 4.69,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 15.82
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 96,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 157.5,
+          "graded_prices": {
+            "psa_10": 482.5,
+            "grade_9": 179.83
+          }
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.87,
+          "graded_prices": {
+            "psa_10": 53.67,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.38
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.41
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 30.97,
+          "graded_prices": {
+            "psa_10": 115,
+            "grade_9": 42
+          }
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.83
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 61.85,
+            "grade_9": 16.41
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 9.99,
+          "graded_prices": {
+            "psa_10": 92.06,
+            "grade_9": 20
+          }
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 5.99
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 95,
+          "graded_prices": {
+            "psa_10": 301,
+            "grade_9": 100.25
+          }
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 47.5,
+          "graded_prices": {
+            "psa_10": 230,
+            "grade_9": 60
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.57
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.82
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 130.74,
+          "graded_prices": {
+            "psa_10": 404.99,
+            "grade_9": 145.97
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 19.87,
+          "graded_prices": {
+            "psa_10": 71.42,
+            "grade_9": 21
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.49
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 8
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32,
+          "graded_prices": {
+            "psa_10": 160.5,
+            "grade_9": 32.32
+          }
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 7.79,
+          "graded_prices": {
+            "psa_10": 84,
+            "grade_9": 16.99
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 33.67,
+          "graded_prices": {
+            "psa_10": 280.57,
+            "grade_9": 46.54
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 2.25
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 2.52
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 12,
+          "graded_prices": {
+            "psa_10": 125,
+            "grade_9": 26.59
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 71.5,
+          "graded_prices": {
+            "psa_10": 224.81,
+            "grade_9": 81
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 9.57,
+          "graded_prices": {
+            "psa_10": 110,
+            "grade_9": 20.25
+          }
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 200,
+            "grade_9": 30.15
+          }
+        }
+      ],
+      "ev": 133.10163186403162,
+      "set_value": 2255.94,
+      "top_5_value": 1308.2900000000002,
+      "top_5_ratio": 0.5799312038440739
+    },
+    {
+      "month": "2025-11",
+      "card_prices": [
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 24.5,
+          "graded_prices": {
+            "psa_10": 200.5,
+            "grade_9": 33
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 7.88,
+          "graded_prices": {
+            "psa_10": 77,
+            "grade_9": 17.39
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 4.13,
+          "graded_prices": {
+            "psa_10": 51.75,
+            "grade_9": 17.48
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 3.06,
+          "graded_prices": {
+            "psa_10": 59.04,
+            "grade_9": 16.09
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.99
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.57
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 5,
+          "graded_prices": {
+            "psa_10": 62.44,
+            "grade_9": 18.41
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 4.96,
+          "graded_prices": {
+            "psa_10": 56.74,
+            "grade_9": 15.4
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 25,
+          "graded_prices": {
+            "psa_10": 217.96,
+            "grade_9": 40
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 11,
+          "graded_prices": {
+            "psa_10": 137.5,
+            "grade_9": 17.5
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 4.85,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 14.14
+          }
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 3.21,
+          "graded_prices": {
+            "psa_10": 53.17,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 8.8,
+          "graded_prices": {
+            "psa_10": 104.58,
+            "grade_9": 18.5
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.67
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 2.36
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 9.11,
+          "graded_prices": {
+            "psa_10": 75.61,
+            "grade_9": 17.4
+          }
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 17.74
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 5.31
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 3.25
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 35,
+          "graded_prices": {
+            "psa_10": 126.25,
+            "grade_9": 36
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 30.35,
+          "graded_prices": {
+            "psa_10": 91.69,
+            "grade_9": 38
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.36
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.59
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.24
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.5
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 240,
+          "graded_prices": {
+            "psa_10": 596.1,
+            "grade_9": 262.89
+          }
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.89,
+          "graded_prices": {
+            "psa_10": 79.49,
+            "grade_9": 32.37
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 27.42,
+          "graded_prices": {
+            "psa_10": 90.5,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 20.25,
+          "graded_prices": {
+            "psa_10": 66.85,
+            "grade_9": 24.11
+          }
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.2
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 13.46,
+          "graded_prices": {
+            "psa_10": 135.73,
+            "grade_9": 23.91
+          }
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 4.94,
+          "graded_prices": {
+            "psa_10": 78.94,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 6.74,
+          "graded_prices": {
+            "psa_10": 83.12,
+            "grade_9": 15.26
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 20.62,
+          "graded_prices": {
+            "psa_10": 202.5,
+            "grade_9": 34.61
+          }
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 177.64,
+          "graded_prices": {
+            "psa_10": 485.06,
+            "grade_9": 191.14
+          }
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.21
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 15,
+          "graded_prices": {
+            "psa_10": 152.27,
+            "grade_9": 30.89
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.37,
+          "graded_prices": {
+            "psa_10": 65.42,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 21.59,
+          "graded_prices": {
+            "psa_10": 78.26,
+            "grade_9": 30.25
+          }
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.34
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.02
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.72
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 3.07
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 16.03,
+          "graded_prices": {
+            "psa_10": 43,
+            "grade_9": 23.5
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.7
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.22
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 79.24,
+          "graded_prices": {
+            "psa_10": 225.5,
+            "grade_9": 90.76
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.05,
+          "graded_prices": {
+            "psa_10": 76,
+            "grade_9": 28.22
+          }
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.24
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 4.02,
+          "graded_prices": {
+            "psa_10": 57.14,
+            "grade_9": 16.5
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.4
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 108.46,
+          "graded_prices": {
+            "psa_10": 381.33,
+            "grade_9": 165
+          }
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 480,
+          "graded_prices": {
+            "psa_10": 1242.49,
+            "grade_9": 461.96
+          }
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 99.3,
+          "graded_prices": {
+            "psa_10": 317.5,
+            "grade_9": 116.75
+          }
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.78
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.3
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 3.31
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 4.27
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 59.99,
+          "graded_prices": {
+            "psa_10": 174.79,
+            "grade_9": 66.63
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 7.99,
+          "graded_prices": {
+            "psa_10": 100,
+            "grade_9": 19.72
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 8.52,
+          "graded_prices": {
+            "psa_10": 90.99,
+            "grade_9": 17.27
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.4
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 4.99
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 45,
+          "graded_prices": {
+            "psa_10": 205,
+            "grade_9": 59.99
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.27
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 2.23
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 7.81
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 4.6
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 50.95,
+          "graded_prices": {
+            "psa_10": 275,
+            "grade_9": 63.94
+          }
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 69,
+            "grade_9": 14.33
+          }
+        }
+      ],
+      "ev": 108.5146509486166,
+      "set_value": 1870.3,
+      "top_5_value": 1105.4,
+      "top_5_ratio": 0.5910281772977598
+    },
+    {
+      "month": "2025-12",
+      "card_prices": [
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 3.52,
+          "graded_prices": {
+            "psa_10": 54.56,
+            "grade_9": 17.81
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 31.77,
+          "graded_prices": {
+            "psa_10": 99.81,
+            "grade_9": 38
+          }
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.77
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 13.09,
+          "graded_prices": {
+            "psa_10": 106.25,
+            "grade_9": 26
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 6.2,
+          "graded_prices": {
+            "psa_10": 64,
+            "grade_9": 17.54
+          }
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.95
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 41.1,
+          "graded_prices": {
+            "psa_10": 150,
+            "grade_9": 48.62
+          }
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.03
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 1.67
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.72
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 199,
+          "graded_prices": {
+            "psa_10": 508.45,
+            "grade_9": 212.84
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 19.94,
+          "graded_prices": {
+            "psa_10": 60,
+            "grade_9": 22.08
+          }
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1.49
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 9.47,
+          "graded_prices": {
+            "psa_10": 98.63,
+            "grade_9": 17.51
+          }
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 3.5
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 49.48,
+          "graded_prices": {
+            "psa_10": 154,
+            "grade_9": 68.92
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 29.24,
+          "graded_prices": {
+            "psa_10": 89.97,
+            "grade_9": 39.73
+          }
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.62
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 12.84,
+          "graded_prices": {
+            "psa_10": 107.5,
+            "grade_9": 21.72
+          }
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.27
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.49
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 26.69,
+          "graded_prices": {
+            "psa_10": 76.5,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 2.15
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.12
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 3.13,
+          "graded_prices": {
+            "psa_10": 46,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 5.61,
+          "graded_prices": {
+            "psa_10": 61.99,
+            "grade_9": 16.38
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 13.99,
+          "graded_prices": {
+            "psa_10": 41.74,
+            "grade_9": 23.53
+          }
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.2
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 46.89,
+          "graded_prices": {
+            "psa_10": 245,
+            "grade_9": 58.76
+          }
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.31
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 4.25
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 4.25
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 420.4,
+          "graded_prices": {
+            "psa_10": 1150,
+            "grade_9": 409.75
+          }
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 62.42,
+          "graded_prices": {
+            "psa_10": 181,
+            "grade_9": 76.85
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 27.54,
+          "graded_prices": {
+            "psa_10": 79.5,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.06
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 3.56,
+          "graded_prices": {
+            "psa_10": 59,
+            "grade_9": 16.5
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.51,
+          "graded_prices": {
+            "psa_10": 64,
+            "grade_9": 13.61
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.95
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.98
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 5.02
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 72.5,
+            "grade_9": 30
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 1.25
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 8.99,
+          "graded_prices": {
+            "psa_10": 71.5,
+            "grade_9": 17
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 7,
+          "graded_prices": {
+            "psa_10": 75,
+            "grade_9": 19.54
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 4.63,
+          "graded_prices": {
+            "psa_10": 89.85,
+            "grade_9": 18
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 20.71,
+          "graded_prices": {
+            "psa_10": 152.93,
+            "grade_9": 28.92
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.93
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 3.33
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 3.75,
+          "graded_prices": {
+            "psa_10": 67.5,
+            "grade_9": 15.45
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 6.49,
+          "graded_prices": {
+            "psa_10": 75.5,
+            "grade_9": 19.45
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.13
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.04
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 150,
+          "graded_prices": {
+            "psa_10": 412.5,
+            "grade_9": 167.81
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 3.41,
+          "graded_prices": {
+            "psa_10": 58.35,
+            "grade_9": 15.9
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 8.5,
+          "graded_prices": {
+            "psa_10": 79,
+            "grade_9": 17.75
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.46
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.5
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.69
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 112.13,
+          "graded_prices": {
+            "psa_10": 300.71,
+            "grade_9": 125
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 22.39,
+          "graded_prices": {
+            "psa_10": 182.5,
+            "grade_9": 35.95
+          }
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.82
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.49
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 23.83,
+          "graded_prices": {
+            "psa_10": 64.79,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.46
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 21.87,
+          "graded_prices": {
+            "psa_10": 173.06,
+            "grade_9": 31
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 4.25,
+          "graded_prices": {
+            "psa_10": 49.92,
+            "grade_9": 15.56
+          }
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 16.62
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 3.82
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 3.64
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 92.5,
+          "graded_prices": {
+            "psa_10": 266.1,
+            "grade_9": 112.29
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 3.76,
+          "graded_prices": {
+            "psa_10": 52.3,
+            "grade_9": 14.68
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 5.91,
+          "graded_prices": {
+            "psa_10": 94,
+            "grade_9": 19.96
+          }
+        }
+      ],
+      "ev": 98.38317520316204,
+      "set_value": 1670.22,
+      "top_5_value": 974.03,
+      "top_5_ratio": 0.5831746716001485
+    },
+    {
+      "month": "2026-01",
+      "card_prices": [
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.46
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 3.5,
+          "graded_prices": {
+            "psa_10": 62.87,
+            "grade_9": 15
+          }
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 4.98
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.62
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 2.55,
+          "graded_prices": {
+            "psa_10": 50,
+            "grade_9": 20
+          }
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 3.7
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 102.76,
+          "graded_prices": {
+            "psa_10": 299.97,
+            "grade_9": 117.5
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 24.65,
+          "graded_prices": {
+            "psa_10": 60.25,
+            "grade_9": 26.67
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 6.99,
+          "graded_prices": {
+            "psa_10": 67,
+            "grade_9": 16.2
+          }
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 60.71,
+          "graded_prices": {
+            "psa_10": 169.99,
+            "grade_9": 76
+          }
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 3.5,
+          "graded_prices": {
+            "psa_10": 57.36,
+            "grade_9": 15.9
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 4.25,
+          "graded_prices": {
+            "psa_10": 77.67,
+            "grade_9": 17.01
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.02
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 200,
+          "graded_prices": {
+            "psa_10": 489.99,
+            "grade_9": 192.5
+          }
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 24.34,
+          "graded_prices": {
+            "psa_10": 66.88,
+            "grade_9": 27
+          }
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 25,
+          "graded_prices": {
+            "psa_10": 83.5,
+            "grade_9": 30.94
+          }
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 30,
+          "graded_prices": {
+            "psa_10": 85.95,
+            "grade_9": 38.5
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 7.57,
+          "graded_prices": {
+            "psa_10": 80.5,
+            "grade_9": 18.84
+          }
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.25
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 4.62,
+          "graded_prices": {
+            "psa_10": 62.56,
+            "grade_9": 16.39
+          }
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 4.58
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1.1
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.2
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 12,
+          "graded_prices": {
+            "psa_10": 107.75,
+            "grade_9": 20.95
+          }
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 4.43,
+          "graded_prices": {
+            "psa_10": 57.92,
+            "grade_9": 15.13
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 19.99,
+          "graded_prices": {
+            "psa_10": 137.53,
+            "grade_9": 27.01
+          }
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 7.82,
+          "graded_prices": {
+            "psa_10": 87.42,
+            "grade_9": 21.68
+          }
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.99
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 3.73,
+          "graded_prices": {
+            "psa_10": 62.28,
+            "grade_9": 16.8
+          }
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 11.77,
+          "graded_prices": {
+            "psa_10": 104.7,
+            "grade_9": 24.68
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 9.85,
+          "graded_prices": {
+            "psa_10": 97,
+            "grade_9": 19.99
+          }
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 3.43
+        },
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 415,
+          "graded_prices": {
+            "psa_10": 1180,
+            "grade_9": 468.75
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 27.99,
+          "graded_prices": {
+            "psa_10": 85,
+            "grade_9": 35
+          }
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 3.63,
+          "graded_prices": {
+            "psa_10": 54.49,
+            "grade_9": 14.26
+          }
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.3
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.32
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.6
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 50.99,
+          "graded_prices": {
+            "psa_10": 156.43,
+            "grade_9": 61.89
+          }
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 23.91,
+          "graded_prices": {
+            "psa_10": 180,
+            "grade_9": 30
+          }
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 2.15
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.07
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.68
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 2.69
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.27
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 3.51
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 145.28,
+          "graded_prices": {
+            "psa_10": 402,
+            "grade_9": 157
+          }
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 42.95,
+          "graded_prices": {
+            "psa_10": 143,
+            "grade_9": 46.01
+          }
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 6.79,
+          "graded_prices": {
+            "psa_10": 94.77,
+            "grade_9": 19.77
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 18,
+          "graded_prices": {
+            "psa_10": 60.34,
+            "grade_9": 22.4
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 14.37,
+          "graded_prices": {
+            "psa_10": 42.7,
+            "grade_9": 24.4
+          }
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.74
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.86
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 8.44,
+          "graded_prices": {
+            "psa_10": 70.68,
+            "grade_9": 17
+          }
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 5.79,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 19.24
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.3
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 92.5,
+          "graded_prices": {
+            "psa_10": 265,
+            "grade_9": 100
+          }
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 51.3,
+          "graded_prices": {
+            "psa_10": 326,
+            "grade_9": 57
+          }
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 2.46
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.99
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 6.11
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 18.38,
+          "graded_prices": {
+            "psa_10": 66.61,
+            "grade_9": 24.37
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 21.57,
+          "graded_prices": {
+            "psa_10": 172.5,
+            "grade_9": 35.5
+          }
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 3.99,
+          "graded_prices": {
+            "psa_10": 64,
+            "grade_9": 15.5
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 3.93,
+          "graded_prices": {
+            "psa_10": 56.41,
+            "grade_9": 17.2
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.1
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 16.21
+        }
+      ],
+      "ev": 96.90844917628459,
+      "set_value": 1641.52,
+      "top_5_value": 955.54,
+      "top_5_ratio": 0.5821068278181197
+    },
+    {
+      "month": "2026-02",
+      "card_prices": [
+        {
+          "number": "231",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 415.4,
+          "graded_prices": {
+            "psa_10": 1275,
+            "grade_9": 465,
+            "tag_10": 1150,
+            "ace_10": 799.09,
+            "sgc_10": 765,
+            "cgc_10": 743.13,
+            "bgs_10": 1900,
+            "bgs_10_black_label": 4186.88,
+            "cgc_10_pristine": 1250.27
+          }
+        },
+        {
+          "number": "235",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 23.13,
+          "graded_prices": {
+            "psa_10": 77.5,
+            "grade_9": 28.79,
+            "tag_10": 50,
+            "ace_10": 78.03,
+            "sgc_10": 47,
+            "cgc_10": 20.35,
+            "bgs_10": 150,
+            "bgs_10_black_label": 750,
+            "cgc_10_pristine": 127.5
+          }
+        },
+        {
+          "number": "238",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "special_illustration_rare",
+          "price_usd": 32.28,
+          "graded_prices": {
+            "psa_10": 85,
+            "grade_9": 31.25,
+            "tag_10": 76,
+            "ace_10": 83.71,
+            "sgc_10": 51,
+            "cgc_10": 142.75,
+            "bgs_10": 111,
+            "bgs_10_black_label": 555,
+            "cgc_10_pristine": 257
+          }
+        },
+        {
+          "number": "025",
+          "name": "Rabsca ex",
+          "rarity": "double_rare",
+          "price_usd": 1.27
+        },
+        {
+          "number": "197",
+          "name": "Rotom",
+          "rarity": "illustration_rare",
+          "price_usd": 4.23,
+          "graded_prices": {
+            "psa_10": 64.99,
+            "grade_9": 15.6,
+            "tag_10": 80,
+            "ace_10": 63.49,
+            "sgc_10": 39,
+            "cgc_10": 23.5,
+            "bgs_10": 84,
+            "bgs_10_black_label": 420,
+            "cgc_10_pristine": 42
+          }
+        },
+        {
+          "number": "205",
+          "name": "Arven's Greedent",
+          "rarity": "illustration_rare",
+          "price_usd": 3.45,
+          "graded_prices": {
+            "psa_10": 52.71,
+            "grade_9": 15.37,
+            "tag_10": 38,
+            "ace_10": 9.19,
+            "cgc_10": 13.08,
+            "bgs_10": 69,
+            "bgs_10_black_label": 345,
+            "cgc_10_pristine": 42.5
+          }
+        },
+        {
+          "number": "206",
+          "name": "Yanmega ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.22
+        },
+        {
+          "number": "209",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6
+        },
+        {
+          "number": "237",
+          "name": "Team Rocket's Ariana",
+          "rarity": "special_illustration_rare",
+          "price_usd": 21.19,
+          "graded_prices": {
+            "psa_10": 65.81,
+            "grade_9": 25,
+            "tag_10": 79.31,
+            "ace_10": 39,
+            "cgc_10": 51.79,
+            "bgs_10": 56.5,
+            "bgs_10_black_label": 283,
+            "cgc_10_pristine": 93
+          }
+        },
+        {
+          "number": "104",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "double_rare",
+          "price_usd": 1.28
+        },
+        {
+          "number": "188",
+          "name": "Hydrapple",
+          "rarity": "illustration_rare",
+          "price_usd": 3.69,
+          "graded_prices": {
+            "psa_10": 50.89,
+            "grade_9": 15.75,
+            "tag_10": 45,
+            "ace_10": 55.54,
+            "sgc_10": 31,
+            "cgc_10": 20.23,
+            "bgs_10": 66,
+            "bgs_10_black_label": 330,
+            "cgc_10_pristine": 62
+          }
+        },
+        {
+          "number": "201",
+          "name": "Zamazenta",
+          "rarity": "illustration_rare",
+          "price_usd": 4.42,
+          "graded_prices": {
+            "psa_10": 70.42,
+            "grade_9": 17.01,
+            "tag_10": 70.15,
+            "ace_10": 61.42,
+            "sgc_10": 42,
+            "cgc_10": 15.45,
+            "bgs_10": 92,
+            "bgs_10_black_label": 460,
+            "cgc_10_pristine": 94.29
+          }
+        },
+        {
+          "number": "199",
+          "name": "Team Rocket's Weezing",
+          "rarity": "illustration_rare",
+          "price_usd": 7,
+          "graded_prices": {
+            "psa_10": 84.5,
+            "grade_9": 19.15,
+            "tag_10": 71.84,
+            "ace_10": 68.24,
+            "sgc_10": 51,
+            "cgc_10": 44.74,
+            "bgs_10": 110,
+            "bgs_10_black_label": 550,
+            "cgc_10_pristine": 143.23
+          }
+        },
+        {
+          "number": "213",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 19.72
+        },
+        {
+          "number": "241",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "hyper_rare",
+          "price_usd": 29.28,
+          "graded_prices": {
+            "psa_10": 85.5,
+            "grade_9": 33,
+            "tag_10": 90,
+            "ace_10": 61.18,
+            "sgc_10": 51,
+            "cgc_10": 46,
+            "bgs_10": 111,
+            "bgs_10_black_label": 555,
+            "cgc_10_pristine": 189.99
+          }
+        },
+        {
+          "number": "023",
+          "name": "Arboliva ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "031",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "double_rare",
+          "price_usd": 1.47
+        },
+        {
+          "number": "039",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "double_rare",
+          "price_usd": 1.79
+        },
+        {
+          "number": "069",
+          "name": "Electivire ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "185",
+          "name": "Shaymin",
+          "rarity": "illustration_rare",
+          "price_usd": 8,
+          "graded_prices": {
+            "psa_10": 63,
+            "grade_9": 15.86,
+            "tag_10": 65,
+            "ace_10": 80.73,
+            "sgc_10": 38,
+            "cgc_10": 23.5,
+            "bgs_10": 82,
+            "bgs_10_black_label": 410,
+            "cgc_10_pristine": 96.04
+          }
+        },
+        {
+          "number": "217",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4
+        },
+        {
+          "number": "204",
+          "name": "Kangaskhan",
+          "rarity": "illustration_rare",
+          "price_usd": 7.2,
+          "graded_prices": {
+            "psa_10": 92.5,
+            "grade_9": 20.74,
+            "tag_10": 70.83,
+            "ace_10": 92.65,
+            "sgc_10": 56,
+            "cgc_10": 42,
+            "bgs_10": 120,
+            "bgs_10_black_label": 600,
+            "cgc_10_pristine": 107.75
+          }
+        },
+        {
+          "number": "214",
+          "name": "Regirock ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.58
+        },
+        {
+          "number": "219",
+          "name": "Team Rocket's Persian ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.44
+        },
+        {
+          "number": "221",
+          "name": "Ethan's Adventure",
+          "rarity": "ultra_rare",
+          "price_usd": 4.55
+        },
+        {
+          "number": "003",
+          "name": "Yanmega ex",
+          "rarity": "double_rare",
+          "price_usd": 1.26
+        },
+        {
+          "number": "218",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.52
+        },
+        {
+          "number": "229",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 99,
+          "graded_prices": {
+            "psa_10": 313.14,
+            "grade_9": 117.5,
+            "tag_10": 291,
+            "ace_10": 206.24,
+            "sgc_10": 188,
+            "cgc_10": 163.9,
+            "bgs_10": 950,
+            "bgs_10_black_label": 4750,
+            "cgc_10_pristine": 381
+          }
+        },
+        {
+          "number": "233",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 87.73,
+          "graded_prices": {
+            "psa_10": 270.05,
+            "grade_9": 100,
+            "tag_10": 275,
+            "ace_10": 168.23,
+            "sgc_10": 162,
+            "cgc_10": 225.75,
+            "bgs_10": 481.8,
+            "bgs_10_black_label": 2409,
+            "cgc_10_pristine": 337.77
+          }
+        },
+        {
+          "number": "194",
+          "name": "Misty's Lapras",
+          "rarity": "illustration_rare",
+          "price_usd": 22.16,
+          "graded_prices": {
+            "psa_10": 180,
+            "grade_9": 33,
+            "tag_10": 157.5,
+            "ace_10": 112.17,
+            "sgc_10": 127.53,
+            "cgc_10": 59.59,
+            "bgs_10": 234,
+            "bgs_10_black_label": 1170,
+            "cgc_10_pristine": 164
+          }
+        },
+        {
+          "number": "066",
+          "name": "Dondozo ex",
+          "rarity": "double_rare",
+          "price_usd": 1
+        },
+        {
+          "number": "183",
+          "name": "Yanma",
+          "rarity": "illustration_rare",
+          "price_usd": 3.29,
+          "graded_prices": {
+            "psa_10": 62.5,
+            "grade_9": 16,
+            "tag_10": 34,
+            "ace_10": 67.9,
+            "sgc_10": 20,
+            "cgc_10": 18.93,
+            "bgs_10": 81,
+            "bgs_10_black_label": 405,
+            "cgc_10_pristine": 34
+          }
+        },
+        {
+          "number": "189",
+          "name": "Rapidash",
+          "rarity": "illustration_rare",
+          "price_usd": 7.67,
+          "graded_prices": {
+            "psa_10": 95,
+            "grade_9": 20.5,
+            "tag_10": 76,
+            "ace_10": 83.02,
+            "sgc_10": 16.5,
+            "cgc_10": 43.5,
+            "bgs_10": 124,
+            "bgs_10_black_label": 620,
+            "cgc_10_pristine": 134.71
+          }
+        },
+        {
+          "number": "192",
+          "name": "Blaziken",
+          "rarity": "illustration_rare",
+          "price_usd": 8.77,
+          "graded_prices": {
+            "psa_10": 97.65,
+            "grade_9": 21.03,
+            "tag_10": 79.07,
+            "ace_10": 66.96,
+            "sgc_10": 59,
+            "cgc_10": 35.25,
+            "bgs_10": 127,
+            "bgs_10_black_label": 635,
+            "cgc_10_pristine": 186.09
+          }
+        },
+        {
+          "number": "193",
+          "name": "Misty's Psyduck",
+          "rarity": "illustration_rare",
+          "price_usd": 49.99,
+          "graded_prices": {
+            "psa_10": 288,
+            "grade_9": 58,
+            "tag_10": 248.55,
+            "ace_10": 163.29,
+            "sgc_10": 173,
+            "cgc_10": 110.82,
+            "bgs_10": 374,
+            "bgs_10_black_label": 1870,
+            "cgc_10_pristine": 327.25
+          }
+        },
+        {
+          "number": "186",
+          "name": "Crustle",
+          "rarity": "illustration_rare",
+          "price_usd": 2.66,
+          "graded_prices": {
+            "psa_10": 48,
+            "grade_9": 16.64,
+            "tag_10": 74.99,
+            "ace_10": 29,
+            "cgc_10": 19.72,
+            "bgs_10": 62,
+            "bgs_10_black_label": 310,
+            "cgc_10_pristine": 32
+          }
+        },
+        {
+          "number": "216",
+          "name": "Team Rocket's Nidoking ex",
+          "rarity": "ultra_rare",
+          "price_usd": 4.94
+        },
+        {
+          "number": "226",
+          "name": "Team Rocket's Petrel",
+          "rarity": "ultra_rare",
+          "price_usd": 9.65
+        },
+        {
+          "number": "239",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "hyper_rare",
+          "price_usd": 25,
+          "graded_prices": {
+            "psa_10": 71,
+            "grade_9": 31.82,
+            "tag_10": 90,
+            "ace_10": 61.91,
+            "sgc_10": 43,
+            "cgc_10": 61,
+            "bgs_10": 92,
+            "bgs_10_black_label": 460,
+            "cgc_10_pristine": 132.5
+          }
+        },
+        {
+          "number": "242",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "hyper_rare",
+          "price_usd": 16.49,
+          "graded_prices": {
+            "psa_10": 53.86,
+            "grade_9": 20.17,
+            "tag_10": 52.5,
+            "ace_10": 66.36,
+            "sgc_10": 32,
+            "cgc_10": 44.13,
+            "bgs_10": 70,
+            "bgs_10_black_label": 350,
+            "cgc_10_pristine": 59.26
+          }
+        },
+        {
+          "number": "065",
+          "name": "Cetitan ex",
+          "rarity": "double_rare",
+          "price_usd": 1.02
+        },
+        {
+          "number": "081",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "double_rare",
+          "price_usd": 1.75
+        },
+        {
+          "number": "136",
+          "name": "Marnie's Grimmsnarl ex",
+          "rarity": "double_rare",
+          "price_usd": 1.53
+        },
+        {
+          "number": "184",
+          "name": "Cynthia's Roserade",
+          "rarity": "illustration_rare",
+          "price_usd": 10.66,
+          "graded_prices": {
+            "psa_10": 109.52,
+            "grade_9": 20.44,
+            "tag_10": 100.96,
+            "ace_10": 103.74,
+            "sgc_10": 66,
+            "cgc_10": 40.56,
+            "bgs_10": 142,
+            "bgs_10_black_label": 710,
+            "cgc_10_pristine": 116.34
+          }
+        },
+        {
+          "number": "203",
+          "name": "Team Rocket's Meowth",
+          "rarity": "illustration_rare",
+          "price_usd": 18.66,
+          "graded_prices": {
+            "psa_10": 138.75,
+            "grade_9": 29.94,
+            "tag_10": 130,
+            "ace_10": 115.88,
+            "sgc_10": 83,
+            "cgc_10": 57.28,
+            "bgs_10": 180,
+            "bgs_10_black_label": 900,
+            "cgc_10_pristine": 175
+          }
+        },
+        {
+          "number": "223",
+          "name": "Team Rocket's Archer",
+          "rarity": "ultra_rare",
+          "price_usd": 4.38
+        },
+        {
+          "number": "228",
+          "name": "Yanmega ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 20.6,
+          "graded_prices": {
+            "psa_10": 66,
+            "grade_9": 21.68,
+            "tag_10": 46.36,
+            "sgc_10": 40,
+            "cgc_10": 31.45,
+            "bgs_10": 91.06,
+            "bgs_10_black_label": 455,
+            "cgc_10_pristine": 104.89
+          }
+        },
+        {
+          "number": "236",
+          "name": "Ethan's Adventure",
+          "rarity": "special_illustration_rare",
+          "price_usd": 39.79,
+          "graded_prices": {
+            "psa_10": 150,
+            "grade_9": 41.63,
+            "tag_10": 120,
+            "ace_10": 105.43,
+            "sgc_10": 90,
+            "cgc_10": 74.75,
+            "bgs_10": 249.5,
+            "bgs_10_black_label": 1248,
+            "cgc_10_pristine": 231.25
+          }
+        },
+        {
+          "number": "187",
+          "name": "Team Rocket's Spidops",
+          "rarity": "illustration_rare",
+          "price_usd": 5.37,
+          "graded_prices": {
+            "psa_10": 66.5,
+            "grade_9": 17.28,
+            "tag_10": 55.3,
+            "ace_10": 58.28,
+            "sgc_10": 40,
+            "cgc_10": 32.5,
+            "bgs_10": 86,
+            "bgs_10_black_label": 430,
+            "cgc_10_pristine": 125
+          }
+        },
+        {
+          "number": "210",
+          "name": "Cetitan ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.72
+        },
+        {
+          "number": "215",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "ultra_rare",
+          "price_usd": 5.15
+        },
+        {
+          "number": "220",
+          "name": "Emcee's Hype",
+          "rarity": "ultra_rare",
+          "price_usd": 3.3
+        },
+        {
+          "number": "232",
+          "name": "Cynthia's Garchomp ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 192.5,
+          "graded_prices": {
+            "psa_10": 485.41,
+            "grade_9": 207.28,
+            "tag_10": 487.5,
+            "ace_10": 321.12,
+            "sgc_10": 291,
+            "cgc_10": 291.16,
+            "bgs_10": 760,
+            "bgs_10_black_label": 4328,
+            "cgc_10_pristine": 785
+          }
+        },
+        {
+          "number": "240",
+          "name": "Team Rocket's Mewtwo ex",
+          "rarity": "hyper_rare",
+          "price_usd": 50,
+          "graded_prices": {
+            "psa_10": 159.51,
+            "grade_9": 60.96,
+            "tag_10": 236.29,
+            "ace_10": 123.55,
+            "sgc_10": 127.5,
+            "cgc_10": 113.19,
+            "bgs_10": 207,
+            "bgs_10_black_label": 1035,
+            "cgc_10_pristine": 178.6
+          }
+        },
+        {
+          "number": "145",
+          "name": "Steven's Metagross ex",
+          "rarity": "double_rare",
+          "price_usd": 1.55
+        },
+        {
+          "number": "195",
+          "name": "Clamperl",
+          "rarity": "illustration_rare",
+          "price_usd": 4.59,
+          "graded_prices": {
+            "psa_10": 47.92,
+            "grade_9": 16.41,
+            "tag_10": 39.77,
+            "ace_10": 53.5,
+            "sgc_10": 25,
+            "cgc_10": 15.94,
+            "bgs_10": 62,
+            "bgs_10_black_label": 310,
+            "cgc_10_pristine": 28
+          }
+        },
+        {
+          "number": "190",
+          "name": "Ethan's Typhlosion",
+          "rarity": "illustration_rare",
+          "price_usd": 22,
+          "graded_prices": {
+            "psa_10": 183.75,
+            "grade_9": 33.63,
+            "tag_10": 161.31,
+            "ace_10": 150.18,
+            "sgc_10": 110,
+            "cgc_10": 60.23,
+            "bgs_10": 239,
+            "bgs_10_black_label": 1195,
+            "cgc_10_pristine": 201
+          }
+        },
+        {
+          "number": "200",
+          "name": "Team Rocket's Murkrow",
+          "rarity": "illustration_rare",
+          "price_usd": 7.19,
+          "graded_prices": {
+            "psa_10": 66.5,
+            "grade_9": 17.54,
+            "tag_10": 54,
+            "ace_10": 61.8,
+            "sgc_10": 40,
+            "cgc_10": 25,
+            "bgs_10": 86,
+            "bgs_10_black_label": 430,
+            "cgc_10_pristine": 95
+          }
+        },
+        {
+          "number": "212",
+          "name": "Electivire ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.67
+        },
+        {
+          "number": "234",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 60,
+          "graded_prices": {
+            "psa_10": 162.86,
+            "grade_9": 69.5,
+            "tag_10": 150,
+            "ace_10": 130.19,
+            "sgc_10": 98,
+            "cgc_10": 141.19,
+            "bgs_10": 400,
+            "bgs_10_black_label": 2800,
+            "cgc_10_pristine": 324.24
+          }
+        },
+        {
+          "number": "122",
+          "name": "Team Rocket's Crobat ex",
+          "rarity": "double_rare",
+          "price_usd": 1.37
+        },
+        {
+          "number": "202",
+          "name": "Team Rocket's Raticate",
+          "rarity": "illustration_rare",
+          "price_usd": 6.04,
+          "graded_prices": {
+            "psa_10": 70,
+            "grade_9": 19.5,
+            "tag_10": 66.6,
+            "ace_10": 49.32,
+            "sgc_10": 42,
+            "cgc_10": 18.19,
+            "bgs_10": 91,
+            "bgs_10_black_label": 455,
+            "cgc_10_pristine": 33
+          }
+        },
+        {
+          "number": "211",
+          "name": "Dondozo ex",
+          "rarity": "ultra_rare",
+          "price_usd": 1.35
+        },
+        {
+          "number": "224",
+          "name": "Team Rocket's Ariana",
+          "rarity": "ultra_rare",
+          "price_usd": 5.78
+        },
+        {
+          "number": "225",
+          "name": "Team Rocket's Giovanni",
+          "rarity": "ultra_rare",
+          "price_usd": 7.32
+        },
+        {
+          "number": "230",
+          "name": "Ethan's Ho-Oh ex",
+          "rarity": "special_illustration_rare",
+          "price_usd": 146.68,
+          "graded_prices": {
+            "psa_10": 400,
+            "grade_9": 161.25,
+            "tag_10": 361.59,
+            "ace_10": 274.88,
+            "sgc_10": 240,
+            "cgc_10": 219.25,
+            "bgs_10": 662.5,
+            "bgs_10_black_label": 3313,
+            "cgc_10_pristine": 449.94
+          }
+        },
+        {
+          "number": "243",
+          "name": "Jamming Tower",
+          "rarity": "hyper_rare",
+          "price_usd": 14.23,
+          "graded_prices": {
+            "psa_10": 41,
+            "grade_9": 24.4,
+            "tag_10": 32.58,
+            "ace_10": 71.03,
+            "sgc_10": 25,
+            "cgc_10": 12.5,
+            "bgs_10": 53,
+            "bgs_10_black_label": 265,
+            "cgc_10_pristine": 52.02
+          }
+        },
+        {
+          "number": "101",
+          "name": "Regirock ex",
+          "rarity": "double_rare",
+          "price_usd": 0.99
+        },
+        {
+          "number": "196",
+          "name": "Electrike",
+          "rarity": "illustration_rare",
+          "price_usd": 3.74,
+          "graded_prices": {
+            "psa_10": 53.77,
+            "grade_9": 14.95,
+            "tag_10": 60.32,
+            "sgc_10": 24,
+            "cgc_10": 14.4,
+            "bgs_10": 70,
+            "bgs_10_black_label": 350,
+            "cgc_10_pristine": 57.5
+          }
+        },
+        {
+          "number": "198",
+          "name": "Team Rocket's Orbeetle",
+          "rarity": "illustration_rare",
+          "price_usd": 4.17,
+          "graded_prices": {
+            "psa_10": 58.73,
+            "grade_9": 14.5,
+            "tag_10": 49.99,
+            "ace_10": 35,
+            "cgc_10": 47.75,
+            "bgs_10": 76,
+            "bgs_10_black_label": 380,
+            "cgc_10_pristine": 94.83
+          }
+        },
+        {
+          "number": "207",
+          "name": "Arboliva ex",
+          "rarity": "ultra_rare",
+          "price_usd": 2.29
+        },
+        {
+          "number": "208",
+          "name": "Team Rocket's Moltres ex",
+          "rarity": "ultra_rare",
+          "price_usd": 6.5
+        },
+        {
+          "number": "227",
+          "name": "Team Rocket Proton",
+          "rarity": "ultra_rare",
+          "price_usd": 5.66
+        },
+        {
+          "number": "139",
+          "name": "Arven's Mabosstiff ex",
+          "rarity": "double_rare",
+          "price_usd": 1.29
+        },
+        {
+          "number": "191",
+          "name": "Team Rocket's Houndoom",
+          "rarity": "illustration_rare",
+          "price_usd": 11.5,
+          "graded_prices": {
+            "psa_10": 116.71,
+            "grade_9": 25.5,
+            "tag_10": 105,
+            "ace_10": 84.99,
+            "sgc_10": 70,
+            "cgc_10": 50,
+            "bgs_10": 152,
+            "bgs_10_black_label": 760,
+            "cgc_10_pristine": 125.5
+          }
+        },
+        {
+          "number": "222",
+          "name": "Judge",
+          "rarity": "ultra_rare",
+          "price_usd": 2.69
+        }
+      ],
+      "ev": 96.03125645691698,
+      "set_value": 1627.7399999999998,
+      "top_5_value": 941.31,
+      "top_5_ratio": 0.5782926020126065
+    }
+  ]
+}

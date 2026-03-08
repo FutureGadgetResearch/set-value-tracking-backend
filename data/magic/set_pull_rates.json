@@ -1,0 +1,127 @@
+{
+  "Standard": {
+    "mkm": {
+      "set_name": "Murders at Karlov Manor",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.143 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.016 }
+      ]
+    },
+    "otj": {
+      "set_name": "Outlaws of Thunder Junction",
+      "rarities": [
+        { "rarity": "rare",                 "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic",               "pull_rate_per_pack": 0.143 },
+        { "rarity": "special_guest",        "pull_rate_per_pack": 0.016 },
+        { "rarity": "breaking_news_rare",   "pull_rate_per_pack": 0.083 },
+        { "rarity": "breaking_news_mythic", "pull_rate_per_pack": 0.011 }
+      ]
+    },
+    "mh3": {
+      "set_name": "Modern Horizons 3",
+      "rarities": [
+        { "rarity": "rare",               "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic",             "pull_rate_per_pack": 0.143 },
+        { "rarity": "retro_frame_rare",   "pull_rate_per_pack": 0.066 },
+        { "rarity": "retro_frame_mythic", "pull_rate_per_pack": 0.010 }
+      ]
+    },
+    "blb": {
+      "set_name": "Bloomburrow",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.143 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.016 }
+      ]
+    },
+    "dsk": {
+      "set_name": "Duskmourn: House of Horror",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.143 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.016 }
+      ]
+    },
+    "fdn": {
+      "set_name": "Magic: The Gathering Foundations",
+      "rarities": [
+        { "rarity": "rare",   "pull_rate_per_pack": 1.00 },
+        { "rarity": "mythic", "pull_rate_per_pack": 0.143 }
+      ]
+    },
+    "inr": {
+      "set_name": "Innistrad Remastered",
+      "rarities": [
+        { "rarity": "rare",   "pull_rate_per_pack": 0.86 },
+        { "rarity": "mythic", "pull_rate_per_pack": 0.14 }
+      ]
+    },
+    "dft": {
+      "set_name": "Aetherdrift",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.13 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.184 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.015 }
+      ]
+    },
+    "tdm": {
+      "set_name": "Tarkir: Dragonstorm",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.15 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.164 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.015 }
+      ]
+    },
+    "eoe": {
+      "set_name": "Edge of Eternities",
+      "rarities": [
+        { "rarity": "rare",           "pull_rate_per_pack": 1.18 },
+        { "rarity": "mythic",         "pull_rate_per_pack": 0.193 },
+        { "rarity": "stellar_sights", "pull_rate_per_pack": 0.125 }
+      ]
+    },
+    "ecl": {
+      "set_name": "Lorwyn Eclipsed",
+      "rarities": [
+        { "rarity": "rare",          "pull_rate_per_pack": 1.13 },
+        { "rarity": "mythic",        "pull_rate_per_pack": 0.21 },
+        { "rarity": "special_guest", "pull_rate_per_pack": 0.0182 }
+      ]
+    }
+  },
+  "Universes Beyond": {
+    "acr": {
+      "set_name": "Assassin's Creed",
+      "rarities": [
+        { "rarity": "rare",   "pull_rate_per_pack": 0.875 },
+        { "rarity": "mythic", "pull_rate_per_pack": 0.125 }
+      ]
+    },
+    "fin": {
+      "set_name": "Final Fantasy",
+      "rarities": [
+        { "rarity": "rare",                   "pull_rate_per_pack": 1.15 },
+        { "rarity": "mythic",                 "pull_rate_per_pack": 0.15 },
+        { "rarity": "through_the_ages_rare",  "pull_rate_per_pack": 0.099 },
+        { "rarity": "through_the_ages_mythic","pull_rate_per_pack": 0.023 }
+      ]
+    },
+    "spm": {
+      "set_name": "Marvel's Spider-Man",
+      "rarities": [
+        { "rarity": "rare",            "pull_rate_per_pack": 1.13 },
+        { "rarity": "mythic",          "pull_rate_per_pack": 0.169 },
+        { "rarity": "source_material", "pull_rate_per_pack": 0.0417 }
+      ]
+    },
+    "tla": {
+      "set_name": "Avatar: The Last Airbender",
+      "rarities": [
+        { "rarity": "rare",            "pull_rate_per_pack": 1.02 },
+        { "rarity": "mythic",          "pull_rate_per_pack": 0.174 },
+        { "rarity": "source_material", "pull_rate_per_pack": 0.0385 }
+      ]
+    }
+  }
+}
