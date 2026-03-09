@@ -10,6 +10,6 @@ FROM alpine:3.21
 RUN apk add --no-cache ca-certificates
 WORKDIR /app
 COPY --from=builder /app/evupdate .
-COPY data/pokemon/ data/pokemon/
+COPY data/ data/
 
 ENTRYPOINT ["/app/evupdate"]

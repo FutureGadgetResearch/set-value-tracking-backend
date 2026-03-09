@@ -11,16 +11,23 @@
 //
 // Environment variables:
 //
-//	BQ_PROJECT   BigQuery project ID          (default: future-gadget-labs-483502)
-//	BQ_DATASET   BigQuery dataset             (default: tcg_stage)
-//	BQ_TABLE_SET set_market_history table     (default: set_market_history)
-//	BQ_TABLE_CARD card_market_history table   (default: card_market_history)
-//	GCS_BUCKET   GCS bucket for input files   (optional)
+//	GAME          Game to process                (default: pokemon)
+//	              Automatically resolves data paths:
+//	                pokemon   → data/pokemon/set_contents.json, data/pokemon/set_pull_rates.json
+//	                riftbound → data/riftbound/set_contents.json, data/riftbound/set_pull_rates.json
+//	CONTENTS_PATH Override set_contents.json path (optional)
+//	PULL_RATES_PATH Override set_pull_rates.json path (optional)
+//	BQ_PROJECT    BigQuery project ID            (default: future-gadget-labs-483502)
+//	BQ_DATASET    BigQuery dataset               (default: tcg_stage)
+//	BQ_TABLE_SET  set_market_history table       (default: set_market_history)
+//	BQ_TABLE_CARD card_market_history table      (default: card_market_history)
+//	GCS_BUCKET    GCS bucket for input files     (optional)
 //
 // Usage:
 //
 //	go run ./cmd/evupdate
 //	go run ./cmd/evupdate -set sv02
+//	GAME=riftbound go run ./cmd/evupdate -set rb01
 package main
 
 import (
@@ -42,13 +49,7 @@ import (
 	"cloud.google.com/go/civil"
 )
 
-const (
-	contentsPath  = "data/pokemon/set_contents.json"
-	pullRatesPath = "data/pokemon/set_pull_rates.json"
-	game          = "pokemon"
-
-	politeDelay = 500 * time.Millisecond
-)
+const politeDelay = 500 * time.Millisecond
 
 var gradedRarities = map[string]bool{
 	"illustration_rare":         true,
@@ -66,6 +67,10 @@ func envOr(key, def string) string {
 func main() {
 	setFlag := flag.String("set", "", "set ID to process (e.g. sv02); omit to process all sets")
 	flag.Parse()
+
+	game := envOr("GAME", "pokemon")
+	contentsPath := envOr("CONTENTS_PATH", "data/"+game+"/set_contents.json")
+	pullRatesPath := envOr("PULL_RATES_PATH", "data/"+game+"/set_pull_rates.json")
 
 	ctx := context.Background()
 

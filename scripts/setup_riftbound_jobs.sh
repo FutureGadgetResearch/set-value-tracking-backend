@@ -4,17 +4,13 @@
 # (offset from Pokemon jobs which start at 00:00 UTC).
 # Already-created jobs/schedulers are skipped automatically.
 # Usage: bash scripts/setup_riftbound_jobs.sh
-#
-# NOTE: IMAGE must point to a Docker image that runs main.go (not evupdate).
-#       Build and push that image before running this script.
 
 set -e
 
 PROJECT=future-gadget-labs-483502
 REGION=us-central1
-IMAGE=us-central1-docker.pkg.dev/future-gadget-labs-483502/tcg/pricing:latest
+IMAGE=us-central1-docker.pkg.dev/future-gadget-labs-483502/tcg/evupdate:latest
 SA=evupdate-runner@future-gadget-labs-483502.iam.gserviceaccount.com
-GCS_BUCKET=future-gadget-labs-tcg-data
 
 # rb03 excluded — no pricecharting URLs yet
 SETS=(rb01 rb02)
@@ -45,9 +41,10 @@ for SET_ID in "${SETS[@]}"; do
       --image="$IMAGE" \
       --region="$REGION" \
       --service-account="$SA" \
-      --set-env-vars="GAME=riftbound,SET_IDS=${SET_ID},GCS_BUCKET=${GCS_BUCKET}" \
+      --set-env-vars="GAME=riftbound,BQ_PROJECT=$PROJECT,BQ_DATASET=tcg_stage" \
       --memory=512Mi \
       --task-timeout=30m \
+      --args="-set,$SET_ID" \
       --project="$PROJECT"
     echo "  job created"
   fi

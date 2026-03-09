@@ -3494,8 +3494,8 @@
           "rarity": "hyper_rare",
           "pull_rate_per_pack": 0.0008,
           "unique_card_count": 1,
-          "individual_card_pull_rate": null,
-          "master_difficulty_score": null
+          "individual_card_pull_rate": 1250,
+          "master_difficulty_score": 1250
         }
       ]
     },
@@ -3534,8 +3534,8 @@
           "rarity": "hyper_rare",
           "pull_rate_per_pack": 0.0019,
           "unique_card_count": 2,
-          "individual_card_pull_rate": null,
-          "master_difficulty_score": null
+          "individual_card_pull_rate": 1053,
+          "master_difficulty_score": 1579
         },
         {
           "rarity": "mega_attack_rare",
