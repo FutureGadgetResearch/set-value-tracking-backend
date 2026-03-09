@@ -37,6 +37,7 @@ import (
 	"log"
 	"os"
 	"sort"
+	"strings"
 	"time"
 
 	internalbq "github.com/FutureGadgetResearch/set-value-tracking-backend/internal/bq"
@@ -233,48 +234,71 @@ func processSet(
 		time.Sleep(politeDelay)
 	}
 
-	// ── Phase 1.5: fill current-month prices from BQ for skipped cards ──────────
-	// Cards already in card_market_history for the current month were skipped
-	// in Phase 1. Fetch their RAW prices so set metrics are computed from the
-	// full card set, not just the newly-scraped subset.
+	// ── Phase 1.5: fill BQ prices for all months missing from set_market_history ─
+	// card_market_history may already have rows for months that have no
+	// corresponding set_market_history entry (e.g. partial first run, or
+	// current-month cards that were skipped above). For each such month,
+	// fetch the RAW card prices from BQ and merge into byMonth so Phase 3
+	// can compute and insert the missing set metrics.
 	{
-		bqKey := contents.SetID + "|" + currentMonthKey + "-01"
-		if !existingSet[bqKey] {
-			// Check if any current-month cards were skipped but are in BQ.
+		// Collect all months present in card_market_history for this set.
+		bqCardMonths := make(map[string]bool)
+		for key := range existingCard {
+			// key format: "game_setID_cardNum|YYYY-MM-01"
+			if i := strings.Index(key, "|"); i >= 0 {
+				dateStr := key[i+1:]
+				if len(dateStr) >= 7 {
+					bqCardMonths[dateStr[:7]] = true // "YYYY-MM"
+				}
+			}
+		}
+
+		// Build card info lookup (number → Card) for name/rarity reconstruction.
+		cardInfo := make(map[string]setdata.Card, len(contents.Cards))
+		for _, c := range contents.Cards {
+			cardInfo[c.Number] = c
+		}
+
+		for month := range bqCardMonths {
+			bqKey := contents.SetID + "|" + month + "-01"
+			if existingSet[bqKey] {
+				continue // set_market_history already exists for this month
+			}
+			// Check whether any card for this month is in BQ but missing from byMonth.
 			needFill := false
 			for _, c := range contents.Cards {
+				if _, scraped := byMonth[month][c.Number]; scraped {
+					continue
+				}
 				cardID := fmt.Sprintf("%s_%s_%s", game, contents.SetID, c.Number)
-				if existingCard[cardID+"|"+currentMonthKey+"-01"] {
-					if _, scraped := byMonth[currentMonthKey][c.Number]; !scraped {
-						needFill = true
-						break
-					}
+				if existingCard[cardID+"|"+month+"-01"] {
+					needFill = true
+					break
 				}
 			}
-			if needFill {
-				bqPrices, err := bqClient.FetchRawCardPricesForMonth(ctx, tableCard, game, contents.SetID, currentMonthKey+"-01")
-				if err != nil {
-					log.Printf("WARN: could not fetch BQ prices for %s/%s: %v", contents.SetID, currentMonthKey, err)
-				} else {
-					cardInfo := make(map[string]setdata.Card, len(contents.Cards))
-					for _, c := range contents.Cards {
-						cardInfo[c.Number] = c
-					}
-					ensureMonth(byMonth, currentMonthKey)
-					for num, price := range bqPrices {
-						if _, scraped := byMonth[currentMonthKey][num]; !scraped {
-							info := cardInfo[num]
-							byMonth[currentMonthKey][num] = &ev.CardPrice{
-								Number:   num,
-								Name:     info.Name,
-								Rarity:   info.Rarity,
-								PriceUSD: price,
-							}
-						}
-					}
-					fmt.Printf("merged %d BQ card prices into current month %s\n", len(bqPrices), currentMonthKey)
+			if !needFill {
+				continue
+			}
+
+			bqPrices, err := bqClient.FetchRawCardPricesForMonth(ctx, tableCard, game, contents.SetID, month+"-01")
+			if err != nil {
+				log.Printf("WARN: could not fetch BQ prices for %s/%s: %v", contents.SetID, month, err)
+				continue
+			}
+			ensureMonth(byMonth, month)
+			for num, price := range bqPrices {
+				if _, scraped := byMonth[month][num]; scraped {
+					continue // prefer freshly scraped price
+				}
+				info := cardInfo[num]
+				byMonth[month][num] = &ev.CardPrice{
+					Number:   num,
+					Name:     info.Name,
+					Rarity:   info.Rarity,
+					PriceUSD: price,
 				}
 			}
+			fmt.Printf("merged %d BQ card prices for %s/%s\n", len(bqPrices), contents.SetID, month)
 		}
 	}
 
