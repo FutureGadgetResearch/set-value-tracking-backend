@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"os"
+	"os/exec"
 	"strconv"
 	"strings"
 	"time"
@@ -75,9 +77,18 @@ func fetchMedianAskPrice(productID string) (float64, error) {
 //   col 3 (price-points__lower__left-padding): "Current Sellers:" label
 //   col 4 (no class): seller count value
 func fetchListingCounts(productURL string) (productCount, sellerCount int, err error) {
+	execPath := os.Getenv("CHROMIUM_PATH")
+	if execPath == "" {
+		execPath = "chromium-browser"
+		if _, err := exec.LookPath(execPath); err != nil {
+			execPath = "chromium"
+		}
+	}
+
 	allocCtx, cancelAlloc := chromedp.NewExecAllocator(
 		context.Background(),
 		append(chromedp.DefaultExecAllocatorOptions[:],
+			chromedp.ExecPath(execPath),
 			chromedp.Flag("headless", true),
 			chromedp.Flag("disable-gpu", true),
 			chromedp.Flag("no-sandbox", true),

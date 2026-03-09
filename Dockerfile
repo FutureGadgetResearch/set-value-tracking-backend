@@ -7,7 +7,7 @@ COPY . .
 RUN CGO_ENABLED=0 GOOS=linux go build -o evupdate ./cmd/evupdate
 
 FROM alpine:3.21
-RUN apk add --no-cache ca-certificates
+RUN apk add --no-cache ca-certificates chromium
 WORKDIR /app
 COPY --from=builder /app/evupdate .
 COPY data/ data/

@@ -161,7 +161,7 @@ func (c *Client) InsertCardRows(ctx context.Context, table string, rows []CardMa
 // inserted for today's date. Used to skip products already scraped today.
 func (c *Client) ExistingMarketSnapshotKeys(ctx context.Context, table string) (map[string]bool, error) {
 	q := c.bq.Query(fmt.Sprintf(
-		"SELECT tcg, set_id, product_type FROM `%s.%s` WHERE snapshot_date = CURRENT_DATE()",
+		"SELECT tcg, set_id, product_type FROM `%s.%s` WHERE snapshot_date = DATE_TRUNC(CURRENT_DATE(), MONTH)",
 		c.dataset, table,
 	))
 	it, err := q.Read(ctx)

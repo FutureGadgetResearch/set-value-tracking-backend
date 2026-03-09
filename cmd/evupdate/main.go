@@ -479,7 +479,8 @@ func collectMarketSnapshots(
 	productsBySet map[string][]products.Product,
 	game string,
 ) error {
-	today := civil.DateOf(time.Now().UTC())
+	now := time.Now().UTC()
+	today := civil.Date{Year: now.Year(), Month: now.Month(), Day: 1}
 
 	processedSets := make(map[string]bool, len(allContents))
 	for _, c := range allContents {
