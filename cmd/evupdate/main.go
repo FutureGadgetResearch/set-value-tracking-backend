@@ -233,10 +233,55 @@ func processSet(
 		time.Sleep(politeDelay)
 	}
 
+	// ── Phase 1.5: fill current-month prices from BQ for skipped cards ──────────
+	// Cards already in card_market_history for the current month were skipped
+	// in Phase 1. Fetch their RAW prices so set metrics are computed from the
+	// full card set, not just the newly-scraped subset.
+	{
+		bqKey := contents.SetID + "|" + currentMonthKey + "-01"
+		if !existingSet[bqKey] {
+			// Check if any current-month cards were skipped but are in BQ.
+			needFill := false
+			for _, c := range contents.Cards {
+				cardID := fmt.Sprintf("%s_%s_%s", game, contents.SetID, c.Number)
+				if existingCard[cardID+"|"+currentMonthKey+"-01"] {
+					if _, scraped := byMonth[currentMonthKey][c.Number]; !scraped {
+						needFill = true
+						break
+					}
+				}
+			}
+			if needFill {
+				bqPrices, err := bqClient.FetchRawCardPricesForMonth(ctx, tableCard, game, contents.SetID, currentMonthKey+"-01")
+				if err != nil {
+					log.Printf("WARN: could not fetch BQ prices for %s/%s: %v", contents.SetID, currentMonthKey, err)
+				} else {
+					cardInfo := make(map[string]setdata.Card, len(contents.Cards))
+					for _, c := range contents.Cards {
+						cardInfo[c.Number] = c
+					}
+					ensureMonth(byMonth, currentMonthKey)
+					for num, price := range bqPrices {
+						if _, scraped := byMonth[currentMonthKey][num]; !scraped {
+							info := cardInfo[num]
+							byMonth[currentMonthKey][num] = &ev.CardPrice{
+								Number:   num,
+								Name:     info.Name,
+								Rarity:   info.Rarity,
+								PriceUSD: price,
+							}
+						}
+					}
+					fmt.Printf("merged %d BQ card prices into current month %s\n", len(bqPrices), currentMonthKey)
+				}
+			}
+		}
+	}
+
 	// ── Phase 2: apply Full Price Guide prices to the most recent month ───────
 	latestMonth := latestMonthKey(byMonth)
 	if latestMonth == "" {
-		fmt.Println("no price data scraped — nothing to do")
+		fmt.Println("no price data scraped or found in BQ — nothing to do")
 		return 0, nil
 	}
 	for cardNum, guide := range currentGuides {
@@ -263,6 +308,12 @@ func processSet(
 		m := ev.Calculate(pullRates, prices)
 		date := monthToDate(month)
 
+		// Insert set row if not already present. If a prior run produced a
+		// partial entry (e.g. ev=0 due to incomplete scraping), delete it in
+		// BQ with:
+		//   DELETE FROM `dataset.set_market_history`
+		//   WHERE set_id='rb02' AND month='2026-03-01'
+		// then re-run so the corrected row is inserted.
 		if !existingSet[bqKey] {
 			setRows = append(setRows, internalbq.SetMarketRow{
 				Game:      game,

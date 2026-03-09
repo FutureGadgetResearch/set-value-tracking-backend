@@ -185,6 +185,43 @@ func (c *Client) ExistingMarketSnapshotKeys(ctx context.Context, table string) (
 	return existing, nil
 }
 
+// FetchRawCardPricesForMonth returns a cardNumber→price map for RAW-grade
+// rows in card_market_history for the given set and month ("YYYY-MM-01").
+// Used to backfill set metrics when card rows were already inserted but
+// the set_market_history entry is missing or incomplete.
+func (c *Client) FetchRawCardPricesForMonth(ctx context.Context, table, game, setID, monthDate string) (map[string]float64, error) {
+	prefix := game + "_" + setID + "_"
+	q := c.bq.Query(fmt.Sprintf(
+		"SELECT card_id, market_price FROM `%s.%s` WHERE CAST(month AS STRING) = @month AND grade_id = 'RAW' AND card_id LIKE @prefix",
+		c.dataset, table,
+	))
+	q.Parameters = []bigquery.QueryParameter{
+		{Name: "month", Value: monthDate},
+		{Name: "prefix", Value: prefix + "%"},
+	}
+	it, err := q.Read(ctx)
+	if err != nil {
+		return nil, fmt.Errorf("fetching raw card prices from %s: %w", table, err)
+	}
+	result := make(map[string]float64)
+	prefixLen := len(prefix)
+	for {
+		var row struct {
+			CardID      string               `bigquery:"card_id"`
+			MarketPrice bigquery.NullFloat64 `bigquery:"market_price"`
+		}
+		if err := it.Next(&row); err == iterator.Done {
+			break
+		} else if err != nil {
+			return nil, fmt.Errorf("iterating raw card prices: %w", err)
+		}
+		if row.MarketPrice.Valid && len(row.CardID) > prefixLen {
+			result[row.CardID[prefixLen:]] = row.MarketPrice.Float64
+		}
+	}
+	return result, nil
+}
+
 // InsertMarketSnapshotRows streams rows into tcgplayer_market_snapshots in batches.
 func (c *Client) InsertMarketSnapshotRows(ctx context.Context, table string, rows []TCGPlayerMarketRow) error {
 	ins := c.bq.Dataset(c.dataset).Table(table).Inserter()
