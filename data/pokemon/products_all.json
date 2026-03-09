@@ -9,30 +9,35 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/base-set-booster-box",
             "tcgplayer_id": "476452"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/elite-trainer-box-koraidon",
             "tcgplayer_id": "478336"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/elite-trainer-box-koraidon-pokemon-center",
             "tcgplayer_id": "478756"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/base-booster-bundle",
             "tcgplayer_id": "478258"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet/booster-pack",
             "tcgplayer_id": "476451"
           }
@@ -46,30 +51,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/booster-box",
             "tcgplayer_id": "493975"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/elite-trainer-box",
             "tcgplayer_id": "493974"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "493973"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/booster-bundle",
             "tcgplayer_id": "496914"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/booster-pack",
             "tcgplayer_id": "493976"
           }
@@ -83,30 +93,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/booster-box",
             "tcgplayer_id": "501257"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/elite-trainer-box",
             "tcgplayer_id": "501264"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "501266"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/booster-bundle",
             "tcgplayer_id": "501263"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/booster-pack",
             "tcgplayer_id": "501256"
           }
@@ -120,24 +135,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/elite-trainer-box",
             "tcgplayer_id": "503313"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "501999"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/booster-bundle",
             "tcgplayer_id": "502000"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/booster-pack",
             "tcgplayer_id": "504467"
           }
@@ -151,30 +170,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paradox-rift/booster-box",
             "tcgplayer_id": "512821"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paradox-rift/elite-trainer-box-iron-valiant",
             "tcgplayer_id": "512813"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paradox-rift/elite-trainer-box-iron-valiant-pokemon-center",
             "tcgplayer_id": "512801"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paradox-rift/booster-bundle",
             "tcgplayer_id": "512820"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paradox-rift/booster-pack",
             "tcgplayer_id": "512822"
           }
@@ -188,24 +212,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/elite-trainer-box",
             "tcgplayer_id": "528040"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "528039"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/booster-bundle",
             "tcgplayer_id": "528771"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-paldean-fates/booster-pack",
             "tcgplayer_id": "528038"
           }
@@ -219,30 +247,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-temporal-forces/booster-box",
             "tcgplayer_id": "536225"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-temporal-forces/elite-trainer-box-iron-leaves",
             "tcgplayer_id": "532848"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-temporal-forces/elite-trainer-box-iron-leaves-pokemon-center",
             "tcgplayer_id": "532853"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-temporal-forces/booster-bundle",
             "tcgplayer_id": "541017"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-temporal-forces/booster-pack",
             "tcgplayer_id": "532841"
           }
@@ -256,30 +289,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/booster-box",
             "tcgplayer_id": "543846"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/elite-trainer-box",
             "tcgplayer_id": "543845"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "543844"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/booster-bundle",
             "tcgplayer_id": "543852"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/booster-pack",
             "tcgplayer_id": "543843"
           }
@@ -293,24 +331,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shrouded-fable/elite-trainer-box",
             "tcgplayer_id": "552999"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shrouded-fable/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "552998"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shrouded-fable/booster-bundle",
             "tcgplayer_id": "553031"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shrouded-fable/booster-pack",
             "tcgplayer_id": "552997"
           }
@@ -324,30 +366,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stellar-crown/booster-box",
             "tcgplayer_id": "557354"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stellar-crown/elite-trainer-box",
             "tcgplayer_id": "557350"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stellar-crown/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "557340"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stellar-crown/booster-bundle",
             "tcgplayer_id": "557345"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stellar-crown/booster-pack",
             "tcgplayer_id": "557331"
           }
@@ -361,30 +408,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/booster-box",
             "tcgplayer_id": "565606"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/elite-trainer-box",
             "tcgplayer_id": "565630"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "565632"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/booster-bundle",
             "tcgplayer_id": "679564"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-surging-sparks/booster-pack",
             "tcgplayer_id": "565604"
           }
@@ -398,24 +450,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/elite-trainer-box",
             "tcgplayer_id": "593355"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "593324"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/booster-bundle",
             "tcgplayer_id": "600518"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-prismatic-evolutions/booster-pack",
             "tcgplayer_id": "593294"
           }
@@ -429,24 +485,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-journey-together/elite-trainer-box",
             "tcgplayer_id": "610930"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-journey-together/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "610929"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-journey-together/booster-bundle",
             "tcgplayer_id": "610953"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-journey-together/booster-pack",
             "tcgplayer_id": "610935"
           }
@@ -460,24 +520,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/elite-trainer-box",
             "tcgplayer_id": "624676"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "624675"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/booster-bundle",
             "tcgplayer_id": "625670"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-destined-rivals/booster-pack",
             "tcgplayer_id": "624683"
           }
@@ -491,24 +555,28 @@
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-bolt/booster-bundle",
             "tcgplayer_id": "630431"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-bolt/elite-trainer-box",
             "tcgplayer_id": "630686"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-bolt/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "630687"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-bolt/booster-pack",
             "tcgplayer_id": "630434"
           }
@@ -522,24 +590,28 @@
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-white-flare/booster-bundle",
             "tcgplayer_id": "630696"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-white-flare/elite-trainer-box",
             "tcgplayer_id": "630689"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-white-flare/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "630688"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-white-flare/booster-pack",
             "tcgplayer_id": "630699"
           }
@@ -555,30 +627,35 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mega-evolution/booster-box",
             "tcgplayer_id": "644300"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mega-evolution/elite-trainer-box-mega-lucario",
             "tcgplayer_id": "648394"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mega-evolution/elite-trainer-box-mega-lucario",
             "tcgplayer_id": "648394"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mega-evolution/booster-bundle",
             "tcgplayer_id": "644362"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mega-evolution/booster-pack",
             "tcgplayer_id": "644352"
           }
@@ -592,30 +669,35 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/console/pokemon-phantasmal-flames",
             "tcgplayer_id": "654137"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/elite-trainer-box",
             "tcgplayer_id": "654136"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "654135"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/booster-bundle",
             "tcgplayer_id": "654160"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantasmal-flames/booster-pack",
             "tcgplayer_id": "654144"
           }
@@ -629,24 +711,28 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 49.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "668496"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/booster-bundle",
             "tcgplayer_id": "668541"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 59.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "668497"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/booster-pack",
             "tcgplayer_id": "672434"
           }
@@ -662,18 +748,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sword-&-shield/booster-box-base-set",
             "tcgplayer_id": "206027"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sword-&-shield/booster-pack-base-set",
             "tcgplayer_id": "206028"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sword-&-shield/elite-trainer-box-zacian",
             "tcgplayer_id": "206038"
           }
@@ -687,18 +776,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-rebel-clash/booster-box",
             "tcgplayer_id": "210561"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-rebel-clash/booster-pack",
             "tcgplayer_id": "210562"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-rebel-clash/elite-trainer-box",
             "tcgplayer_id": "210572"
           }
@@ -712,18 +804,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-darkness-ablaze/booster-box",
             "tcgplayer_id": "216853"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-darkness-ablaze/booster-pack",
             "tcgplayer_id": "216852"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-darkness-ablaze/elite-trainer-box",
             "tcgplayer_id": "216856"
           }
@@ -737,12 +832,14 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-champion%27s-path/booster-pack",
             "tcgplayer_id": "218789"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-champion%27s-path/elite-trainer-box",
             "tcgplayer_id": "218791"
           }
@@ -756,18 +853,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/booster-box",
             "tcgplayer_id": "221313"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/booster-pack",
             "tcgplayer_id": "221312"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/elite-trainer-box",
             "tcgplayer_id": "221752"
           }
@@ -781,12 +881,14 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shining-fates/booster-pack",
             "tcgplayer_id": "232636"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shining-fates/elite-trainer-box",
             "tcgplayer_id": "228821"
           }
@@ -800,18 +902,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-battle-styles/booster-box",
             "tcgplayer_id": "229277"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-battle-styles/booster-pack",
             "tcgplayer_id": "229276"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-battle-styles/elite-trainer-box-single-strike",
             "tcgplayer_id": "229284"
           }
@@ -825,24 +930,28 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-chilling-reign/booster-box",
             "tcgplayer_id": "236258"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-chilling-reign/booster-pack",
             "tcgplayer_id": "236257"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-chilling-reign/elite-trainer-box-ice-rider",
             "tcgplayer_id": "236260"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-chilling-reign/elite-trainer-box-ice-rider-pokemon-center",
             "tcgplayer_id": "247281"
           }
@@ -856,24 +965,28 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/booster-box",
             "tcgplayer_id": "242436"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/booster-pack",
             "tcgplayer_id": "244337"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/elite-trainer-box-vaporeon",
             "tcgplayer_id": "242443"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolving-skies/elite-trainer-box-jolteon-pokemon-center",
             "tcgplayer_id": "245352"
           }
@@ -887,18 +1000,21 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celebrations/booster-pack",
             "tcgplayer_id": "248577"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celebrations/elite-trainer-box",
             "tcgplayer_id": "242811"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celebrations/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "251199"
           }
@@ -912,24 +1028,28 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/booster-box",
             "tcgplayer_id": "247654"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/booster-pack",
             "tcgplayer_id": "247646"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/elite-trainer-box",
             "tcgplayer_id": "247671"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fusion-strike/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "247673"
           }
@@ -943,24 +1063,28 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/booster-box",
             "tcgplayer_id": "256141"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/booster-pack",
             "tcgplayer_id": "256124"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/elite-trainer-box",
             "tcgplayer_id": "256138"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "256140"
           }
@@ -974,24 +1098,28 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-astral-radiance/booster-box",
             "tcgplayer_id": "265519"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-astral-radiance/booster-pack",
             "tcgplayer_id": "265521"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-astral-radiance/elite-trainer-box",
             "tcgplayer_id": "265527"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-astral-radiance/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "265528"
           }
@@ -1005,18 +1133,21 @@
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-go/booster-pack",
             "tcgplayer_id": "274421"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-go/elite-trainer-box",
             "tcgplayer_id": "270708"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-go/elite-trainer-box-plus-pokemon-center",
             "tcgplayer_id": "270709"
           }
@@ -1030,30 +1161,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-origin/booster-box",
             "tcgplayer_id": "277324"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-origin/booster-pack",
             "tcgplayer_id": "277325"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-origin/elite-trainer-box",
             "tcgplayer_id": "277335"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-origin/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "277336"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-origin/booster-bundle",
             "tcgplayer_id": "278819"
           }
@@ -1067,30 +1203,35 @@
           {
             "product_type": "booster-box",
             "msrp": 161.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/booster-box",
             "tcgplayer_id": "283389"
           },
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/booster-pack",
             "tcgplayer_id": "283388"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/elite-trainer-box",
             "tcgplayer_id": "283401"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/elite-trainer-box-pokemon-center",
             "tcgplayer_id": "285860"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-silver-tempest/booster-bundle",
             "tcgplayer_id": "283396"
           }
@@ -1104,24 +1245,28 @@
           {
             "product_type": "booster-pack",
             "msrp": 4.49,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/booster-pack",
             "tcgplayer_id": "453466"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/elite-trainer-box",
             "tcgplayer_id": "453470"
           },
           {
             "product_type": "pokemon-center-etb",
             "msrp": 49.99,
+            "packs_per_product": 11,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/elite-trainer-box-plus",
             "tcgplayer_id": "454246"
           },
           {
             "product_type": "booster-bundle",
             "msrp": 26.94,
+            "packs_per_product": 6,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crown-zenith/booster-bundle",
             "tcgplayer_id": "527562"
           }
@@ -1137,18 +1282,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sun-&-moon/booster-box",
             "tcgplayer_id": "126048"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sun-&-moon/booster-pack",
             "tcgplayer_id": "129385"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sun-&-moon/elite-trainer-box-solgaleo",
             "tcgplayer_id": "126089"
           }
@@ -1162,18 +1310,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-guardians-rising/booster-box",
             "tcgplayer_id": "129888"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-guardians-rising/booster-pack",
             "tcgplayer_id": "129889"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-guardians-rising/elite-trainer-box",
             "tcgplayer_id": "129890"
           }
@@ -1187,18 +1338,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-burning-shadows/booster-box",
             "tcgplayer_id": "133773"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-burning-shadows/booster-pack",
             "tcgplayer_id": "133774"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-burning-shadows/elite-trainer-box",
             "tcgplayer_id": "133776"
           }
@@ -1212,12 +1366,14 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shining-legends/booster-pack",
             "tcgplayer_id": "155880"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-shining-legends/elite-trainer-box",
             "tcgplayer_id": "145847"
           }
@@ -1231,18 +1387,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crimson-invasion/booster-box",
             "tcgplayer_id": "146995"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crimson-invasion/booster-pack",
             "tcgplayer_id": "146996"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crimson-invasion/elite-trainer-box",
             "tcgplayer_id": "149377"
           }
@@ -1256,18 +1415,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ultra-prism/booster-box",
             "tcgplayer_id": "155661"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ultra-prism/booster-pack",
             "tcgplayer_id": "155662"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ultra-prism/elite-trainer-box-dusk-mane",
             "tcgplayer_id": "155664"
           }
@@ -1281,18 +1443,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-forbidden-light/booster-box",
             "tcgplayer_id": "164296"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-forbidden-light/booster-pack",
             "tcgplayer_id": "164297"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-forbidden-light/elite-trainer-box",
             "tcgplayer_id": "164303"
           }
@@ -1306,18 +1471,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celestial-storm/booster-box",
             "tcgplayer_id": "170273"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celestial-storm/booster-pack",
             "tcgplayer_id": "170274"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-celestial-storm/elite-trainer-box",
             "tcgplayer_id": "170277"
           }
@@ -1331,12 +1499,14 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon-majesty/booster-pack",
             "tcgplayer_id": "173392"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon-majesty/elite-trainer-box",
             "tcgplayer_id": "173393"
           }
@@ -1350,18 +1520,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-thunder/booster-box",
             "tcgplayer_id": "175509"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-thunder/booster-pack",
             "tcgplayer_id": "175510"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-lost-thunder/elite-trainer-box",
             "tcgplayer_id": "175511"
           }
@@ -1375,18 +1548,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-up/booster-box",
             "tcgplayer_id": "181698"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-up/booster-pack",
             "tcgplayer_id": "181699"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-up/elite-trainer-box",
             "tcgplayer_id": "181704"
           }
@@ -1400,6 +1576,7 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-detective-pikachu/booster-pack",
             "tcgplayer_id": "187239"
           }
@@ -1413,18 +1590,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/booster-box",
             "tcgplayer_id": "185717"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/booster-pack",
             "tcgplayer_id": "185718"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/elite-trainer-box",
             "tcgplayer_id": "185719"
           }
@@ -1438,18 +1618,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unified-minds/booster-box",
             "tcgplayer_id": "191882"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unified-minds/booster-pack",
             "tcgplayer_id": "191883"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unified-minds/elite-trainer-box",
             "tcgplayer_id": "193052"
           }
@@ -1463,12 +1646,14 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-hidden-fates/booster-pack",
             "tcgplayer_id": "198634"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-hidden-fates/elite-trainer-box",
             "tcgplayer_id": "194729"
           }
@@ -1482,18 +1667,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/booster-box",
             "tcgplayer_id": "199261"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/booster-pack",
             "tcgplayer_id": "199263"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/elite-trainer-box",
             "tcgplayer_id": "199308"
           }
@@ -1509,18 +1697,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-xy/booster-box",
             "tcgplayer_id": "91601"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-xy/booster-pack",
             "tcgplayer_id": "91602"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-xy/elite-trainer-box-xerneas",
             "tcgplayer_id": "97747"
           }
@@ -1534,12 +1725,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-flashfire/booster-box",
             "tcgplayer_id": "91594"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-flashfire/booster-pack",
             "tcgplayer_id": "91595"
           }
@@ -1553,18 +1746,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-furious-fists/booster-box",
             "tcgplayer_id": "92168"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-furious-fists/booster-pack",
             "tcgplayer_id": "92169"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-furious-fists/elite-trainer-box",
             "tcgplayer_id": "95284"
           }
@@ -1578,18 +1774,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantom-forces/booster-box",
             "tcgplayer_id": "94623"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantom-forces/booster-pack",
             "tcgplayer_id": "94622"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-phantom-forces/elite-trainer-box",
             "tcgplayer_id": "97786"
           }
@@ -1603,21 +1802,24 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-primal-clash/booster-box",
             "tcgplayer_id": "97750"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-primal-clash/elite-trainer-box-primal-kyogre",
             "tcgplayer_id": "97763"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-primal-clash/booster-pack",
             "tcgplayer_id": "97751"
-          },
+          }
         ]
       },
       "xy6": {
@@ -1628,18 +1830,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-roaring-skies/booster-box",
             "tcgplayer_id": "98026"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-roaring-skies/booster-pack",
             "tcgplayer_id": "129906"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-roaring-skies/elite-trainer-box",
             "tcgplayer_id": "98028"
           }
@@ -1653,18 +1858,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ancient-origins/booster-box",
             "tcgplayer_id": "100489"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ancient-origins/booster-pack",
             "tcgplayer_id": "100490"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ancient-origins/elite-trainer-box",
             "tcgplayer_id": "100495"
           }
@@ -1678,12 +1886,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-breakthrough/booster-box",
             "tcgplayer_id": "107101"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-breakthrough/booster-pack",
             "tcgplayer_id": "107666"
           }
@@ -1697,18 +1907,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-breakpoint/booster-box",
             "tcgplayer_id": "111278"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-breakpoint/elite-trainer-box",
             "tcgplayer_id": "111280"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-breakpoint/booster-pack",
             "tcgplayer_id": "111279"
           }
@@ -1722,12 +1935,14 @@
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-generations/elite-trainer-box",
             "tcgplayer_id": "123741"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-generations/booster-pack",
             "tcgplayer_id": "187238"
           }
@@ -1741,18 +1956,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fates-collide/booster-box",
             "tcgplayer_id": "117478"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fates-collide/booster-pack",
             "tcgplayer_id": "168114"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fates-collide/elite-trainer-box",
             "tcgplayer_id": "118331"
           }
@@ -1766,18 +1984,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-steam-siege/booster-box",
             "tcgplayer_id": "120076"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-steam-siege/booster-pack",
             "tcgplayer_id": "130013"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-steam-siege/elite-trainer-box",
             "tcgplayer_id": "120697"
           }
@@ -1791,18 +2012,21 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolutions/booster-box",
             "tcgplayer_id": "123446"
           },
           {
             "product_type": "elite-trainer-box",
             "msrp": 39.99,
+            "packs_per_product": 9,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolutions/elite-trainer-box-charizard",
             "tcgplayer_id": "123447"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-evolutions/booster-pack",
             "tcgplayer_id": "129907"
           }
@@ -1818,12 +2042,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-&-white/booster-box",
             "tcgplayer_id": "98552"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-black-&-white/booster-pack",
             "tcgplayer_id": "98553"
           }
@@ -1837,12 +2063,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-emerging-powers/booster-box",
             "tcgplayer_id": "98548"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-emerging-powers/booster-pack",
             "tcgplayer_id": "98549"
           }
@@ -1856,12 +2084,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-noble-victories/booster-box",
             "tcgplayer_id": "98571"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-noble-victories/booster-pack",
             "tcgplayer_id": "98570"
           }
@@ -1875,12 +2105,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-next-destinies/booster-box",
             "tcgplayer_id": "98539"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-next-destinies/booster-pack",
             "tcgplayer_id": "98538"
           }
@@ -1894,12 +2126,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dark-explorers/booster-box",
             "tcgplayer_id": "98520"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dark-explorers/booster-pack",
             "tcgplayer_id": "98521"
           }
@@ -1913,12 +2147,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragons-exalted/booster-box",
             "tcgplayer_id": "98540"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragons-exalted/booster-pack",
             "tcgplayer_id": "98541"
           }
@@ -1932,12 +2168,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-boundaries-crossed/booster-box",
             "tcgplayer_id": "98555"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-boundaries-crossed/booster-pack",
             "tcgplayer_id": "98554"
           }
@@ -1951,12 +2189,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-storm/booster-box",
             "tcgplayer_id": "98527"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-storm/booster-pack",
             "tcgplayer_id": "98526"
           }
@@ -1970,12 +2210,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-freeze/booster-box",
             "tcgplayer_id": "98516"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-storm/booster-pack",
             "tcgplayer_id": "98517"
           }
@@ -1989,12 +2231,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-blast/booster-box",
             "tcgplayer_id": "98572"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-plasma-blast/booster-pack",
             "tcgplayer_id": "98573"
           }
@@ -2008,12 +2252,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legendary-treasures/booster-box",
             "tcgplayer_id": "98580"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legendary-treasures/booster-pack",
             "tcgplayer_id": "98581"
           }
@@ -2029,12 +2275,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/booster-box",
             "tcgplayer_id": "98531"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/booster-pack",
             "tcgplayer_id": "98530"
           }
@@ -2048,12 +2296,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unleashed/booster-box",
             "tcgplayer_id": "98583"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unleashed/booster-pack",
             "tcgplayer_id": "98582"
           }
@@ -2067,12 +2317,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-undaunted/booster-box",
             "tcgplayer_id": "98587"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-undaunted/booster-pack",
             "tcgplayer_id": "98586"
           }
@@ -2086,12 +2338,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-triumphant/booster-box",
             "tcgplayer_id": "98535"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-triumphant/booster-pack",
             "tcgplayer_id": "98534"
           }
@@ -2105,12 +2359,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-call-of-legends/booster-box",
             "tcgplayer_id": "98514"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-call-of-legends/booster-pack",
             "tcgplayer_id": "98515"
           }
@@ -2126,12 +2382,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-platinum/booster-box",
             "tcgplayer_id": "98592"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-platinum/booster-pack",
             "tcgplayer_id": "98591"
           }
@@ -2145,12 +2403,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-rising-rivals/booster-box",
             "tcgplayer_id": "98543"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-rising-rivals/booster-pack",
             "tcgplayer_id": "98542"
           }
@@ -2164,12 +2424,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-supreme-victors/booster-box",
             "tcgplayer_id": "98575"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-supreme-victors/booster-pack",
             "tcgplayer_id": "98574"
           }
@@ -2183,12 +2445,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-arceus/booster-box",
             "tcgplayer_id": "98593"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-arceus/booster-pack",
             "tcgplayer_id": "98594"
           }
@@ -2204,12 +2468,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-diamond-&-pearl/booster-box",
             "tcgplayer_id": "98524"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-diamond-&-pearl/booster-pack",
             "tcgplayer_id": "98525"
           }
@@ -2223,12 +2489,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mysterious-treasures/booster-box",
             "tcgplayer_id": "98560"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-mysterious-treasures/booster-pack",
             "tcgplayer_id": "98561"
           }
@@ -2242,12 +2510,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-secret-wonders/booster-box",
             "tcgplayer_id": "98568"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-secret-wonders/booster-pack",
             "tcgplayer_id": "98569"
           }
@@ -2261,12 +2531,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-great-encounters/booster-box",
             "tcgplayer_id": "98544"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-great-encounters/booster-pack",
             "tcgplayer_id": "98545"
           }
@@ -2280,12 +2552,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/booster-box",
             "tcgplayer_id": "98584"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-majestic-dawn/booster-pack",
             "tcgplayer_id": "98585"
           }
@@ -2299,12 +2573,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legends-awakened/booster-box",
             "tcgplayer_id": "98536"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legends-awakened/booster-pack",
             "tcgplayer_id": "98537"
           }
@@ -2318,12 +2594,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stormfront/booster-box",
             "tcgplayer_id": "98588"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-stormfront/booster-pack",
             "tcgplayer_id": "98589"
           }
@@ -2339,12 +2617,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/booster-box",
             "tcgplayer_id": "98559"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/booster-pack",
             "tcgplayer_id": "98558"
           }
@@ -2358,12 +2638,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sandstorm/booster-box",
             "tcgplayer_id": "98564"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-sandstorm/booster-pack",
             "tcgplayer_id": "98565"
           }
@@ -2377,12 +2659,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon/booster-box",
             "tcgplayer_id": "98518"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon/booster-pack",
             "tcgplayer_id": "98519"
           }
@@ -2396,12 +2680,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-magma-&-team-aqua/booster-box",
             "tcgplayer_id": "98551"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-magma-&-team-aqua/booster-pack",
             "tcgplayer_id": "98550"
           }
@@ -2415,12 +2701,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-hidden-legends/booster-box",
             "tcgplayer_id": "98596"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-hidden-legends/booster-pack",
             "tcgplayer_id": "98595"
           }
@@ -2434,12 +2722,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/booster-box",
             "tcgplayer_id": "98945"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fire-red-&-leaf-green/booster-pack",
             "tcgplayer_id": "98946"
           }
@@ -2453,12 +2743,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/booster-box",
             "tcgplayer_id": "98579"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/booster-pack",
             "tcgplayer_id": "98578"
           }
@@ -2472,12 +2764,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-deoxys/booster-box",
             "tcgplayer_id": "98563"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-deoxys/booster-pack",
             "tcgplayer_id": "98562"
           }
@@ -2491,12 +2785,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-emerald/booster-box",
             "tcgplayer_id": "98547"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-emerald/booster-pack",
             "tcgplayer_id": "98546"
           }
@@ -2510,12 +2806,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unseen-forces/booster-box",
             "tcgplayer_id": "98576"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-unseen-forces/booster-pack",
             "tcgplayer_id": "98577"
           }
@@ -2529,12 +2827,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-delta-species/booster-box",
             "tcgplayer_id": "98943"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-delta-species/booster-pack",
             "tcgplayer_id": "98944"
           }
@@ -2548,12 +2848,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legend-maker/booster-box",
             "tcgplayer_id": "98556"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-legend-maker/booster-pack",
             "tcgplayer_id": "98557"
           }
@@ -2567,12 +2869,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/booster-box",
             "tcgplayer_id": "98523"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-holon-phantoms/booster-pack",
             "tcgplayer_id": "98522"
           }
@@ -2586,12 +2890,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/booster-box",
             "tcgplayer_id": "98567"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-crystal-guardians/booster-pack",
             "tcgplayer_id": "98566"
           }
@@ -2605,12 +2911,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/booster-box",
             "tcgplayer_id": "98532"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/booster-pack",
             "tcgplayer_id": "98533"
           }
@@ -2624,12 +2932,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-power-keepers/booster-box",
             "tcgplayer_id": "98528"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-power-keepers/booster-pack",
             "tcgplayer_id": "98529"
           }
@@ -2645,12 +2955,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-genesis/booster-box",
             "tcgplayer_id": "193335"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-genesis/booster-pack",
             "tcgplayer_id": "138142"
           }
@@ -2664,12 +2976,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-discovery/booster-box",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-discovery/booster-pack",
             "tcgplayer_id": "138143"
           }
@@ -2683,12 +2997,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-revelation/booster-box",
             "tcgplayer_id": "634445"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-revelation/booster-pack",
             "tcgplayer_id": "138146"
           }
@@ -2702,12 +3018,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-destiny/booster-box",
             "tcgplayer_id": "563755"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-neo-destiny/booster-pack",
             "tcgplayer_id": "138147"
           }
@@ -2723,12 +3041,14 @@
           {
             "product_type": "booster-box",
             "msrp": 118.44,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-base-set/booster-box",
             "tcgplayer_id": "185731"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.29,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-base-set/booster-pack",
             "tcgplayer_id": "138130"
           }
@@ -2742,12 +3062,14 @@
           {
             "product_type": "booster-box",
             "msrp": 118.44,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-jungle/booster-box",
             "tcgplayer_id": "107599"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.29,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-jungle/booster-pack",
             "tcgplayer_id": "138129"
           }
@@ -2761,12 +3083,14 @@
           {
             "product_type": "booster-box",
             "msrp": 118.44,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fossil/booster-box",
             "tcgplayer_id": "107600"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.29,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-fossil/booster-pack",
             "tcgplayer_id": "138134"
           }
@@ -2780,12 +3104,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-base-set-2/booster-box",
             "tcgplayer_id": "107610"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-base-set-2/booster-pack",
             "tcgplayer_id": "138149"
           }
@@ -2799,12 +3125,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-rocket/booster-box",
             "tcgplayer_id": "209437"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-team-rocket/booster-pack",
             "tcgplayer_id": "138135"
           }
@@ -2818,12 +3146,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-gym-heroes/booster-box",
             "tcgplayer_id": "208708"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-gym-heroes/booster-pack",
             "tcgplayer_id": "138138"
           }
@@ -2837,12 +3167,14 @@
           {
             "product_type": "booster-box",
             "msrp": 143.64,
+            "packs_per_product": 36,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-gym-challenge/booster-box",
             "tcgplayer_id": "285314"
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-gym-challenge/booster-pack",
             "tcgplayer_id": "138139"
           }
@@ -2856,6 +3188,7 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-expedition/booster-pack",
             "tcgplayer_id": "138151"
           }
@@ -2869,6 +3202,7 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-aquapolis/booster-pack",
             "tcgplayer_id": "138152"
           }
@@ -2882,6 +3216,7 @@
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/pokemon-skyridge/booster-pack",
             "tcgplayer_id": "138153"
           }

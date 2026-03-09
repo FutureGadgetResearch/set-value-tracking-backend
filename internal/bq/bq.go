@@ -31,6 +31,20 @@ type CardMarketRow struct {
 	Volume      bigquery.NullInt64   `bigquery:"volume"`
 }
 
+// TCGPlayerMarketRow is one row in the tcgplayer_market_snapshots table.
+type TCGPlayerMarketRow struct {
+	SnapshotDate          civil.Date           `bigquery:"snapshot_date"`
+	TCG                   string               `bigquery:"tcg"`
+	SetID                 string               `bigquery:"set_id"`
+	ProductType           string               `bigquery:"product_type"`
+	TCGPlayerID           string               `bigquery:"tcgplayer_id"`
+	SellerCount           int                  `bigquery:"seller_count"`
+	ProductCount          int                  `bigquery:"product_count"`
+	MedianAskPrice        float64              `bigquery:"median_ask_price"`
+	AvgSold30d            float64              `bigquery:"avg_sold_30d"`
+	SalesToInventoryRatio bigquery.NullFloat64 `bigquery:"sales_to_inventory_ratio"`
+}
+
 // Client wraps a BigQuery client scoped to a project and dataset.
 type Client struct {
 	bq      *bigquery.Client
@@ -138,6 +152,49 @@ func (c *Client) InsertCardRows(ctx context.Context, table string, rows []CardMa
 		}
 		if err := ins.Put(ctx, rows[i:end]); err != nil {
 			return fmt.Errorf("inserting card rows [%d:%d]: %w", i, end, err)
+		}
+	}
+	return nil
+}
+
+// ExistingMarketSnapshotKeys returns "tcg|set_id|product_type" keys already
+// inserted for today's date. Used to skip products already scraped today.
+func (c *Client) ExistingMarketSnapshotKeys(ctx context.Context, table string) (map[string]bool, error) {
+	q := c.bq.Query(fmt.Sprintf(
+		"SELECT tcg, set_id, product_type FROM `%s.%s` WHERE snapshot_date = CURRENT_DATE()",
+		c.dataset, table,
+	))
+	it, err := q.Read(ctx)
+	if err != nil {
+		return nil, fmt.Errorf("querying existing market snapshots from %s: %w", table, err)
+	}
+	existing := make(map[string]bool)
+	for {
+		var row struct {
+			TCG         string `bigquery:"tcg"`
+			SetID       string `bigquery:"set_id"`
+			ProductType string `bigquery:"product_type"`
+		}
+		if err := it.Next(&row); err == iterator.Done {
+			break
+		} else if err != nil {
+			return nil, fmt.Errorf("iterating existing market snapshots: %w", err)
+		}
+		existing[row.TCG+"|"+row.SetID+"|"+row.ProductType] = true
+	}
+	return existing, nil
+}
+
+// InsertMarketSnapshotRows streams rows into tcgplayer_market_snapshots in batches.
+func (c *Client) InsertMarketSnapshotRows(ctx context.Context, table string, rows []TCGPlayerMarketRow) error {
+	ins := c.bq.Dataset(c.dataset).Table(table).Inserter()
+	for i := 0; i < len(rows); i += batchSize {
+		end := i + batchSize
+		if end > len(rows) {
+			end = len(rows)
+		}
+		if err := ins.Put(ctx, rows[i:end]); err != nil {
+			return fmt.Errorf("inserting market snapshot rows [%d:%d]: %w", i, end, err)
 		}
 	}
 	return nil

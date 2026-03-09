@@ -9,12 +9,14 @@
           {
             "product_type": "booster-display",
             "msrp": 120.00,
+            "packs_per_product": 24,
             "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/booster-display",
             "tcgplayer_id": "635368"
           },
           {
             "product_type": "booster-pack",
             "msrp": 5.00,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/booster-pack",
             "tcgplayer_id": "635366"
           }
@@ -28,12 +30,14 @@
           {
             "product_type": "booster-display",
             "msrp": 120.00,
+            "packs_per_product": 24,
             "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/booster-display",
             "tcgplayer_id": "661934"
           },
           {
             "product_type": "booster-pack",
             "msrp": 5.00,
+            "packs_per_product": 1,
             "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/booster-pack",
             "tcgplayer_id": "661954"
           }
@@ -47,12 +51,14 @@
           {
             "product_type": "booster-display",
             "msrp": 120.00,
+            "packs_per_product": 24,
             "pricecharting_url": "",
             "tcgplayer_id": "678150"
           },
           {
             "product_type": "booster-pack",
             "msrp": 5.00,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": "678149"
           }

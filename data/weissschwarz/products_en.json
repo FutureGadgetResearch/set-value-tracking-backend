@@ -9,12 +9,14 @@
           {
             "product_type": "booster-box",
             "msrp": 54.99,
+            "packs_per_product": 16,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -28,12 +30,14 @@
           {
             "product_type": "booster-box",
             "msrp": 54.99,
+            "packs_per_product": 16,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -49,12 +53,14 @@
           {
             "product_type": "booster-box",
             "msrp": 54.99,
+            "packs_per_product": 16,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -70,12 +76,14 @@
           {
             "product_type": "booster-box",
             "msrp": 54.99,
+            "packs_per_product": 16,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -91,12 +99,14 @@
           {
             "product_type": "booster-box",
             "msrp": 54.99,
+            "packs_per_product": 16,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 3.99,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

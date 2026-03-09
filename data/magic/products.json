@@ -9,24 +9,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 149.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 179.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -40,24 +44,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 149.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 179.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -71,24 +79,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 269.64,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 359.88,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 199.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -102,24 +114,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 149.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 179.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -133,24 +149,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 149.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 179.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -164,24 +184,28 @@
           {
             "product_type": "play-booster-box",
             "msrp": 149.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "gift-bundle",
             "msrp": 44.99,
+            "packs_per_product": 9,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "commander-deck-display",
             "msrp": 179.96,
+            "packs_per_product": 0,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -197,12 +221,14 @@
           {
             "product_type": "play-booster-box",
             "msrp": 107.76,
+            "packs_per_product": 36,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "collector-booster-box",
             "msrp": 239.76,
+            "packs_per_product": 12,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

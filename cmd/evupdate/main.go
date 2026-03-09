@@ -43,7 +43,9 @@ import (
 	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/ev"
 	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/gcs"
 	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/pricecharting"
+	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/products"
 	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/setdata"
+	"github.com/FutureGadgetResearch/set-value-tracking-backend/internal/tcgplayer"
 
 	"cloud.google.com/go/bigquery"
 	"cloud.google.com/go/civil"
@@ -72,6 +74,14 @@ func main() {
 	contentsPath := envOr("CONTENTS_PATH", "data/"+game+"/set_contents.json")
 	pullRatesPath := envOr("PULL_RATES_PATH", "data/"+game+"/set_pull_rates.json")
 
+	var defaultProductsPath string
+	if game == "pokemon" {
+		defaultProductsPath = "data/pokemon/products_all.json"
+	} else {
+		defaultProductsPath = "data/" + game + "/products.json"
+	}
+	productsPath := envOr("PRODUCTS_PATH", defaultProductsPath)
+
 	ctx := context.Background()
 
 	// ── GCS: download input files ─────────────────────────────────────────────
@@ -82,7 +92,7 @@ func main() {
 		if err != nil {
 			log.Fatalf("creating gcs client: %v", err)
 		}
-		for _, path := range []string{contentsPath, pullRatesPath} {
+		for _, path := range []string{contentsPath, pullRatesPath, productsPath} {
 			if err := gcsClient.Download(ctx, path, path); err != nil {
 				log.Fatalf("gcs download %s: %v", path, err)
 			}
@@ -95,6 +105,7 @@ func main() {
 	bqDataset := envOr("BQ_DATASET", "tcg_stage")
 	tableSet := envOr("BQ_TABLE_SET", "set_market_history")
 	tableCard := envOr("BQ_TABLE_CARD", "card_market_history")
+	tableMarket := envOr("BQ_TABLE_MARKET", "tcgplayer_market_snapshots")
 
 	bqClient, err := internalbq.NewClient(ctx, bqProject, bqDataset)
 	if err != nil {
@@ -108,6 +119,24 @@ func main() {
 		log.Fatalf("querying existing set months: %v", err)
 	}
 	fmt.Printf("found %d existing (set_id, month) pairs in %s\n", len(existingSet), tableSet)
+
+	// Load products for market snapshot collection.
+	allProds, err := products.Load(productsPath)
+	if err != nil {
+		log.Printf("WARN: could not load products from %s: %v — market snapshots will be skipped", productsPath, err)
+		allProds = nil
+	}
+	productsBySet := make(map[string][]products.Product)
+	for _, p := range allProds {
+		productsBySet[p.SetID] = append(productsBySet[p.SetID], p)
+	}
+
+	existingMarket, err := bqClient.ExistingMarketSnapshotKeys(ctx, tableMarket)
+	if err != nil {
+		log.Printf("WARN: could not query existing market snapshots: %v — market snapshots will be skipped", err)
+		existingMarket = nil
+	}
+	fmt.Printf("found %d existing market snapshot keys for today in %s\n", len(existingMarket), tableMarket)
 
 	// ── Load set metadata ─────────────────────────────────────────────────────
 	allContents, err := setdata.LoadAllContents(contentsPath)
@@ -148,6 +177,13 @@ func main() {
 		fmt.Printf("found %d existing (card_id, month) pairs in %s for %s\n", len(existingCard), tableCard, contents.SetID)
 		if err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game); err != nil {
 			log.Printf("ERROR processing %s: %v", contents.SetID, err)
+		}
+	}
+
+	// ── Collect TCGPlayer market snapshots for today ───────────────────────────
+	if existingMarket != nil && len(allProds) > 0 {
+		if err := collectMarketSnapshots(ctx, bqClient, tableMarket, existingMarket, allContents, productsBySet, game); err != nil {
+			log.Printf("ERROR collecting market snapshots: %v", err)
 		}
 	}
 }
@@ -432,4 +468,81 @@ func cardMapToSlice(m map[string]*ev.CardPrice) []ev.CardPrice {
 		out = append(out, *cp)
 	}
 	return out
+}
+
+func collectMarketSnapshots(
+	ctx context.Context,
+	bqClient *internalbq.Client,
+	tableMarket string,
+	existingMarketKeys map[string]bool,
+	allContents []setdata.SetContents,
+	productsBySet map[string][]products.Product,
+	game string,
+) error {
+	today := civil.DateOf(time.Now().UTC())
+
+	processedSets := make(map[string]bool, len(allContents))
+	for _, c := range allContents {
+		processedSets[c.SetID] = true
+	}
+
+	var rows []internalbq.TCGPlayerMarketRow
+
+	for setID := range processedSets {
+		for _, p := range productsBySet[setID] {
+			if p.TCGPlayerID == "" {
+				continue
+			}
+			key := game + "|" + setID + "|" + p.ProductType
+			if existingMarketKeys[key] {
+				fmt.Printf("  %s %s — market snapshot already in BQ today, skipping\n", setID, p.ProductType)
+				continue
+			}
+
+			fmt.Printf("  scraping TCGPlayer market snapshot: %s %s (id=%s)...\n", setID, p.ProductType, p.TCGPlayerID)
+
+			tcgMetrics, err := tcgplayer.ScrapeCurrentMetrics(p.TCGPlayerID)
+			if err != nil {
+				log.Printf("  WARN tcgplayer scrape failed for %s %s: %v", setID, p.ProductType, err)
+				continue
+			}
+
+			var avgSold float64
+			if s, scrapeErr := pricecharting.ScrapeSoldLast30Days(p.PricechartingURL); scrapeErr != nil {
+				log.Printf("  WARN avg_sold_30d scrape failed for %s %s: %v", setID, p.ProductType, scrapeErr)
+			} else {
+				avgSold = s
+			}
+
+			row := internalbq.TCGPlayerMarketRow{
+				SnapshotDate:   today,
+				TCG:            game,
+				SetID:          setID,
+				ProductType:    p.ProductType,
+				TCGPlayerID:    p.TCGPlayerID,
+				SellerCount:    tcgMetrics.SellerCount,
+				ProductCount:   tcgMetrics.ProductCount,
+				MedianAskPrice: tcgMetrics.MedianAskPrice,
+				AvgSold30d:     avgSold,
+			}
+			if tcgMetrics.ProductCount > 0 && avgSold > 0 {
+				ratio := avgSold / float64(tcgMetrics.ProductCount)
+				row.SalesToInventoryRatio = bigquery.NullFloat64{Float64: ratio, Valid: true}
+			}
+
+			rows = append(rows, row)
+			time.Sleep(politeDelay)
+		}
+	}
+
+	if len(rows) == 0 {
+		fmt.Println("no market snapshot rows to insert")
+		return nil
+	}
+
+	if err := bqClient.InsertMarketSnapshotRows(ctx, tableMarket, rows); err != nil {
+		return fmt.Errorf("inserting market snapshot rows: %w", err)
+	}
+	fmt.Printf("inserted %d market snapshot row(s) → %s\n", len(rows), tableMarket)
+	return nil
 }

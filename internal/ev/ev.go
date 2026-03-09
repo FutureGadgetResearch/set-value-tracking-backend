@@ -79,8 +79,7 @@ func Calculate(pr *setdata.PullRates, cardPrices []CardPrice) MonthEV {
 			sum += p
 		}
 		avgPrice := sum / float64(len(prices))
-		expectedHits := rate.PullRatePerPack * float64(pr.PacksPerBox)
-		totalEV += expectedHits * avgPrice
+		totalEV += rate.PullRatePerPack * avgPrice
 	}
 
 	// Top-5 value.

@@ -15,6 +15,7 @@ type Product struct {
 	StandardLegalUntil string  `json:"standard_legal_until"` // "YYYY-MM-DD", empty means still legal
 	ProductType        string  `json:"product_type"`
 	MSRP               float64 `json:"msrp"`
+	PacksPerProduct    int     `json:"packs_per_product"`
 	PricechartingURL   string  `json:"pricecharting_url"`
 	TCGPlayerID        string  `json:"tcgplayer_id"`
 }
@@ -22,6 +23,7 @@ type Product struct {
 type productItem struct {
 	ProductType      string  `json:"product_type"`
 	MSRP             float64 `json:"msrp"`
+	PacksPerProduct  int     `json:"packs_per_product"`
 	PricechartingURL string  `json:"pricecharting_url"`
 	TCGPlayerID      string  `json:"tcgplayer_id"`
 }
@@ -64,6 +66,7 @@ func Load(path string) ([]Product, error) {
 						StandardLegalUntil: sd.StandardLegalUntil,
 						ProductType:        item.ProductType,
 						MSRP:               item.MSRP,
+						PacksPerProduct:    item.PacksPerProduct,
 						PricechartingURL:   item.PricechartingURL,
 						TCGPlayerID:        item.TCGPlayerID,
 					})

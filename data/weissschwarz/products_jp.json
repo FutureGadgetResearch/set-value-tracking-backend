@@ -9,12 +9,14 @@
           {
             "product_type": "booster-box",
             "msrp": 0.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 0.00,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -30,12 +32,14 @@
           {
             "product_type": "booster-box",
             "msrp": 0.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 0.00,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -51,12 +55,14 @@
           {
             "product_type": "booster-box",
             "msrp": 0.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 0.00,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -72,12 +78,14 @@
           {
             "product_type": "booster-box",
             "msrp": 0.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           },
           {
             "product_type": "booster-pack",
             "msrp": 0.00,
+            "packs_per_product": 1,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

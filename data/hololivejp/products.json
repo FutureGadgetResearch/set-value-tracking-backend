@@ -10,6 +10,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -24,6 +25,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -38,6 +40,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -52,6 +55,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -66,6 +70,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
@@ -80,6 +85,7 @@
           {
             "product_type": "booster-box",
             "msrp": 35.00,
+            "packs_per_product": 20,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

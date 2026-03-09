@@ -10,6 +10,7 @@
           {
             "product_type": "booster-box",
             "msrp": 0.00,
+            "packs_per_product": 30,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
