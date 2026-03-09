@@ -177,7 +177,14 @@ func main() {
 			log.Fatalf("querying existing card month pairs for %s: %v", contents.SetID, err)
 		}
 		fmt.Printf("found %d existing (card_id, month) pairs in %s for %s\n", len(existingCard), tableCard, contents.SetID)
-		n, err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game)
+
+		// Determine the set's release date so we can discard pre-release price data.
+		var releaseDate string
+		if prods := productsBySet[contents.SetID]; len(prods) > 0 {
+			releaseDate = prods[0].ReleaseDate // "YYYY-MM-DD"
+		}
+
+		n, err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game, releaseDate)
 		if err != nil {
 			log.Printf("ERROR processing %s: %v", contents.SetID, err)
 		}
@@ -204,6 +211,7 @@ func processSet(
 	contents setdata.SetContents,
 	pullRates *setdata.PullRates,
 	game string,
+	releaseDate string, // "YYYY-MM-DD"; empty means no filter
 ) (int, error) {
 	// ── Phase 1: scrape price history for every card ──────────────────────────
 	byMonth := make(map[string]map[string]*ev.CardPrice)
@@ -299,6 +307,17 @@ func processSet(
 				}
 			}
 			fmt.Printf("merged %d BQ card prices for %s/%s\n", len(bqPrices), contents.SetID, month)
+		}
+	}
+
+	// ── Filter: drop months before the set's release date ────────────────────
+	if len(releaseDate) >= 7 {
+		releaseMonth := releaseDate[:7] // "YYYY-MM"
+		for month := range byMonth {
+			if month < releaseMonth {
+				delete(byMonth, month)
+				fmt.Printf("dropped pre-release month %s (set released %s)\n", month, releaseDate)
+			}
 		}
 	}
 
