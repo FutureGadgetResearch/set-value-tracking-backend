@@ -133,10 +133,10 @@ func main() {
 
 	existingMarket, err := bqClient.ExistingMarketSnapshotKeys(ctx, tableMarket)
 	if err != nil {
-		log.Printf("WARN: could not query existing market snapshots: %v — market snapshots will be skipped", err)
-		existingMarket = nil
+		log.Printf("WARN: could not query existing market snapshots: %v — assuming none exist", err)
+		existingMarket = map[string]bool{}
 	}
-	fmt.Printf("found %d existing market snapshot keys for today in %s\n", len(existingMarket), tableMarket)
+	fmt.Printf("found %d existing market snapshot keys for this month in %s\n", len(existingMarket), tableMarket)
 
 	// ── Load set metadata ─────────────────────────────────────────────────────
 	allContents, err := setdata.LoadAllContents(contentsPath)
@@ -163,6 +163,7 @@ func main() {
 	}
 
 	// ── Process each set ──────────────────────────────────────────────────────
+	var totalInserted int
 	for _, contents := range allContents {
 		pullRates, ok := allPullRates[contents.SetID]
 		if !ok {
@@ -175,16 +176,22 @@ func main() {
 			log.Fatalf("querying existing card month pairs for %s: %v", contents.SetID, err)
 		}
 		fmt.Printf("found %d existing (card_id, month) pairs in %s for %s\n", len(existingCard), tableCard, contents.SetID)
-		if err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game); err != nil {
+		n, err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game)
+		if err != nil {
 			log.Printf("ERROR processing %s: %v", contents.SetID, err)
 		}
+		totalInserted += n
 	}
 
-	// ── Collect TCGPlayer market snapshots for today ───────────────────────────
-	if existingMarket != nil && len(allProds) > 0 {
+	// ── Collect TCGPlayer market snapshots for this month ─────────────────────
+	if len(allProds) > 0 {
 		if err := collectMarketSnapshots(ctx, bqClient, tableMarket, existingMarket, allContents, productsBySet, game); err != nil {
 			log.Printf("ERROR collecting market snapshots: %v", err)
 		}
+	}
+
+	if totalInserted == 0 {
+		fmt.Println("all entries already up to date — nothing new to insert")
 	}
 }
 
@@ -196,7 +203,7 @@ func processSet(
 	contents setdata.SetContents,
 	pullRates *setdata.PullRates,
 	game string,
-) error {
+) (int, error) {
 	// ── Phase 1: scrape price history for every card ──────────────────────────
 	byMonth := make(map[string]map[string]*ev.CardPrice)
 	currentGuides := make(map[string]map[string]float64)
@@ -230,7 +237,7 @@ func processSet(
 	latestMonth := latestMonthKey(byMonth)
 	if latestMonth == "" {
 		fmt.Println("no price data scraped — nothing to do")
-		return nil
+		return 0, nil
 	}
 	for cardNum, guide := range currentGuides {
 		if cp, ok := byMonth[latestMonth][cardNum]; ok {
@@ -288,19 +295,19 @@ func processSet(
 	// ── Phase 4: write to BQ ──────────────────────────────────────────────────
 	if len(setRows) > 0 {
 		if err := bqClient.InsertSetRows(ctx, tableSet, setRows); err != nil {
-			return fmt.Errorf("inserting set rows: %w", err)
+			return 0, fmt.Errorf("inserting set rows: %w", err)
 		}
 		fmt.Printf("inserted %d rows → %s\n", len(setRows), tableSet)
 	}
 
 	if len(cardRows) > 0 {
 		if err := bqClient.InsertCardRows(ctx, tableCard, cardRows); err != nil {
-			return fmt.Errorf("inserting card rows: %w", err)
+			return 0, fmt.Errorf("inserting card rows: %w", err)
 		}
 		fmt.Printf("inserted %d rows → %s\n", len(cardRows), tableCard)
 	}
 
-	return nil
+	return insertedSet + insertedCard, nil
 }
 
 // cardMarketRows expands one CardPrice into one row per grade with a price.
