@@ -1,79 +1,83 @@
 {
-  "hololive": {
-    "Booster Pack": {
-      "hBP01": {
-        "release_date": "2025-07-11",
+  "weiss-schwarz-jp": {
+    "Hololive Production": {
+      "hll-jp-w104": {
+        "release_date": "2024-10-25",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 0.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "booster-pack",
+            "msrp": 0.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
         ]
-      },
-      "hBP02": {
-        "release_date": "2025-10-17",
+      }
+    },
+    "Sword Art Online": {
+      "sao-jp-w107": {
+        "release_date": "2024-11-29",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 0.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "booster-pack",
+            "msrp": 0.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
         ]
-      },
-      "hBP03": {
-        "release_date": "2025-12-19",
+      }
+    },
+    "My Hero Academia": {
+      "mha-jp-w99": {
+        "release_date": "2024-04-12",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 0.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          },
+          {
+            "product_type": "booster-pack",
+            "msrp": 0.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
         ]
-      },
-      "hBP04": {
-        "release_date": "2026-02-20",
+      }
+    },
+    "Chainsaw Man": {
+      "csm-jp-w102": {
+        "release_date": "2024-07-19",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 0.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
-          }
-        ]
-      },
-      "hBP05": {
-        "release_date": "2026-04-17",
-        "is_special_set": false,
-        "standard_legal_until": "",
-        "products": [
+          },
           {
-            "product_type": "booster-box",
-            "msrp": 60.00,
-            "pricecharting_url": "",
-            "tcgplayer_id": ""
-          }
-        ]
-      },
-      "hBP06": {
-        "release_date": "2026-06-19",
-        "is_special_set": false,
-        "standard_legal_until": "",
-        "products": [
-          {
-            "product_type": "booster-box",
-            "msrp": 60.00,
+            "product_type": "booster-pack",
+            "msrp": 0.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

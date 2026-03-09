@@ -5,23 +5,38 @@
       "rarities": [
         {
           "rarity": "rare",
-          "pull_rate_per_pack": 1.75
+          "pull_rate_per_pack": 1.75,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "epic",
-          "pull_rate_per_pack": 0.25
+          "pull_rate_per_pack": 0.25,
+          "unique_card_count": 42,
+          "individual_card_pull_rate": 168,
+          "master_difficulty_score": 727
         },
         {
           "rarity": "alt_art",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 30,
+          "individual_card_pull_rate": 360,
+          "master_difficulty_score": 1439
         },
         {
           "rarity": "overnumber",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 863,
+          "master_difficulty_score": 2680
         },
         {
           "rarity": "signature_overnumber",
-          "pull_rate_per_pack": 0.00139
+          "pull_rate_per_pack": 0.00139,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 8633,
+          "master_difficulty_score": 26796
         }
       ]
     },
@@ -30,23 +45,38 @@
       "rarities": [
         {
           "rarity": "rare",
-          "pull_rate_per_pack": 1.75
+          "pull_rate_per_pack": 1.75,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "epic",
-          "pull_rate_per_pack": 0.25
+          "pull_rate_per_pack": 0.25,
+          "unique_card_count": 38,
+          "individual_card_pull_rate": 152,
+          "master_difficulty_score": 643
         },
         {
           "rarity": "alt_art",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 24,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 1088
         },
         {
           "rarity": "overnumber",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 30,
+          "individual_card_pull_rate": 2158,
+          "master_difficulty_score": 8622
         },
         {
           "rarity": "signature_overnumber",
-          "pull_rate_per_pack": 0.00139
+          "pull_rate_per_pack": 0.00139,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 8633,
+          "master_difficulty_score": 26796
         }
       ]
     },
@@ -55,23 +85,38 @@
       "rarities": [
         {
           "rarity": "rare",
-          "pull_rate_per_pack": 1.75
+          "pull_rate_per_pack": 1.75,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "epic",
-          "pull_rate_per_pack": 0.25
+          "pull_rate_per_pack": 0.25,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "alt_art",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "overnumber",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "signature_overnumber",
-          "pull_rate_per_pack": 0.00139
+          "pull_rate_per_pack": 0.00139,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     }

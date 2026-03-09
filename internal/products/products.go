@@ -7,6 +7,7 @@ import (
 
 type Product struct {
 	SetID              string  `json:"set_id"`
+	EnSetID            string  `json:"en_set_id"`  // corresponding EN set id; empty for EN sets
 	TCG                string  `json:"tcg"`
 	Era                string  `json:"era"`
 	ReleaseDate        string  `json:"release_date"`
@@ -26,6 +27,7 @@ type productItem struct {
 }
 
 type setData struct {
+	EnSetID            string        `json:"en_set_id"`
 	ReleaseDate        string        `json:"release_date"`
 	IsSpecialSet       bool          `json:"is_special_set"`
 	StandardLegalUntil string        `json:"standard_legal_until"`
@@ -54,6 +56,7 @@ func Load(path string) ([]Product, error) {
 				for _, item := range sd.Products {
 					products = append(products, Product{
 						SetID:              setID,
+						EnSetID:            sd.EnSetID,
 						TCG:                tcg,
 						Era:                era,
 						ReleaseDate:        sd.ReleaseDate,

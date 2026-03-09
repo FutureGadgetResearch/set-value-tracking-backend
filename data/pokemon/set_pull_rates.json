@@ -5,7 +5,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 33,
+          "master_difficulty_score": 100
         }
       ]
     },
@@ -14,7 +17,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 112
         }
       ]
     },
@@ -23,7 +29,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 45,
+          "master_difficulty_score": 149
         }
       ]
     },
@@ -32,7 +41,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 162
         }
       ]
     },
@@ -41,7 +53,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 45,
+          "master_difficulty_score": 149
         }
       ]
     },
@@ -50,7 +65,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 20,
+          "individual_card_pull_rate": 60,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -59,11 +77,17 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 42,
+          "master_difficulty_score": 137
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 72
         }
       ]
     },
@@ -72,7 +96,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 30,
+          "master_difficulty_score": 88
         }
       ]
     },
@@ -81,7 +108,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 112
         }
       ]
     }
@@ -92,7 +122,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 54,
+          "master_difficulty_score": 189
         }
       ]
     },
@@ -101,7 +134,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 51,
+          "master_difficulty_score": 175
         }
       ]
     },
@@ -110,11 +146,17 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 42,
+          "master_difficulty_score": 137
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 54
         }
       ]
     },
@@ -123,11 +165,17 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 162
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 261
         }
       ]
     },
@@ -136,7 +184,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 32,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 390
         }
       ]
     },
@@ -145,11 +196,17 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 32,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 390
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 108
         }
       ]
     },
@@ -158,11 +215,17 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3333
+          "pull_rate_per_pack": 0.3333,
+          "unique_card_count": 32,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 390
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 150
         }
       ]
     }
@@ -173,7 +236,10 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1667
+          "pull_rate_per_pack": 0.1667,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 130
         }
       ]
     },
@@ -182,7 +248,10 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1667
+          "pull_rate_per_pack": 0.1667,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 42,
+          "master_difficulty_score": 109
         }
       ]
     },
@@ -191,11 +260,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1667
+          "pull_rate_per_pack": 0.1667,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 54,
+          "master_difficulty_score": 153
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         }
       ]
     },
@@ -204,11 +279,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 84,
+          "master_difficulty_score": 218
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 215,
+          "master_difficulty_score": 323
         }
       ]
     },
@@ -217,11 +298,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 306
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 108
         }
       ]
     },
@@ -230,11 +317,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 306
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 300
         }
       ]
     },
@@ -243,15 +336,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 132,
+          "master_difficulty_score": 399
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 215,
+          "master_difficulty_score": 323
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -260,15 +362,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 306
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 108
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -277,11 +388,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0667
+          "pull_rate_per_pack": 0.0667,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 165,
+          "master_difficulty_score": 498
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 108
         }
       ]
     },
@@ -290,15 +407,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0667
+          "pull_rate_per_pack": 0.0667,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 180,
+          "master_difficulty_score": 558
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 215,
+          "master_difficulty_score": 323
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -307,15 +433,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 108
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -324,15 +459,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0667
+          "pull_rate_per_pack": 0.0667,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 105,
+          "master_difficulty_score": 272
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -341,15 +485,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0093
+          "pull_rate_per_pack": 0.0093,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 108
         },
         {
           "rarity": "gold_star",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -358,11 +511,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1
+          "pull_rate_per_pack": 0.1,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 100,
+          "master_difficulty_score": 293
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -371,11 +530,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 120,
+          "master_difficulty_score": 352
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -384,11 +549,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1667
+          "pull_rate_per_pack": 0.1667,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 130
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         }
       ]
     }
@@ -399,7 +570,10 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         }
       ]
     },
@@ -408,11 +582,17 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 72
         }
       ]
     },
@@ -421,7 +601,10 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 108
         }
       ]
     },
@@ -430,7 +613,10 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 300
         }
       ]
     },
@@ -439,7 +625,10 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 300
         }
       ]
     },
@@ -448,7 +637,10 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 326
         }
       ]
     },
@@ -457,15 +649,24 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 205
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         },
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         }
       ]
     }
@@ -476,15 +677,24 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         },
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         }
       ]
     },
@@ -493,15 +703,24 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 81,
+          "master_difficulty_score": 229
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 205
         }
       ]
     },
@@ -510,15 +729,24 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 63,
+          "master_difficulty_score": 163
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 54,
+          "master_difficulty_score": 99
         }
       ]
     },
@@ -527,15 +755,24 @@
       "rarities": [
         {
           "rarity": "rare_lv_x",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 54,
+          "master_difficulty_score": 132
         },
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 54,
+          "master_difficulty_score": 99
         },
         {
           "rarity": "arceus_ar",
-          "pull_rate_per_pack": 0.25
+          "pull_rate_per_pack": 0.25,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 102
         }
       ]
     }
@@ -546,15 +783,24 @@
       "rarities": [
         {
           "rarity": "rare_prime",
-          "pull_rate_per_pack": 0.1429
+          "pull_rate_per_pack": 0.1429,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 28,
+          "master_difficulty_score": 58
         },
         {
           "rarity": "rare_legend",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 100
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -563,15 +809,24 @@
       "rarities": [
         {
           "rarity": "rare_prime",
-          "pull_rate_per_pack": 0.1429
+          "pull_rate_per_pack": 0.1429,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 28,
+          "master_difficulty_score": 58
         },
         {
           "rarity": "rare_legend",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 176
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -580,15 +835,24 @@
       "rarities": [
         {
           "rarity": "rare_prime",
-          "pull_rate_per_pack": 0.1429
+          "pull_rate_per_pack": 0.1429,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 35,
+          "master_difficulty_score": 80
         },
         {
           "rarity": "rare_legend",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 100
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -597,15 +861,24 @@
       "rarities": [
         {
           "rarity": "rare_prime",
-          "pull_rate_per_pack": 0.1429
+          "pull_rate_per_pack": 0.1429,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 42,
+          "master_difficulty_score": 103
         },
         {
           "rarity": "rare_legend",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 100
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         }
       ]
     },
@@ -614,7 +887,10 @@
       "rarities": [
         {
           "rarity": "shiny_pokemon",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 198,
+          "master_difficulty_score": 597
         }
       ]
     }
@@ -625,11 +901,17 @@
       "rarities": [
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 108
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 72
         }
       ]
     },
@@ -638,7 +920,10 @@
       "rarities": [
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 108
         }
       ]
     },
@@ -647,11 +932,17 @@
       "rarities": [
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 205
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 72
         }
       ]
     },
@@ -660,15 +951,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 180,
+          "master_difficulty_score": 411
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 600
         }
       ]
     },
@@ -677,15 +977,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 529
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -694,15 +1003,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 529
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 600
         }
       ]
     },
@@ -711,15 +1029,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 324,
+          "master_difficulty_score": 916
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 600
         }
       ]
     },
@@ -728,15 +1055,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 326
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 180,
+          "master_difficulty_score": 411
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -745,15 +1081,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 782
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -762,15 +1107,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 264
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 529
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -779,15 +1133,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 335
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 600
         },
         {
           "rarity": "radiant_collection",
-          "pull_rate_per_pack": 1.0
+          "pull_rate_per_pack": 1.0,
+          "unique_card_count": 25,
+          "individual_card_pull_rate": 25,
+          "master_difficulty_score": 95
         }
       ]
     }
@@ -798,11 +1161,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 391
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 529
         }
       ]
     },
@@ -811,15 +1180,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 391
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 252,
+          "master_difficulty_score": 653
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -828,15 +1206,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 326
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 529
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -845,15 +1232,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.0556
+          "pull_rate_per_pack": 0.0556,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 391
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 252,
+          "master_difficulty_score": 653
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 396
         }
       ]
     },
@@ -862,15 +1258,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 335
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 192,
+          "master_difficulty_score": 649
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 288,
+          "master_difficulty_score": 600
         }
       ]
     },
@@ -879,15 +1284,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 99,
+          "master_difficulty_score": 299
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 132,
+          "master_difficulty_score": 399
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -896,15 +1310,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 99,
+          "master_difficulty_score": 299
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 180,
+          "master_difficulty_score": 598
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -913,15 +1336,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 410
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 120,
+          "master_difficulty_score": 352
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 216
         }
       ]
     },
@@ -930,15 +1362,24 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 487
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 306
         },
         {
           "rarity": "secret_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 72,
+          "master_difficulty_score": 72
         }
       ]
     },
@@ -947,11 +1388,17 @@
       "rarities": [
         {
           "rarity": "rare_ex",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 335
         },
         {
           "rarity": "radiant_collection",
-          "pull_rate_per_pack": 0.0833
+          "pull_rate_per_pack": 0.0833,
+          "unique_card_count": 32,
+          "individual_card_pull_rate": 384,
+          "master_difficulty_score": 1559
         }
       ]
     }
@@ -962,23 +1409,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1115
+          "pull_rate_per_pack": 0.1115,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 99,
+          "master_difficulty_score": 298
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0282
+          "pull_rate_per_pack": 0.0282,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 284,
+          "master_difficulty_score": 771
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.014
+          "pull_rate_per_pack": 0.014,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 286,
+          "master_difficulty_score": 595
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0147
+          "pull_rate_per_pack": 0.0147,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 544,
+          "master_difficulty_score": 1479
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0081
+          "pull_rate_per_pack": 0.0081,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 494,
+          "master_difficulty_score": 1029
         }
       ]
     },
@@ -987,23 +1449,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1111
+          "pull_rate_per_pack": 0.1111,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 335
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0287
+          "pull_rate_per_pack": 0.0287,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 418,
+          "master_difficulty_score": 1298
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0072
+          "pull_rate_per_pack": 0.0072,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 417,
+          "master_difficulty_score": 764
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0129
+          "pull_rate_per_pack": 0.0129,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 1163,
+          "master_difficulty_score": 3858
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0081
+          "pull_rate_per_pack": 0.0081,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 1111,
+          "master_difficulty_score": 3143
         }
       ]
     },
@@ -1012,23 +1489,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1095
+          "pull_rate_per_pack": 0.1095,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 110,
+          "master_difficulty_score": 340
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0269
+          "pull_rate_per_pack": 0.0269,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 483,
+          "master_difficulty_score": 1537
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0124
+          "pull_rate_per_pack": 0.0124,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 161,
+          "master_difficulty_score": 242
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0159
+          "pull_rate_per_pack": 0.0159,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 314,
+          "master_difficulty_score": 718
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0095
+          "pull_rate_per_pack": 0.0095,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 105,
+          "master_difficulty_score": 105
         }
       ]
     },
@@ -1037,27 +1529,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1185
+          "pull_rate_per_pack": 0.1185,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 34,
+          "master_difficulty_score": 70
         },
         {
           "rarity": "shiny_rare",
-          "pull_rate_per_pack": 0.0872
+          "pull_rate_per_pack": 0.0872,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 69,
+          "master_difficulty_score": 169
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.028
+          "pull_rate_per_pack": 0.028,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 107,
+          "master_difficulty_score": 196
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0117
+          "pull_rate_per_pack": 0.0117,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 85,
+          "master_difficulty_score": 85
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.015
+          "pull_rate_per_pack": 0.015,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 267,
+          "master_difficulty_score": 556
         },
         {
           "rarity": "secret_rare_pokemon",
-          "pull_rate_per_pack": 0.0091
+          "pull_rate_per_pack": 0.0091,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 110,
+          "master_difficulty_score": 110
         }
       ]
     },
@@ -1066,23 +1576,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.083
+          "pull_rate_per_pack": 0.083,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 262
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0327
+          "pull_rate_per_pack": 0.0327,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 245,
+          "master_difficulty_score": 665
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0118
+          "pull_rate_per_pack": 0.0118,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 254,
+          "master_difficulty_score": 466
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0111
+          "pull_rate_per_pack": 0.0111,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 721,
+          "master_difficulty_score": 1959
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0111
+          "pull_rate_per_pack": 0.0111,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 90
         }
       ]
     },
@@ -1091,31 +1616,52 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.08
+          "pull_rate_per_pack": 0.08,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 88,
+          "master_difficulty_score": 227
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.0872
+          "pull_rate_per_pack": 0.0872,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 69,
+          "master_difficulty_score": 169
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0233
+          "pull_rate_per_pack": 0.0233,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 343,
+          "master_difficulty_score": 933
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0197
+          "pull_rate_per_pack": 0.0197,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 305,
+          "master_difficulty_score": 746
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0149
+          "pull_rate_per_pack": 0.0149,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 403,
+          "master_difficulty_score": 987
         },
         {
           "rarity": "secret_rare_pokemon",
-          "pull_rate_per_pack": 0.0018
+          "pull_rate_per_pack": 0.0018,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.006
+          "pull_rate_per_pack": 0.006,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -1124,27 +1670,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.0744
+          "pull_rate_per_pack": 0.0744,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 292
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.0791
+          "pull_rate_per_pack": 0.0791,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 51,
+          "master_difficulty_score": 105
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0229
+          "pull_rate_per_pack": 0.0229,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 349,
+          "master_difficulty_score": 949
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0127
+          "pull_rate_per_pack": 0.0127,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 315,
+          "master_difficulty_score": 656
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0134
+          "pull_rate_per_pack": 0.0134,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 746,
+          "master_difficulty_score": 2186
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0071
+          "pull_rate_per_pack": 0.0071,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 282,
+          "master_difficulty_score": 423
         }
       ]
     },
@@ -1153,27 +1717,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1034
+          "pull_rate_per_pack": 0.1034,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 106,
+          "master_difficulty_score": 321
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.0547
+          "pull_rate_per_pack": 0.0547,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 55,
+          "master_difficulty_score": 101
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0209
+          "pull_rate_per_pack": 0.0209,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 431,
+          "master_difficulty_score": 1218
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0169
+          "pull_rate_per_pack": 0.0169,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 414,
+          "master_difficulty_score": 1074
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0122
+          "pull_rate_per_pack": 0.0122,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 738,
+          "master_difficulty_score": 2087
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0088
+          "pull_rate_per_pack": 0.0088,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 114,
+          "master_difficulty_score": 114
         }
       ]
     },
@@ -1182,31 +1764,52 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1542
+          "pull_rate_per_pack": 0.1542,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 39,
+          "master_difficulty_score": 95
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.108
+          "pull_rate_per_pack": 0.108,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 19,
+          "master_difficulty_score": 28
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0308
+          "pull_rate_per_pack": 0.0308,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 130,
+          "master_difficulty_score": 271
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0386
+          "pull_rate_per_pack": 0.0386,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 52,
+          "master_difficulty_score": 78
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0231
+          "pull_rate_per_pack": 0.0231,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 173,
+          "master_difficulty_score": 361
         },
         {
           "rarity": "secret_rare_pokemon",
-          "pull_rate_per_pack": 0.0026
+          "pull_rate_per_pack": 0.0026,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 385,
+          "master_difficulty_score": 385
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0051
+          "pull_rate_per_pack": 0.0051,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 392,
+          "master_difficulty_score": 588
         }
       ]
     },
@@ -1215,27 +1818,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1028
+          "pull_rate_per_pack": 0.1028,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 402
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.1217
+          "pull_rate_per_pack": 0.1217,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 58,
+          "master_difficulty_score": 149
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0314
+          "pull_rate_per_pack": 0.0314,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 414,
+          "master_difficulty_score": 1317
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0126
+          "pull_rate_per_pack": 0.0126,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 397,
+          "master_difficulty_score": 906
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0133
+          "pull_rate_per_pack": 0.0133,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 902,
+          "master_difficulty_score": 2800
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0102
+          "pull_rate_per_pack": 0.0102,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -1244,27 +1865,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.0929
+          "pull_rate_per_pack": 0.0929,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 118,
+          "master_difficulty_score": 358
         },
         {
           "rarity": "prism_star",
-          "pull_rate_per_pack": 0.0596
+          "pull_rate_per_pack": 0.0596,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 34,
+          "master_difficulty_score": 50
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0241
+          "pull_rate_per_pack": 0.0241,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 373,
+          "master_difficulty_score": 1056
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0241
+          "pull_rate_per_pack": 0.0241,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 290,
+          "master_difficulty_score": 753
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0103
+          "pull_rate_per_pack": 0.0103,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 680,
+          "master_difficulty_score": 1762
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0069
+          "pull_rate_per_pack": 0.0069,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -1273,7 +1912,10 @@
       "rarities": [
         {
           "rarity": "holo_rare",
-          "pull_rate_per_pack": 0.3708
+          "pull_rate_per_pack": 0.3708,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 49,
+          "master_difficulty_score": 170
         }
       ]
     },
@@ -1282,23 +1924,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.0988
+          "pull_rate_per_pack": 0.0988,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 142,
+          "master_difficulty_score": 461
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0311
+          "pull_rate_per_pack": 0.0311,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 257,
+          "master_difficulty_score": 699
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.01
+          "pull_rate_per_pack": 0.01,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 700,
+          "master_difficulty_score": 1815
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0139
+          "pull_rate_per_pack": 0.0139,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 576,
+          "master_difficulty_score": 1564
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.009
+          "pull_rate_per_pack": 0.009,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -1307,23 +1964,38 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1272
+          "pull_rate_per_pack": 0.1272,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 134,
+          "master_difficulty_score": 460
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0319
+          "pull_rate_per_pack": 0.0319,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 282,
+          "master_difficulty_score": 798
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0117
+          "pull_rate_per_pack": 0.0117,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0144
+          "pull_rate_per_pack": 0.0144,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 417,
+          "master_difficulty_score": 1021
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.009
+          "pull_rate_per_pack": 0.009,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -1332,35 +2004,59 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1506
+          "pull_rate_per_pack": 0.1506,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 60,
+          "master_difficulty_score": 169
         },
         {
           "rarity": "shiny_rare",
-          "pull_rate_per_pack": 0.212
+          "pull_rate_per_pack": 0.212,
+          "unique_card_count": 45,
+          "individual_card_pull_rate": 212,
+          "master_difficulty_score": 933
         },
         {
           "rarity": "shiny_gx",
-          "pull_rate_per_pack": 0.1019
+          "pull_rate_per_pack": 0.1019,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 275,
+          "master_difficulty_score": 1079
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0146
+          "pull_rate_per_pack": 0.0146,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 68,
+          "master_difficulty_score": 68
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0342
+          "pull_rate_per_pack": 0.0342,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 58,
+          "master_difficulty_score": 88
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.0171
+          "pull_rate_per_pack": 0.0171,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 58,
+          "master_difficulty_score": 58
         },
         {
           "rarity": "secret_rare_pokemon",
-          "pull_rate_per_pack": 0.0076
+          "pull_rate_per_pack": 0.0076,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0101
+          "pull_rate_per_pack": 0.0101,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 990,
+          "master_difficulty_score": 2900
         }
       ]
     },
@@ -1369,27 +2065,45 @@
       "rarities": [
         {
           "rarity": "rare_gx",
-          "pull_rate_per_pack": 0.1193
+          "pull_rate_per_pack": 0.1193,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 134,
+          "master_difficulty_score": 453
         },
         {
           "rarity": "ultra_rare_pokemon",
-          "pull_rate_per_pack": 0.0268
+          "pull_rate_per_pack": 0.0268,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 522,
+          "master_difficulty_score": 1699
         },
         {
           "rarity": "ultra_rare_trainer",
-          "pull_rate_per_pack": 0.0099
+          "pull_rate_per_pack": 0.0099,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 909,
+          "master_difficulty_score": 2572
         },
         {
           "rarity": "character_rare",
-          "pull_rate_per_pack": 0.1011
+          "pull_rate_per_pack": 0.1011,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 208,
+          "master_difficulty_score": 757
         },
         {
           "rarity": "rainbow_rare",
-          "pull_rate_per_pack": 0.015
+          "pull_rate_per_pack": 0.015,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 1400,
+          "master_difficulty_score": 5104
         },
         {
           "rarity": "secret_rare_trainer",
-          "pull_rate_per_pack": 0.0089
+          "pull_rate_per_pack": 0.0089,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 1573,
+          "master_difficulty_score": 5115
         }
       ]
     }
@@ -1400,19 +2114,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.142
+          "pull_rate_per_pack": 0.142,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 120,
+          "master_difficulty_score": 412
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0505
+          "pull_rate_per_pack": 0.0505,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 317,
+          "master_difficulty_score": 1071
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0089
+          "pull_rate_per_pack": 0.0089,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 449,
+          "master_difficulty_score": 936
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0193
+          "pull_rate_per_pack": 0.0193,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 725,
+          "master_difficulty_score": 2359
         }
       ]
     },
@@ -1421,19 +2147,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1265
+          "pull_rate_per_pack": 0.1265,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 126,
+          "master_difficulty_score": 428
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0643
+          "pull_rate_per_pack": 0.0643,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 327,
+          "master_difficulty_score": 1191
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0073
+          "pull_rate_per_pack": 0.0073,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 548,
+          "master_difficulty_score": 1142
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0245
+          "pull_rate_per_pack": 0.0245,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 694,
+          "master_difficulty_score": 2387
         }
       ]
     },
@@ -1442,19 +2180,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1258
+          "pull_rate_per_pack": 0.1258,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 111,
+          "master_difficulty_score": 362
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0657
+          "pull_rate_per_pack": 0.0657,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 244,
+          "master_difficulty_score": 823
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0113
+          "pull_rate_per_pack": 0.0113,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 354,
+          "master_difficulty_score": 737
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0207
+          "pull_rate_per_pack": 0.0207,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 580,
+          "master_difficulty_score": 1799
         }
       ]
     },
@@ -1463,19 +2213,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1573
+          "pull_rate_per_pack": 0.1573,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 70,
+          "master_difficulty_score": 211
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0731
+          "pull_rate_per_pack": 0.0731,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 96,
+          "master_difficulty_score": 248
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0163
+          "pull_rate_per_pack": 0.0163,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 61,
+          "master_difficulty_score": 61
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0289
+          "pull_rate_per_pack": 0.0289,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 242,
+          "master_difficulty_score": 628
         }
       ]
     },
@@ -1484,23 +2246,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.127
+          "pull_rate_per_pack": 0.127,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 87,
+          "master_difficulty_score": 262
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0727
+          "pull_rate_per_pack": 0.0727,
+          "unique_card_count": 19,
+          "individual_card_pull_rate": 261,
+          "master_difficulty_score": 927
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0099
+          "pull_rate_per_pack": 0.0099,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 707,
+          "master_difficulty_score": 1833
         },
         {
           "rarity": "amazing_rare",
-          "pull_rate_per_pack": 0.0571
+          "pull_rate_per_pack": 0.0571,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 105,
+          "master_difficulty_score": 257
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0238
+          "pull_rate_per_pack": 0.0238,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 756,
+          "master_difficulty_score": 2643
         }
       ]
     },
@@ -1509,23 +2286,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1084
+          "pull_rate_per_pack": 0.1084,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 157,
+          "master_difficulty_score": 539
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0594
+          "pull_rate_per_pack": 0.0594,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 236,
+          "master_difficulty_score": 766
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.897
+          "pull_rate_per_pack": 0.897,
+          "unique_card_count": 112,
+          "individual_card_pull_rate": 125,
+          "master_difficulty_score": 662
         },
         {
           "rarity": "amazing_rare",
-          "pull_rate_per_pack": 0.0576
+          "pull_rate_per_pack": 0.0576,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 52,
+          "master_difficulty_score": 95
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.021
+          "pull_rate_per_pack": 0.021,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 143,
+          "master_difficulty_score": 262
         }
       ]
     },
@@ -1534,23 +2326,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.111
+          "pull_rate_per_pack": 0.111,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 335
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.098
+          "pull_rate_per_pack": 0.098,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 184,
+          "master_difficulty_score": 642
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.014
+          "pull_rate_per_pack": 0.014,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 429,
+          "master_difficulty_score": 1050
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 144,
+          "master_difficulty_score": 300
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0178
+          "pull_rate_per_pack": 0.0178,
+          "unique_card_count": 20,
+          "individual_card_pull_rate": 1124,
+          "master_difficulty_score": 4042
         }
       ]
     },
@@ -1559,23 +2366,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.125
+          "pull_rate_per_pack": 0.125,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 120,
+          "master_difficulty_score": 398
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0595
+          "pull_rate_per_pack": 0.0595,
+          "unique_card_count": 24,
+          "individual_card_pull_rate": 403,
+          "master_difficulty_score": 1523
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0105
+          "pull_rate_per_pack": 0.0105,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 1238,
+          "master_difficulty_score": 3937
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 360,
+          "master_difficulty_score": 1054
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0222
+          "pull_rate_per_pack": 0.0222,
+          "unique_card_count": 35,
+          "individual_card_pull_rate": 1577,
+          "master_difficulty_score": 6538
         }
       ]
     },
@@ -1584,23 +2406,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.107
+          "pull_rate_per_pack": 0.107,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 168,
+          "master_difficulty_score": 588
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0393
+          "pull_rate_per_pack": 0.0393,
+          "unique_card_count": 37,
+          "individual_card_pull_rate": 941,
+          "master_difficulty_score": 3956
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0069
+          "pull_rate_per_pack": 0.0069,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 725,
+          "master_difficulty_score": 1655
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 396,
+          "master_difficulty_score": 1195
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0223
+          "pull_rate_per_pack": 0.0223,
+          "unique_card_count": 34,
+          "individual_card_pull_rate": 1525,
+          "master_difficulty_score": 6279
         }
       ]
     },
@@ -1609,19 +2446,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1257
+          "pull_rate_per_pack": 0.1257,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 32,
+          "master_difficulty_score": 66
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0037
+          "pull_rate_per_pack": 0.0037,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.025
+          "pull_rate_per_pack": 0.025,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 80,
+          "master_difficulty_score": 120
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.25
+          "pull_rate_per_pack": 0.25,
+          "unique_card_count": 19,
+          "individual_card_pull_rate": 76,
+          "master_difficulty_score": 270
         }
       ]
     },
@@ -1630,23 +2479,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.167
+          "pull_rate_per_pack": 0.167,
+          "unique_card_count": 19,
+          "individual_card_pull_rate": 114,
+          "master_difficulty_score": 404
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.07
+          "pull_rate_per_pack": 0.07,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 257,
+          "master_difficulty_score": 899
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.014
+          "pull_rate_per_pack": 0.014,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 500,
+          "master_difficulty_score": 1296
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 108,
+          "master_difficulty_score": 198
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0363
+          "pull_rate_per_pack": 0.0363,
+          "unique_card_count": 20,
+          "individual_card_pull_rate": 551,
+          "master_difficulty_score": 1982
         }
       ]
     },
@@ -1655,23 +2519,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1494
+          "pull_rate_per_pack": 0.1494,
+          "unique_card_count": 26,
+          "individual_card_pull_rate": 174,
+          "master_difficulty_score": 671
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0751
+          "pull_rate_per_pack": 0.0751,
+          "unique_card_count": 23,
+          "individual_card_pull_rate": 306,
+          "master_difficulty_score": 1144
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0568
+          "pull_rate_per_pack": 0.0568,
+          "unique_card_count": 23,
+          "individual_card_pull_rate": 405,
+          "master_difficulty_score": 1512
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0185
+          "pull_rate_per_pack": 0.0185,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 450
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 576,
+          "master_difficulty_score": 1946
         }
       ]
     },
@@ -1680,23 +2559,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1512
+          "pull_rate_per_pack": 0.1512,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 185,
+          "master_difficulty_score": 727
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0744
+          "pull_rate_per_pack": 0.0744,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 376,
+          "master_difficulty_score": 1478
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1066
+          "pull_rate_per_pack": 0.1066,
+          "unique_card_count": 29,
+          "individual_card_pull_rate": 272,
+          "master_difficulty_score": 1078
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0185
+          "pull_rate_per_pack": 0.0185,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 450
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0244
+          "pull_rate_per_pack": 0.0244,
+          "unique_card_count": 29,
+          "individual_card_pull_rate": 1189,
+          "master_difficulty_score": 4709
         }
       ]
     },
@@ -1705,23 +2599,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.159
+          "pull_rate_per_pack": 0.159,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 38,
+          "master_difficulty_score": 92
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0997
+          "pull_rate_per_pack": 0.0997,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 255
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0674
+          "pull_rate_per_pack": 0.0674,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 59,
+          "master_difficulty_score": 124
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0278
+          "pull_rate_per_pack": 0.0278,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": 36,
+          "master_difficulty_score": 36
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0377
+          "pull_rate_per_pack": 0.0377,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 265,
+          "master_difficulty_score": 777
         }
       ]
     },
@@ -1730,23 +2639,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1309
+          "pull_rate_per_pack": 0.1309,
+          "unique_card_count": 19,
+          "individual_card_pull_rate": 145,
+          "master_difficulty_score": 515
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.093
+          "pull_rate_per_pack": 0.093,
+          "unique_card_count": 24,
+          "individual_card_pull_rate": 258,
+          "master_difficulty_score": 974
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0963
+          "pull_rate_per_pack": 0.0963,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 291,
+          "master_difficulty_score": 1142
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0185
+          "pull_rate_per_pack": 0.0185,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 450
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.032
+          "pull_rate_per_pack": 0.032,
+          "unique_card_count": 23,
+          "individual_card_pull_rate": 719,
+          "master_difficulty_score": 2684
         }
       ]
     },
@@ -1755,23 +2679,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1295
+          "pull_rate_per_pack": 0.1295,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 170,
+          "master_difficulty_score": 627
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0895
+          "pull_rate_per_pack": 0.0895,
+          "unique_card_count": 25,
+          "individual_card_pull_rate": 279,
+          "master_difficulty_score": 1066
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1151
+          "pull_rate_per_pack": 0.1151,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 243,
+          "master_difficulty_score": 955
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0185
+          "pull_rate_per_pack": 0.0185,
+          "unique_card_count": 4,
+          "individual_card_pull_rate": 216,
+          "master_difficulty_score": 450
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0292
+          "pull_rate_per_pack": 0.0292,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 753,
+          "master_difficulty_score": 2781
         }
       ]
     },
@@ -1780,19 +2719,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1626
+          "pull_rate_per_pack": 0.1626,
+          "unique_card_count": 26,
+          "individual_card_pull_rate": 160,
+          "master_difficulty_score": 616
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.1589
+          "pull_rate_per_pack": 0.1589,
+          "unique_card_count": 34,
+          "individual_card_pull_rate": 214,
+          "master_difficulty_score": 881
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1276
+          "pull_rate_per_pack": 0.1276,
+          "unique_card_count": 52,
+          "individual_card_pull_rate": 408,
+          "master_difficulty_score": 1849
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0098
+          "pull_rate_per_pack": 0.0098,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 510,
+          "master_difficulty_score": 1165
         }
       ]
     }
@@ -1803,23 +2754,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1376
+          "pull_rate_per_pack": 0.1376,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 87,
+          "master_difficulty_score": 271
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0657
+          "pull_rate_per_pack": 0.0657,
+          "unique_card_count": 20,
+          "individual_card_pull_rate": 304,
+          "master_difficulty_score": 1095
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0767
+          "pull_rate_per_pack": 0.0767,
+          "unique_card_count": 24,
+          "individual_card_pull_rate": 313,
+          "master_difficulty_score": 1182
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0315
+          "pull_rate_per_pack": 0.0315,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 317,
+          "master_difficulty_score": 930
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0185
+          "pull_rate_per_pack": 0.0185,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 324,
+          "master_difficulty_score": 795
         }
       ]
     },
@@ -1828,23 +2794,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1372
+          "pull_rate_per_pack": 0.1372,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 124,
+          "master_difficulty_score": 426
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0664
+          "pull_rate_per_pack": 0.0664,
+          "unique_card_count": 26,
+          "individual_card_pull_rate": 392,
+          "master_difficulty_score": 1509
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.077
+          "pull_rate_per_pack": 0.077,
+          "unique_card_count": 36,
+          "individual_card_pull_rate": 468,
+          "master_difficulty_score": 1952
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0317
+          "pull_rate_per_pack": 0.0317,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 473,
+          "master_difficulty_score": 1570
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0176
+          "pull_rate_per_pack": 0.0176,
+          "unique_card_count": 9,
+          "individual_card_pull_rate": 511,
+          "master_difficulty_score": 1447
         }
       ]
     },
@@ -1853,23 +2834,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1361
+          "pull_rate_per_pack": 0.1361,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 154,
+          "master_difficulty_score": 562
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0663
+          "pull_rate_per_pack": 0.0663,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 181,
+          "master_difficulty_score": 562
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.076
+          "pull_rate_per_pack": 0.076,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 158,
+          "master_difficulty_score": 490
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0313
+          "pull_rate_per_pack": 0.0313,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 192,
+          "master_difficulty_score": 470
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0192
+          "pull_rate_per_pack": 0.0192,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 156,
+          "master_difficulty_score": 286
         }
       ]
     },
@@ -1878,23 +2874,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1328
+          "pull_rate_per_pack": 0.1328,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 280
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0644
+          "pull_rate_per_pack": 0.0644,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 248,
+          "master_difficulty_score": 840
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.085
+          "pull_rate_per_pack": 0.085,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 188,
+          "master_difficulty_score": 636
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0311
+          "pull_rate_per_pack": 0.0311,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 225,
+          "master_difficulty_score": 584
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0194
+          "pull_rate_per_pack": 0.0194,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 155,
+          "master_difficulty_score": 284
         }
       ]
     },
@@ -1903,23 +2914,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1557
+          "pull_rate_per_pack": 0.1557,
+          "unique_card_count": 20,
+          "individual_card_pull_rate": 128,
+          "master_difficulty_score": 462
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.06664
+          "pull_rate_per_pack": 0.06664,
+          "unique_card_count": 28,
+          "individual_card_pull_rate": 420,
+          "master_difficulty_score": 1650
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.077
+          "pull_rate_per_pack": 0.077,
+          "unique_card_count": 34,
+          "individual_card_pull_rate": 442,
+          "master_difficulty_score": 1818
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0211
+          "pull_rate_per_pack": 0.0211,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 711,
+          "master_difficulty_score": 2359
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0122
+          "pull_rate_per_pack": 0.0122,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 574,
+          "master_difficulty_score": 1488
         }
       ]
     },
@@ -1928,27 +2954,45 @@
       "rarities": [
         {
           "rarity": "shiny_rare",
-          "pull_rate_per_pack": 0.2544
+          "pull_rate_per_pack": 0.2544,
+          "unique_card_count": 120,
+          "individual_card_pull_rate": 472,
+          "master_difficulty_score": 2532
         },
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1589
+          "pull_rate_per_pack": 0.1589,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 63,
+          "master_difficulty_score": 184
         },
         {
           "rarity": "shiny_ultra_rare",
-          "pull_rate_per_pack": 0.0772
+          "pull_rate_per_pack": 0.0772,
+          "unique_card_count": 12,
+          "individual_card_pull_rate": 155,
+          "master_difficulty_score": 482
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0722
+          "pull_rate_per_pack": 0.0722,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 42,
+          "master_difficulty_score": 76
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0172
+          "pull_rate_per_pack": 0.0172,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 465,
+          "master_difficulty_score": 1264
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0161
+          "pull_rate_per_pack": 0.0161,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 373,
+          "master_difficulty_score": 913
         }
       ]
     },
@@ -1957,27 +3001,45 @@
       "rarities": [
         {
           "rarity": "ace_spec",
-          "pull_rate_per_pack": 0.05
+          "pull_rate_per_pack": 0.05,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1683
+          "pull_rate_per_pack": 0.1683,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 89,
+          "master_difficulty_score": 296
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0667
+          "pull_rate_per_pack": 0.0667,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 270,
+          "master_difficulty_score": 943
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0772
+          "pull_rate_per_pack": 0.0772,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 285,
+          "master_difficulty_score": 1052
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0117
+          "pull_rate_per_pack": 0.0117,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 855,
+          "master_difficulty_score": 2503
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0072
+          "pull_rate_per_pack": 0.0072,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 833,
+          "master_difficulty_score": 2042
         }
       ]
     },
@@ -1986,23 +3048,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1693
+          "pull_rate_per_pack": 0.1693,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 83,
+          "master_difficulty_score": 269
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0661
+          "pull_rate_per_pack": 0.0661,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 318,
+          "master_difficulty_score": 1158
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0773
+          "pull_rate_per_pack": 0.0773,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 272,
+          "master_difficulty_score": 990
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0117
+          "pull_rate_per_pack": 0.0117,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 940,
+          "master_difficulty_score": 2839
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0068
+          "pull_rate_per_pack": 0.0068,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 882,
+          "master_difficulty_score": 2162
         }
       ]
     },
@@ -2011,19 +3088,31 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1693
+          "pull_rate_per_pack": 0.1693,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 35,
+          "master_difficulty_score": 87
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1667
+          "pull_rate_per_pack": 0.1667,
+          "unique_card_count": 15,
+          "individual_card_pull_rate": 90,
+          "master_difficulty_score": 299
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0149
+          "pull_rate_per_pack": 0.0149,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 336,
+          "master_difficulty_score": 766
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.00694
+          "pull_rate_per_pack": 0.00694,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 720,
+          "master_difficulty_score": 1645
         }
       ]
     },
@@ -2032,23 +3121,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.169
+          "pull_rate_per_pack": 0.169,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 83,
+          "master_difficulty_score": 269
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0675
+          "pull_rate_per_pack": 0.0675,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 163,
+          "master_difficulty_score": 492
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0779
+          "pull_rate_per_pack": 0.0779,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 167,
+          "master_difficulty_score": 531
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0111
+          "pull_rate_per_pack": 0.0111,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 541,
+          "master_difficulty_score": 1324
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0073
+          "pull_rate_per_pack": 0.0073,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 411,
+          "master_difficulty_score": 753
         }
       ]
     },
@@ -2057,23 +3161,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1694
+          "pull_rate_per_pack": 0.1694,
+          "unique_card_count": 18,
+          "individual_card_pull_rate": 106,
+          "master_difficulty_score": 371
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0674
+          "pull_rate_per_pack": 0.0674,
+          "unique_card_count": 21,
+          "individual_card_pull_rate": 312,
+          "master_difficulty_score": 1136
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0767
+          "pull_rate_per_pack": 0.0767,
+          "unique_card_count": 23,
+          "individual_card_pull_rate": 300,
+          "master_difficulty_score": 1120
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0115
+          "pull_rate_per_pack": 0.0115,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 957,
+          "master_difficulty_score": 2889
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0053
+          "pull_rate_per_pack": 0.0053,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 1132,
+          "master_difficulty_score": 2774
         }
       ]
     },
@@ -2082,27 +3201,45 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1651
+          "pull_rate_per_pack": 0.1651,
+          "unique_card_count": 25,
+          "individual_card_pull_rate": 151,
+          "master_difficulty_score": 578
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0746
+          "pull_rate_per_pack": 0.0746,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 134,
+          "master_difficulty_score": 393
         },
         {
           "rarity": "master_ball_foil",
-          "pull_rate_per_pack": 0.0492
+          "pull_rate_per_pack": 0.0492,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "ace_spec",
-          "pull_rate_per_pack": 0.0468
+          "pull_rate_per_pack": 0.0468,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0222
+          "pull_rate_per_pack": 0.0222,
+          "unique_card_count": 32,
+          "individual_card_pull_rate": 1441,
+          "master_difficulty_score": 5850
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0056
+          "pull_rate_per_pack": 0.0056,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 893,
+          "master_difficulty_score": 2039
         }
       ]
     },
@@ -2111,23 +3248,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2029
+          "pull_rate_per_pack": 0.2029,
+          "unique_card_count": 16,
+          "individual_card_pull_rate": 79,
+          "master_difficulty_score": 267
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0654
+          "pull_rate_per_pack": 0.0654,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 168,
+          "master_difficulty_score": 508
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.085
+          "pull_rate_per_pack": 0.085,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 129,
+          "master_difficulty_score": 391
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0116
+          "pull_rate_per_pack": 0.0116,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 517,
+          "master_difficulty_score": 1267
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0073
+          "pull_rate_per_pack": 0.0073,
+          "unique_card_count": 3,
+          "individual_card_pull_rate": 411,
+          "master_difficulty_score": 753
         }
       ]
     },
@@ -2136,23 +3288,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.1983
+          "pull_rate_per_pack": 0.1983,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 86,
+          "master_difficulty_score": 295
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0639
+          "pull_rate_per_pack": 0.0639,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 344,
+          "master_difficulty_score": 1271
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.0829
+          "pull_rate_per_pack": 0.0829,
+          "unique_card_count": 23,
+          "individual_card_pull_rate": 277,
+          "master_difficulty_score": 1036
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0106
+          "pull_rate_per_pack": 0.0106,
+          "unique_card_count": 11,
+          "individual_card_pull_rate": 1038,
+          "master_difficulty_score": 3134
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0067
+          "pull_rate_per_pack": 0.0067,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 896,
+          "master_difficulty_score": 2194
         }
       ]
     },
@@ -2161,27 +3328,45 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2111
+          "pull_rate_per_pack": 0.2111,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 28,
+          "master_difficulty_score": 70
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0583
+          "pull_rate_per_pack": 0.0583,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 137,
+          "master_difficulty_score": 373
         },
         {
           "rarity": "master_ball_foil",
-          "pull_rate_per_pack": 0.0514
+          "pull_rate_per_pack": 0.0514,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1639
+          "pull_rate_per_pack": 0.1639,
+          "unique_card_count": 69,
+          "individual_card_pull_rate": 421,
+          "master_difficulty_score": 2029
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0125
+          "pull_rate_per_pack": 0.0125,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 560,
+          "master_difficulty_score": 1452
         },
         {
           "rarity": "black_white_rare",
-          "pull_rate_per_pack": 0.002
+          "pull_rate_per_pack": 0.002,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 1000,
+          "master_difficulty_score": 1500
         }
       ]
     },
@@ -2190,27 +3375,45 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2111
+          "pull_rate_per_pack": 0.2111,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 28,
+          "master_difficulty_score": 70
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0583
+          "pull_rate_per_pack": 0.0583,
+          "unique_card_count": 8,
+          "individual_card_pull_rate": 137,
+          "master_difficulty_score": 373
         },
         {
           "rarity": "master_ball_foil",
-          "pull_rate_per_pack": 0.0514
+          "pull_rate_per_pack": 0.0514,
+          "unique_card_count": null,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1639
+          "pull_rate_per_pack": 0.1639,
+          "unique_card_count": 70,
+          "individual_card_pull_rate": 427,
+          "master_difficulty_score": 2064
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0125
+          "pull_rate_per_pack": 0.0125,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 560,
+          "master_difficulty_score": 1452
         },
         {
           "rarity": "black_white_rare",
-          "pull_rate_per_pack": 0.002
+          "pull_rate_per_pack": 0.002,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 1000,
+          "master_difficulty_score": 1500
         }
       ]
     }
@@ -2221,23 +3424,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2091
+          "pull_rate_per_pack": 0.2091,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 140
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0823
+          "pull_rate_per_pack": 0.0823,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 267,
+          "master_difficulty_score": 987
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1089
+          "pull_rate_per_pack": 0.1089,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 202,
+          "master_difficulty_score": 746
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0099
+          "pull_rate_per_pack": 0.0099,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 1010,
+          "master_difficulty_score": 2959
         },
         {
           "rarity": "hyper_rare",
-          "pull_rate_per_pack": 0.0008
+          "pull_rate_per_pack": 0.0008,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": 2500,
+          "master_difficulty_score": 3750
         }
       ]
     },
@@ -2246,23 +3464,38 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2077
+          "pull_rate_per_pack": 0.2077,
+          "unique_card_count": 10,
+          "individual_card_pull_rate": 48,
+          "master_difficulty_score": 141
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0806
+          "pull_rate_per_pack": 0.0806,
+          "unique_card_count": 17,
+          "individual_card_pull_rate": 211,
+          "master_difficulty_score": 725
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1097
+          "pull_rate_per_pack": 0.1097,
+          "unique_card_count": 13,
+          "individual_card_pull_rate": 119,
+          "master_difficulty_score": 377
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.00125
+          "pull_rate_per_pack": 0.0125,
+          "unique_card_count": 5,
+          "individual_card_pull_rate": 4000,
+          "master_difficulty_score": 9133
         },
         {
-          "rarity": "mega_hyper_rare",
-          "pull_rate_per_pack": 0.0008
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0008,
+          "unique_card_count": 1,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         }
       ]
     },
@@ -2271,27 +3504,45 @@
       "rarities": [
         {
           "rarity": "double_rare",
-          "pull_rate_per_pack": 0.2037
+          "pull_rate_per_pack": 0.2037,
+          "unique_card_count": 39,
+          "individual_card_pull_rate": 191,
+          "master_difficulty_score": 814
         },
         {
           "rarity": "ultra_rare",
-          "pull_rate_per_pack": 0.0481
+          "pull_rate_per_pack": 0.0481,
+          "unique_card_count": 14,
+          "individual_card_pull_rate": 291,
+          "master_difficulty_score": 946
         },
         {
           "rarity": "illustration_rare",
-          "pull_rate_per_pack": 0.1125
+          "pull_rate_per_pack": 0.1125,
+          "unique_card_count": 33,
+          "individual_card_pull_rate": 293,
+          "master_difficulty_score": 1199
         },
         {
           "rarity": "special_illustration_rare",
-          "pull_rate_per_pack": 0.0144
+          "pull_rate_per_pack": 0.0144,
+          "unique_card_count": 22,
+          "individual_card_pull_rate": 1528,
+          "master_difficulty_score": 5639
         },
         {
-          "rarity": "mega_hyper_rare",
-          "pull_rate_per_pack": 0.0019
+          "rarity": "hyper_rare",
+          "pull_rate_per_pack": 0.0019,
+          "unique_card_count": 2,
+          "individual_card_pull_rate": null,
+          "master_difficulty_score": null
         },
         {
           "rarity": "mega_attack_rare",
-          "pull_rate_per_pack": 0.0347
+          "pull_rate_per_pack": 0.0347,
+          "unique_card_count": 7,
+          "individual_card_pull_rate": 202,
+          "master_difficulty_score": 523
         }
       ]
     }

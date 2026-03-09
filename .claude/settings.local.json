@@ -111,7 +111,11 @@
       "Bash(sed:*)",
       "Bash(go get:*)",
       "Bash(GOOGLE_APPLICATION_CREDENTIALS=credentials.json BQ_PROJECT=future-gadget-labs-483502 BQ_DATASET=tcg_stage go run:*)",
-      "Bash(GOOGLE_APPLICATION_CREDENTIALS=credentials.json go run:*)"
+      "Bash(GOOGLE_APPLICATION_CREDENTIALS=credentials.json go run:*)",
+      "WebFetch(domain:www.leagueoflegends.com)",
+      "WebFetch(domain:www.cardmarket.com)",
+      "WebFetch(domain:riftboundtcg.fandom.com)",
+      "WebFetch(domain:riftbound.wiki.gg)"
     ]
   }
 }

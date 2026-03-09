@@ -1,0 +1,20 @@
+{
+  "onepiecejp": {
+    "Main Series": {
+      "op01-jp": {
+        "en_set_id": "op01",
+        "release_date": "2022-07-08",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "booster-box",
+            "msrp": 0.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      }
+    }
+  }
+}

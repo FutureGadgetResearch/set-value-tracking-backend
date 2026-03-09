@@ -20,7 +20,7 @@ import (
 const defaultOutputCSV = "data/product_pricing.csv"
 
 var header = []string{
-	"snapshot_date", "tcg", "set_id", "era", "release_date",
+	"snapshot_date", "tcg", "set_id", "en_set_id", "era", "release_date",
 	"is_special_set", "is_standard_legal",
 	"product_type", "msrp", "market_price",
 	"ev", "price_change_90d",
@@ -39,6 +39,36 @@ func main() {
 		outputCSV = defaultOutputCSV
 	}
 
+	// --- Game selection ---
+	game := os.Getenv("GAME")
+	if game == "" {
+		game = "pokemon"
+	}
+	var productsPath string
+	switch game {
+	case "onepiece":
+		productsPath = "data/onepiece/products.json"
+	case "onepiecejp":
+		productsPath = "data/onepiecejp/products.json"
+	case "hololive":
+		productsPath = "data/hololive/products.json"
+	case "hololivejp":
+		productsPath = "data/hololivejp/products.json"
+	case "pokemonjp":
+		productsPath = "data/pokemonjp/products.json"
+	case "weissschwarz-en":
+		productsPath = "data/weissschwarz/products_en.json"
+	case "weissschwarz-jp":
+		productsPath = "data/weissschwarz/products_jp.json"
+	case "magic":
+		productsPath = "data/magic/products.json"
+	case "riftbound":
+		productsPath = "data/riftbound/products.json"
+	default:
+		productsPath = "data/pokemon/products_all.json"
+	}
+	fmt.Printf("game=%s  products=%s\n", game, productsPath)
+
 	// --- GCS: download input files when running in cloud mode ---
 	var gcsClient *gcs.Client
 	if bucket := os.Getenv("GCS_BUCKET"); bucket != "" {
@@ -47,8 +77,8 @@ func main() {
 		if err != nil {
 			log.Fatalf("creating gcs client: %v", err)
 		}
-		if err := gcsClient.Download(ctx, "data/pokemon/products_all.json", "data/pokemon/products_all.json"); err != nil {
-			log.Fatalf("gcs download products_all.json: %v", err)
+		if err := gcsClient.Download(ctx, productsPath, productsPath); err != nil {
+			log.Fatalf("gcs download %s: %v", productsPath, err)
 		}
 		if err := gcsClient.Download(ctx, "data/set_metrics.json", "data/set_metrics.json"); err != nil {
 			log.Fatalf("gcs download set_metrics.json: %v", err)
@@ -56,7 +86,7 @@ func main() {
 	}
 
 	// --- Products ---
-	prods, err := products.Load("data/pokemon/products_all.json")
+	prods, err := products.Load(productsPath)
 	if err != nil {
 		log.Fatalf("loading products: %v", err)
 	}
@@ -225,6 +255,7 @@ func buildRow(p products.Product, mp pricecharting.MonthlyPrice, priceByMonth ma
 	row[colIndex("snapshot_date")] = mp.SnapshotDate.Format("2006-01-02")
 	row[colIndex("tcg")] = p.TCG
 	row[colIndex("set_id")] = p.SetID
+	row[colIndex("en_set_id")] = p.EnSetID
 	row[colIndex("era")] = p.Era
 	row[colIndex("release_date")] = p.ReleaseDate
 	row[colIndex("is_special_set")] = fmt.Sprint(p.IsSpecialSet)

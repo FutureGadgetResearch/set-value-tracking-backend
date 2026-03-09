@@ -1,79 +1,85 @@
 {
-  "hololive": {
+  "hololivejp": {
     "Booster Pack": {
-      "hBP01": {
-        "release_date": "2025-07-11",
+      "hBP01-jp": {
+        "en_set_id": "hBP01",
+        "release_date": "2024-09-20",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 35.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
         ]
       },
-      "hBP02": {
-        "release_date": "2025-10-17",
+      "hBP02-jp": {
+        "en_set_id": "hBP02",
+        "release_date": "2024-12-20",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 35.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }
         ]
       },
-      "hBP03": {
+      "hBP03-jp": {
+        "en_set_id": "hBP03",
+        "release_date": "2025-02-28",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "booster-box",
+            "msrp": 35.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "hBP04-jp": {
+        "en_set_id": "hBP04",
+        "release_date": "2025-06-20",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "booster-box",
+            "msrp": 35.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "hBP05-jp": {
+        "en_set_id": "hBP05",
+        "release_date": "2025-09-19",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "booster-box",
+            "msrp": 35.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      },
+      "hBP06-jp": {
+        "en_set_id": "hBP06",
         "release_date": "2025-12-19",
         "is_special_set": false,
         "standard_legal_until": "",
         "products": [
           {
             "product_type": "booster-box",
-            "msrp": 60.00,
-            "pricecharting_url": "",
-            "tcgplayer_id": ""
-          }
-        ]
-      },
-      "hBP04": {
-        "release_date": "2026-02-20",
-        "is_special_set": false,
-        "standard_legal_until": "",
-        "products": [
-          {
-            "product_type": "booster-box",
-            "msrp": 60.00,
-            "pricecharting_url": "",
-            "tcgplayer_id": ""
-          }
-        ]
-      },
-      "hBP05": {
-        "release_date": "2026-04-17",
-        "is_special_set": false,
-        "standard_legal_until": "",
-        "products": [
-          {
-            "product_type": "booster-box",
-            "msrp": 60.00,
-            "pricecharting_url": "",
-            "tcgplayer_id": ""
-          }
-        ]
-      },
-      "hBP06": {
-        "release_date": "2026-06-19",
-        "is_special_set": false,
-        "standard_legal_until": "",
-        "products": [
-          {
-            "product_type": "booster-box",
-            "msrp": 60.00,
+            "msrp": 35.00,
             "pricecharting_url": "",
             "tcgplayer_id": ""
           }

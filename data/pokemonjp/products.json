@@ -1,0 +1,20 @@
+{
+  "pokemonjp": {
+    "Scarlet & Violet": {
+      "sv1-jp": {
+        "en_set_id": "sv01",
+        "release_date": "2023-01-20",
+        "is_special_set": false,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "booster-box",
+            "msrp": 0.00,
+            "pricecharting_url": "",
+            "tcgplayer_id": ""
+          }
+        ]
+      }
+    }
+  }
+}
