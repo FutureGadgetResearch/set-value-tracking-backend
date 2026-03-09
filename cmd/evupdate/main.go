@@ -146,7 +146,7 @@ func main() {
 			log.Fatalf("querying existing card month pairs for %s: %v", contents.SetID, err)
 		}
 		fmt.Printf("found %d existing (card_id, month) pairs in %s for %s\n", len(existingCard), tableCard, contents.SetID)
-		if err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates); err != nil {
+		if err := processSet(ctx, bqClient, tableSet, tableCard, existingSet, existingCard, contents, pullRates, game); err != nil {
 			log.Printf("ERROR processing %s: %v", contents.SetID, err)
 		}
 	}
@@ -159,6 +159,7 @@ func processSet(
 	existingSet, existingCard map[string]bool,
 	contents setdata.SetContents,
 	pullRates *setdata.PullRates,
+	game string,
 ) error {
 	// ── Phase 1: scrape price history for every card ──────────────────────────
 	byMonth := make(map[string]map[string]*ev.CardPrice)
@@ -240,7 +241,7 @@ func processSet(
 				skippedCard++
 				continue
 			}
-			cardRows = append(cardRows, cardMarketRows(contents.SetID, date, cp)...)
+			cardRows = append(cardRows, cardMarketRows(game, contents.SetID, date, cp)...)
 			insertedCard++
 		}
 	}
@@ -267,7 +268,7 @@ func processSet(
 }
 
 // cardMarketRows expands one CardPrice into one row per grade with a price.
-func cardMarketRows(setID string, date civil.Date, cp ev.CardPrice) []internalbq.CardMarketRow {
+func cardMarketRows(game, setID string, date civil.Date, cp ev.CardPrice) []internalbq.CardMarketRow {
 	cardID := fmt.Sprintf("%s_%s_%s", game, setID, cp.Number)
 
 	rows := []internalbq.CardMarketRow{{
