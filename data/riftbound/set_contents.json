@@ -89,18 +89,18 @@
         { "number": "305", "name": "Yasuo - Unforgiven (Overnumbered)", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/yasuo-unforgiven-305" },
         { "number": "310", "name": "Sett - The Boss (Overnumbered)", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/sett-the-boss-310" },
 
-        { "number": "299", "name": "Kai'Sa - Daughter of the Void (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/kai'sa-daughter-of-the-void-signature-299" },
-        { "number": "300", "name": "Volibear - Relentless Storm (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/volibear-relentless-storm-signature-300" },
-        { "number": "301", "name": "Jinx - Loose Cannon (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/jinx-loose-cannon-signature-301" },
-        { "number": "302", "name": "Darius - Hand of Noxus (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/darius-hand-of-noxus-signature-302" },
-        { "number": "303", "name": "Ahri - Nine-Tailed Fox (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/ahri-nine-tailed-fox-signature-303" },
-        { "number": "304", "name": "Lee Sin - Blind Monk (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/lee-sin-blind-monk-signature-304" },
-        { "number": "309", "name": "Miss Fortune - Bounty Hunter (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/miss-fortune-bounty-hunter-signature-309" },
-        { "number": "306", "name": "Leona - Radiant Dawn (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/leona-radiant-dawn-signature-306" },
-        { "number": "307", "name": "Teemo - Swift Scout (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/teemo-swift-scout-signature-307" },
-        { "number": "308", "name": "Viktor - Herald of the Arcane (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/viktor-herald-of-the-arcane-signature-308" },
-        { "number": "305", "name": "Yasuo - Unforgiven (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/yasuo-unforgiven-signature-305" },
-        { "number": "310", "name": "Sett - The Boss (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/sett-the-boss-signature-310" }
+        { "number": "299s", "name": "Kai'Sa - Daughter of the Void (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/kai'sa-daughter-of-the-void-signature-299" },
+        { "number": "300s", "name": "Volibear - Relentless Storm (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/volibear-relentless-storm-signature-300" },
+        { "number": "301s", "name": "Jinx - Loose Cannon (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/jinx-loose-cannon-signature-301" },
+        { "number": "302s", "name": "Darius - Hand of Noxus (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/darius-hand-of-noxus-signature-302" },
+        { "number": "303s", "name": "Ahri - Nine-Tailed Fox (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/ahri-nine-tailed-fox-signature-303" },
+        { "number": "304s", "name": "Lee Sin - Blind Monk (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/lee-sin-blind-monk-signature-304" },
+        { "number": "309s", "name": "Miss Fortune - Bounty Hunter (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/miss-fortune-bounty-hunter-signature-309" },
+        { "number": "306s", "name": "Leona - Radiant Dawn (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/leona-radiant-dawn-signature-306" },
+        { "number": "307s", "name": "Teemo - Swift Scout (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/teemo-swift-scout-signature-307" },
+        { "number": "308s", "name": "Viktor - Herald of the Arcane (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/viktor-herald-of-the-arcane-signature-308" },
+        { "number": "305s", "name": "Yasuo - Unforgiven (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/yasuo-unforgiven-signature-305" },
+        { "number": "310s", "name": "Sett - The Boss (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-origins/sett-the-boss-signature-310" }
       ]
     },
     "rb02": {
@@ -202,18 +202,18 @@
         { "number": "250", "name": "Sivir - Battle Mistress", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/sivir-battle-mistress-250" },
         { "number": "251", "name": "Fiora - Grand Duelist", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/fiora-grand-duelist-251" },
 
-        { "number": "223", "name": "Vayne - Hunter", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/vayne-hunter-signature-223" },
-        { "number": "224", "name": "Aphelios - Exalted", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/aphelios-exalted-signature-224" },
-        { "number": "225", "name": "Irelia - Fervent", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/irelia-fervent-signature-225" },
-        { "number": "227", "name": "Ahri - Inquisitive", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/ahri-inquisitive-signature-227" },
-        { "number": "228", "name": "Bard - Mercurial", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/bard-mercurial-signature-228" },
-        { "number": "230", "name": "Teemo - Strategist", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/teemo-strategist-signature-230" },
-        { "number": "232", "name": "Sett - Brawler", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/sett-brawler-signature-232" },
-        { "number": "233", "name": "Yone - Blademaster", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/yone-blademaster-signature-233" },
-        { "number": "235", "name": "Yasuo - Windrider", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/yasuo-windrider-signature-235" },
-        { "number": "236", "name": "Darius - Executioner", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/darius-executioner-signature-236" },
-        { "number": "237", "name": "Karma - Channeler", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/karma-channeler-signature-237" },
-        { "number": "239", "name": "Soraka - Wanderer", "rarity": "overnumbered", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/soraka-wanderer-signature-239" }
+        { "number": "223s", "name": "Vayne - Hunter (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/vayne-hunter-signature-223" },
+        { "number": "224s", "name": "Aphelios - Exalted (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/aphelios-exalted-signature-224" },
+        { "number": "225s", "name": "Irelia - Fervent (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/irelia-fervent-signature-225" },
+        { "number": "227s", "name": "Ahri - Inquisitive (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/ahri-inquisitive-signature-227" },
+        { "number": "228s", "name": "Bard - Mercurial (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/bard-mercurial-signature-228" },
+        { "number": "230s", "name": "Teemo - Strategist (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/teemo-strategist-signature-230" },
+        { "number": "232s", "name": "Sett - Brawler (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/sett-brawler-signature-232" },
+        { "number": "233s", "name": "Yone - Blademaster (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/yone-blademaster-signature-233" },
+        { "number": "235s", "name": "Yasuo - Windrider (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/yasuo-windrider-signature-235" },
+        { "number": "236s", "name": "Darius - Executioner (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/darius-executioner-signature-236" },
+        { "number": "237s", "name": "Karma - Channeler (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/karma-channeler-signature-237" },
+        { "number": "239s", "name": "Soraka - Wanderer (Signature)", "rarity": "signature_overnumber", "pricecharting_url": "https://www.pricecharting.com/game/riftbound-spiritforged/soraka-wanderer-signature-239" }
       ]
     }
   }

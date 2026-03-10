@@ -33,3 +33,5 @@ credentials.json
 # Editor/IDE
 # .idea/
 # .vscode/
+
+.claude/
