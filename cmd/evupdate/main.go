@@ -455,20 +455,49 @@ func monthToDate(month string) civil.Date {
 }
 
 func scrapeRegularCard(card setdata.Card, byMonth map[string]map[string]*ev.CardPrice) {
-	prices, err := pricecharting.Scrape(card.PricechartingURL)
-	if err != nil {
-		log.Printf("  WARN scrape failed: %v", err)
-		return
+	type monthlyPrice struct {
+		snapshotDate time.Time
+		priceUSD     float64
 	}
-	fmt.Printf("  %d monthly price(s)\n", len(prices))
+	var prices []monthlyPrice
+
+	if card.PricechartingURL != "" {
+		pcPrices, err := pricecharting.Scrape(card.PricechartingURL)
+		if err != nil {
+			log.Printf("  WARN pricecharting scrape failed: %v", err)
+			if card.TCGPlayerID == "" {
+				return
+			}
+			log.Printf("  falling back to TCGPlayer for %s", card.Number)
+		} else {
+			for _, mp := range pcPrices {
+				prices = append(prices, monthlyPrice{mp.SnapshotDate, mp.PriceUSD})
+			}
+		}
+	}
+
+	if len(prices) == 0 && card.TCGPlayerID != "" {
+		tcgPrices, err := tcgplayer.ScrapeCardMonthlyPrices(card.TCGPlayerID)
+		if err != nil {
+			log.Printf("  WARN tcgplayer fallback failed: %v", err)
+			return
+		}
+		for _, mp := range tcgPrices {
+			prices = append(prices, monthlyPrice{mp.SnapshotDate, mp.PriceUSD})
+		}
+		fmt.Printf("  %d monthly price(s) from TCGPlayer fallback\n", len(prices))
+	} else {
+		fmt.Printf("  %d monthly price(s)\n", len(prices))
+	}
+
 	for _, mp := range prices {
-		key := mp.SnapshotDate.Format("2006-01")
+		key := mp.snapshotDate.Format("2006-01")
 		ensureMonth(byMonth, key)
 		byMonth[key][card.Number] = &ev.CardPrice{
 			Number:   card.Number,
 			Name:     card.Name,
 			Rarity:   card.Rarity,
-			PriceUSD: mp.PriceUSD,
+			PriceUSD: mp.priceUSD,
 		}
 	}
 }

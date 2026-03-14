@@ -11,6 +11,7 @@ type Card struct {
 	Name             string `json:"name"`
 	Rarity           string `json:"rarity"`
 	PricechartingURL string `json:"pricecharting_url"`
+	TCGPlayerID      string `json:"tcgplayer_id,omitempty"`
 }
 
 type SetContents struct {

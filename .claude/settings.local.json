@@ -115,7 +115,11 @@
       "WebFetch(domain:www.leagueoflegends.com)",
       "WebFetch(domain:www.cardmarket.com)",
       "WebFetch(domain:riftboundtcg.fandom.com)",
-      "WebFetch(domain:riftbound.wiki.gg)"
+      "WebFetch(domain:riftbound.wiki.gg)",
+      "Bash(bq query:*)",
+      "Bash(gcloud auth:*)",
+      "Bash(GAME=riftbound go run ./cmd/evupdate -set rb-promo-arcane 2>&1)",
+      "Bash(echo:*)"
     ]
   }
 }

@@ -1,4 +1,18 @@
 {
+  "Promo": {
+    "rb-promo-arcane": {
+      "set_name": "Arcane Box Set",
+      "rarities": [
+        {
+          "rarity": "alt_art",
+          "pull_rate_per_pack": 6.0,
+          "unique_card_count": 6,
+          "individual_card_pull_rate": 1,
+          "master_difficulty_score": 2
+        }
+      ]
+    }
+  },
   "Launch": {
     "rb01": {
       "set_name": "Origins",

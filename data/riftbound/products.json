@@ -64,6 +64,22 @@
           }
         ]
       }
+    },
+    "Promo": {
+      "rb-promo-arcane": {
+        "release_date": "2025-11-22",
+        "is_special_set": true,
+        "standard_legal_until": "",
+        "products": [
+          {
+            "product_type": "box-set",
+            "msrp": 0.00,
+            "packs_per_product": 1,
+            "pricecharting_url": "https://www.pricecharting.com/game/riftbound-promo/arcane-box-set",
+            "tcgplayer_id": "655495"
+          }
+        ]
+      }
     }
   }
 }

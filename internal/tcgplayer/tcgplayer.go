@@ -24,6 +24,29 @@ type CurrentMetrics struct {
 	SellerCount    int     // unique sellers (from price-points__lower__right-padding)
 }
 
+// MonthlyPrice is a price snapshot for a single calendar month, used when
+// falling back to TCGPlayer for cards that have no PriceCharting URL.
+type MonthlyPrice struct {
+	SnapshotDate time.Time
+	PriceUSD     float64
+}
+
+// ScrapeCardMonthlyPrices fetches the current market price for an individual
+// card from TCGPlayer's pricepoints API and returns it as a single monthly
+// price entry dated the 15th of the current month.
+//
+// This is used as a fallback when a card has no PriceCharting URL. Over time,
+// monthly runs of evupdate will accumulate a price history in BigQuery.
+func ScrapeCardMonthlyPrices(productID string) ([]MonthlyPrice, error) {
+	price, err := fetchMedianAskPrice(productID)
+	if err != nil {
+		return nil, err
+	}
+	now := time.Now().UTC()
+	snapshotDate := time.Date(now.Year(), now.Month(), 15, 0, 0, 0, 0, time.UTC)
+	return []MonthlyPrice{{SnapshotDate: snapshotDate, PriceUSD: price}}, nil
+}
+
 // ScrapeCurrentMetrics fetches current listing metrics from TCGPlayer for the
 // given product ID. Only the most recent snapshot row should use this.
 func ScrapeCurrentMetrics(productID string) (CurrentMetrics, error) {

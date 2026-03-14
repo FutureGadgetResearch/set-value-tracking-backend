@@ -1,4 +1,16 @@
 {
+  "Promo": {
+    "rb-promo-arcane": {
+      "cards": [
+        { "number": "P001", "name": "Arcane Box Set Promo 1 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678049" },
+        { "number": "P002", "name": "Arcane Box Set Promo 2 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678050" },
+        { "number": "P003", "name": "Arcane Box Set Promo 3 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678051" },
+        { "number": "P004", "name": "Arcane Box Set Promo 4 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678052" },
+        { "number": "P005", "name": "Arcane Box Set Promo 5 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678053" },
+        { "number": "P006", "name": "Arcane Box Set Promo 6 (update name)", "rarity": "alt_art", "pricecharting_url": "", "tcgplayer_id": "678054" }
+      ]
+    }
+  },
   "Launch": {
     "rb01": {
       "cards": [
